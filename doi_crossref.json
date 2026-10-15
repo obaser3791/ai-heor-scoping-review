@@ -1,0 +1,4706 @@
+{
+ "generated": "2026-09-09 14:34:46 UTC",
+ "api": "https://api.crossref.org/works/{doi}",
+ "n_candidates": 173,
+ "n_verified": 172,
+ "n_not_found": 1,
+ "n_error": 0,
+ "records": {
+  "10.1001/jama.2020.1166": {
+   "status": "verified",
+   "title": "Estimated Research and Development Investment Needed to Bring a New Medicine to Market, 2009-2018",
+   "container": "JAMA",
+   "short_container": "JAMA",
+   "year": 2020,
+   "volume": "323",
+   "issue": "9",
+   "page": "844",
+   "article_number": "",
+   "publisher": "American Medical Association (AMA)",
+   "type": "journal-article",
+   "authors": [
+    "Wouters Olivier J.",
+    "McKee Martin",
+    "Luyten Jeroen"
+   ],
+   "n_authors": 3,
+   "is_referenced_by_count": 1392,
+   "url": "https://doi.org/10.1001/jama.2020.1166",
+   "sources": [
+    "research_trends.md"
+   ]
+  },
+  "10.1001/jama.2022.14317": {
+   "status": "verified",
+   "title": "Errors in Source Data for Study of Drug Development Costs",
+   "container": "JAMA",
+   "short_container": "JAMA",
+   "year": 2022,
+   "volume": "328",
+   "issue": "11",
+   "page": "1110",
+   "article_number": "",
+   "publisher": "American Medical Association (AMA)",
+   "type": "journal-article",
+   "authors": [
+    "Wouters Olivier J.",
+    "McKee Martin",
+    "Luyten Jeroen"
+   ],
+   "n_authors": 3,
+   "is_referenced_by_count": 6,
+   "url": "https://doi.org/10.1001/jama.2022.14317",
+   "sources": [
+    "research_trends.md"
+   ]
+  },
+  "10.1001/jama.2022.14733": {
+   "status": "verified",
+   "title": "Error in Data in Study of Estimated Cost of Bringing a Drug to Market",
+   "container": "JAMA",
+   "short_container": "JAMA",
+   "year": 2022,
+   "volume": "328",
+   "issue": "11",
+   "page": "1111",
+   "article_number": "",
+   "publisher": "American Medical Association (AMA)",
+   "type": "journal-article",
+   "authors": [],
+   "n_authors": 0,
+   "is_referenced_by_count": 1,
+   "url": "https://doi.org/10.1001/jama.2022.14733",
+   "sources": [
+    "research_trends.md"
+   ]
+  },
+  "10.1001/jama.2023.22295": {
+   "status": "verified",
+   "title": "Measuring the Impact of AI in the Diagnosis of Hospitalized Patients",
+   "container": "JAMA",
+   "short_container": "JAMA",
+   "year": 2023,
+   "volume": "330",
+   "issue": "23",
+   "page": "2275",
+   "article_number": "",
+   "publisher": "American Medical Association (AMA)",
+   "type": "journal-article",
+   "authors": [
+    "Jabbour Sarah",
+    "Fouhey David",
+    "Shepard Stephanie",
+    "Valley Thomas S.",
+    "Kazerooni Ella A.",
+    "Banovic Nikola",
+    "Wiens Jenna",
+    "Sjoding Michael W."
+   ],
+   "n_authors": 8,
+   "is_referenced_by_count": 218,
+   "url": "https://doi.org/10.1001/jama.2023.22295",
+   "sources": [
+    "research_trends.md"
+   ]
+  },
+  "10.1001/jamainternmed.2021.2626": {
+   "status": "verified",
+   "title": "External Validation of a Widely Implemented Proprietary Sepsis Prediction Model in Hospitalized Patients",
+   "container": "JAMA Internal Medicine",
+   "short_container": "JAMA Intern Med",
+   "year": 2021,
+   "volume": "181",
+   "issue": "8",
+   "page": "1065",
+   "article_number": "",
+   "publisher": "American Medical Association (AMA)",
+   "type": "journal-article",
+   "authors": [
+    "Wong Andrew",
+    "Otles Erkin",
+    "Donnelly John P.",
+    "Krumm Andrew",
+    "McCullough Jeffrey",
+    "DeTroyer-Cooley Olivia",
+    "Pestrue Justin",
+    "Phillips Marie",
+    "Konye Judy",
+    "Penoza Carleen",
+    "Ghous Muhammad",
+    "Singh Karandeep"
+   ],
+   "n_authors": 12,
+   "is_referenced_by_count": 895,
+   "url": "https://doi.org/10.1001/jamainternmed.2021.2626",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1001/jamanetworkopen.2024.40969": {
+   "status": "verified",
+   "title": "Large Language Model Influence on Diagnostic Reasoning",
+   "container": "JAMA Network Open",
+   "short_container": "JAMA Netw Open",
+   "year": 2024,
+   "volume": "7",
+   "issue": "10",
+   "page": "e2440969",
+   "article_number": "",
+   "publisher": "American Medical Association (AMA)",
+   "type": "journal-article",
+   "authors": [
+    "Goh Ethan",
+    "Gallo Robert",
+    "Hom Jason",
+    "Strong Eric",
+    "Weng Yingjie",
+    "Kerman Hannah",
+    "Cool Jos\u00e9phine A.",
+    "Kanjee Zahir",
+    "Parsons Andrew S.",
+    "Ahuja Neera",
+    "Horvitz Eric",
+    "Yang Daniel"
+   ],
+   "n_authors": 16,
+   "is_referenced_by_count": 681,
+   "url": "https://doi.org/10.1001/jamanetworkopen.2024.40969",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.1001/jamanetworkopen.2025.0128": {
+   "status": "verified",
+   "title": "Implementing Accuracy, Completeness, and Traceability for Data Reliability",
+   "container": "JAMA Network Open",
+   "short_container": "JAMA Netw Open",
+   "year": 2025,
+   "volume": "8",
+   "issue": "3",
+   "page": "e250128",
+   "article_number": "",
+   "publisher": "American Medical Association (AMA)",
+   "type": "journal-article",
+   "authors": [
+    "Riskin Daniel Jay",
+    "Monda Keri L.",
+    "Gagne Joshua J.",
+    "Reynolds Robert",
+    "Garan A. Reshad",
+    "Dreyer Nancy",
+    "Muntner Paul",
+    "Bradbury Brian D."
+   ],
+   "n_authors": 8,
+   "is_referenced_by_count": 21,
+   "url": "https://doi.org/10.1001/jamanetworkopen.2025.0128",
+   "sources": [
+    "research_pharma.md"
+   ]
+  },
+  "10.1002/cpt.2668": {
+   "status": "verified",
+   "title": "Landscape Analysis of the Application of Artificial Intelligence and Machine Learning in Regulatory Submissions for Drug Development From 2016 to 2021",
+   "container": "Clinical Pharmacology &amp; Therapeutics",
+   "short_container": "Clin Pharma and Therapeutics",
+   "year": 2022,
+   "volume": "113",
+   "issue": "4",
+   "page": "771-774",
+   "article_number": "",
+   "publisher": "Wiley",
+   "type": "journal-article",
+   "authors": [
+    "Liu Qi",
+    "Huang Ruihao",
+    "Hsieh Julie",
+    "Zhu Hao",
+    "Tiwari Mo",
+    "Liu Guansheng",
+    "Jean Daphney",
+    "ElZarrad M. Khair",
+    "Fakhouri Tala",
+    "Berman Steven",
+    "Dunn Billy",
+    "Diamond Matthew C."
+   ],
+   "n_authors": 13,
+   "is_referenced_by_count": 78,
+   "url": "https://doi.org/10.1002/cpt.2668",
+   "sources": [
+    "research_pharma.md",
+    "research_regulatory.md"
+   ]
+  },
+  "10.1002/cpt.3152": {
+   "status": "verified",
+   "title": "Current Status and Future Directions: The Application of Artificial Intelligence/Machine Learning for Precision Medicine",
+   "container": "Clinical Pharmacology &amp; Therapeutics",
+   "short_container": "Clin Pharma and Therapeutics",
+   "year": 2024,
+   "volume": "115",
+   "issue": "4",
+   "page": "673-686",
+   "article_number": "",
+   "publisher": "Wiley",
+   "type": "journal-article",
+   "authors": [
+    "Naik Kunal",
+    "Goyal Rahul K.",
+    "Foschini Luca",
+    "Chak Choi Wai",
+    "Thielscher Christian",
+    "Zhu Hao",
+    "Lu James",
+    "Leh\u00e1r Joseph",
+    "Pacanoswki Michael A.",
+    "Terranova Nadia",
+    "Mehta Neha",
+    "Korsbo Niklas"
+   ],
+   "n_authors": 15,
+   "is_referenced_by_count": 77,
+   "url": "https://doi.org/10.1002/cpt.3152",
+   "sources": [
+    "research_regulatory.md"
+   ]
+  },
+  "10.1002/cpt.3542": {
+   "status": "verified",
+   "title": "Progress, Pitfalls, and Impact of\n                    <scp>AI</scp>\n                    \u2010Driven Clinical Trials",
+   "container": "Clinical Pharmacology &amp; Therapeutics",
+   "short_container": "Clin Pharma and Therapeutics",
+   "year": 2024,
+   "volume": "117",
+   "issue": "4",
+   "page": "887-890",
+   "article_number": "",
+   "publisher": "Wiley",
+   "type": "journal-article",
+   "authors": [
+    "Wilczok Dominika",
+    "Zhavoronkov Alex"
+   ],
+   "n_authors": 2,
+   "is_referenced_by_count": 23,
+   "url": "https://doi.org/10.1002/cpt.3542",
+   "sources": [
+    "research_trends.md"
+   ]
+  },
+  "10.1002/hec.4263": {
+   "status": "verified",
+   "title": "Using causal forests to assess heterogeneity in cost\u2010effectiveness analysis",
+   "container": "Health Economics",
+   "short_container": "Health Economics",
+   "year": 2021,
+   "volume": "30",
+   "issue": "8",
+   "page": "1818-1832",
+   "article_number": "",
+   "publisher": "Wiley",
+   "type": "journal-article",
+   "authors": [
+    "Bonander Carl",
+    "Svensson Mikael"
+   ],
+   "n_authors": 2,
+   "is_referenced_by_count": 29,
+   "url": "https://doi.org/10.1002/hec.4263",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1002/hec.4834": {
+   "status": "verified",
+   "title": "Integrating decision modeling and machine learning to inform treatment stratification",
+   "container": "Health Economics",
+   "short_container": "Health Economics",
+   "year": 2024,
+   "volume": "33",
+   "issue": "8",
+   "page": "1772-1792",
+   "article_number": "",
+   "publisher": "Wiley",
+   "type": "journal-article",
+   "authors": [
+    "Glynn David",
+    "Giardina John",
+    "Hatamyar Julia",
+    "Pandya Ankur",
+    "Soares Marta",
+    "Kreif Noemi"
+   ],
+   "n_authors": 6,
+   "is_referenced_by_count": 8,
+   "url": "https://doi.org/10.1002/hec.4834",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.1002/hsr2.72066": {
+   "status": "verified",
+   "title": "Artificial Intelligence in Public Health Education: A Scoping Review of Workforce Competency Development",
+   "container": "Health Science Reports",
+   "short_container": "Health Science Reports",
+   "year": 2026,
+   "volume": "9",
+   "issue": "3",
+   "page": "",
+   "article_number": "e72066",
+   "publisher": "Wiley",
+   "type": "journal-article",
+   "authors": [
+    "Semi Mst Masuma Akter",
+    "Das Srabani",
+    "Utsho Mashuk Rahman",
+    "Hossain Adib",
+    "Kamal Md Bayzid",
+    "Sizan Arif Ahmed",
+    "Tasnim Afia Fairooz",
+    "Yeasmin Sumaiya",
+    "Parvin Mst. Rina"
+   ],
+   "n_authors": 9,
+   "is_referenced_by_count": 3,
+   "url": "https://doi.org/10.1002/hsr2.72066",
+   "sources": [
+    "research_trends.md"
+   ]
+  },
+  "10.1002/jrsm.1537": {
+   "status": "verified",
+   "title": "Applying machine classifiers to update searches: Analysis from two case studies",
+   "container": "Research Synthesis Methods",
+   "short_container": "Research Synthesis Methods",
+   "year": 2021,
+   "volume": "13",
+   "issue": "1",
+   "page": "121-133",
+   "article_number": "",
+   "publisher": "Wiley",
+   "type": "journal-article",
+   "authors": [
+    "Stansfield Claire",
+    "Stokes Gillian",
+    "Thomas James"
+   ],
+   "n_authors": 3,
+   "is_referenced_by_count": 25,
+   "url": "https://doi.org/10.1002/jrsm.1537",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1002/jrsm.1589": {
+   "status": "verified",
+   "title": "In\u2010depth evaluation of machine learning methods for semi\u2010automating article screening in a systematic review of mechanistic literature",
+   "container": "Research Synthesis Methods",
+   "short_container": "Research Synthesis Methods",
+   "year": 2022,
+   "volume": "14",
+   "issue": "2",
+   "page": "156-172",
+   "article_number": "",
+   "publisher": "Wiley",
+   "type": "journal-article",
+   "authors": [
+    "Kebede Mihiretu M.",
+    "Le Cornet Charlotte",
+    "Fortner Ren\u00e9e Turzanski"
+   ],
+   "n_authors": 3,
+   "is_referenced_by_count": 52,
+   "url": "https://doi.org/10.1002/jrsm.1589",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1002/jrsm.1710": {
+   "status": "verified",
+   "title": "Data extraction for evidence synthesis using a large language model: A proof\u2010of\u2010concept study",
+   "container": "Research Synthesis Methods",
+   "short_container": "Research Synthesis Methods",
+   "year": 2024,
+   "volume": "15",
+   "issue": "4",
+   "page": "576-589",
+   "article_number": "",
+   "publisher": "Wiley",
+   "type": "journal-article",
+   "authors": [
+    "Gartlehner Gerald",
+    "Kahwati Leila",
+    "Hilscher Rainer",
+    "Thomas Ian",
+    "Kugley Shannon",
+    "Crotty Karen",
+    "Viswanathan Meera",
+    "Nussbaumer\u2010Streit Barbara",
+    "Booth Graham",
+    "Erskine Nathaniel",
+    "Konet Amanda",
+    "Chew Robert"
+   ],
+   "n_authors": 12,
+   "is_referenced_by_count": 165,
+   "url": "https://doi.org/10.1002/jrsm.1710",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1002/jrsm.1715": {
+   "status": "verified",
+   "title": "Can large language models replace humans in systematic reviews? Evaluating\n                    <scp>GPT</scp>\n                    \u20104's efficacy in screening and extracting data from peer\u2010reviewed and grey literature in multiple languages",
+   "container": "Research Synthesis Methods",
+   "short_container": "Research Synthesis Methods",
+   "year": 2024,
+   "volume": "15",
+   "issue": "4",
+   "page": "616-626",
+   "article_number": "",
+   "publisher": "Wiley",
+   "type": "journal-article",
+   "authors": [
+    "Khraisha Qusai",
+    "Put Sophie",
+    "Kappenberg Johanna",
+    "Warraitch Azza",
+    "Hadfield Kristin"
+   ],
+   "n_authors": 5,
+   "is_referenced_by_count": 249,
+   "url": "https://doi.org/10.1002/jrsm.1715",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1002/pds.5403": {
+   "status": "verified",
+   "title": "A comparison of confounder selection and adjustment methods for estimating causal effects using large healthcare databases",
+   "container": "Pharmacoepidemiology and Drug Safety",
+   "short_container": "Pharmacoepidemiology and Drug",
+   "year": 2022,
+   "volume": "31",
+   "issue": "4",
+   "page": "424-433",
+   "article_number": "",
+   "publisher": "Wiley",
+   "type": "journal-article",
+   "authors": [
+    "Benasseur Imane",
+    "Talbot Denis",
+    "Durand Madeleine",
+    "Holbrook Anne",
+    "Matteau Alexis",
+    "Potter Brian J.",
+    "Renoux Christel",
+    "Schnitzer Mireille E.",
+    "Tarride Jean\u2010\u00c9ric",
+    "Guertin Jason R."
+   ],
+   "n_authors": 10,
+   "is_referenced_by_count": 16,
+   "url": "https://doi.org/10.1002/pds.5403",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1002/trc2.70181": {
+   "status": "verified",
+   "title": "Using AI\u2010generated digital twins to boost clinical trial efficiency in Alzheimer's disease",
+   "container": "Alzheimer's &amp; Dementia: Translational Research &amp; Clinical Interventions",
+   "short_container": "A&amp;amp;D Transl Res &amp;amp; Clin Interv",
+   "year": 2025,
+   "volume": "11",
+   "issue": "4",
+   "page": "",
+   "article_number": "e70181",
+   "publisher": "Wiley",
+   "type": "journal-article",
+   "authors": [
+    "Wang Deli",
+    "Florian Hana",
+    "Lynch Shau\u2010Yu",
+    "Robieson Weining",
+    "Zhuang Run",
+    "Kusiak Coco",
+    "Ross Jessica L.",
+    "Walsh Jonathan R.",
+    "Graff Ole"
+   ],
+   "n_authors": 9,
+   "is_referenced_by_count": 6,
+   "url": "https://doi.org/10.1002/trc2.70181",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1007/s00228-016-2118-x": {
+   "status": "verified",
+   "title": "Performance of the high-dimensional propensity score in adjusting for unmeasured confounders",
+   "container": "European Journal of Clinical Pharmacology",
+   "short_container": "Eur J Clin Pharmacol",
+   "year": 2016,
+   "volume": "72",
+   "issue": "12",
+   "page": "1497-1505",
+   "article_number": "",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Guertin Jason R",
+    "Rahme Elham",
+    "LeLorier Jacques"
+   ],
+   "n_authors": 3,
+   "is_referenced_by_count": 38,
+   "url": "https://doi.org/10.1007/s00228-016-2118-x",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1007/s10654-025-01217-w": {
+   "status": "verified",
+   "title": "When, why and how are estimated effects transported between populations? A scoping review of studies applying transportability methods",
+   "container": "European Journal of Epidemiology",
+   "short_container": "Eur J Epidemiol",
+   "year": 2025,
+   "volume": "40",
+   "issue": "3",
+   "page": "255-273",
+   "article_number": "",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Manke-Reimers Fabian",
+    "Brugger Vincent",
+    "B\u00e4rnighausen Till",
+    "Kohler Stefan"
+   ],
+   "n_authors": 4,
+   "is_referenced_by_count": 8,
+   "url": "https://doi.org/10.1007/s10654-025-01217-w",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.1007/s12325-021-01659-0": {
+   "status": "verified",
+   "title": "Characterization of a Real-World Response Variable and Comparison with RECIST-Based Response Rates from Clinical Trials in Advanced NSCLC",
+   "container": "Advances in Therapy",
+   "short_container": "Adv Ther",
+   "year": 2021,
+   "volume": "38",
+   "issue": "4",
+   "page": "1843-1859",
+   "article_number": "",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Ma Xinran",
+    "Bellomo Lawrence",
+    "Magee Kelly",
+    "Bennette Caroline S.",
+    "Tymejczyk Olga",
+    "Samant Meghna",
+    "Tucker Melisa",
+    "Nussbaum Nathan",
+    "Bowser Bryan E.",
+    "Kraut Joshua S.",
+    "Bourla Ariel Bulua"
+   ],
+   "n_authors": 11,
+   "is_referenced_by_count": 46,
+   "url": "https://doi.org/10.1007/s12325-021-01659-0",
+   "sources": [
+    "research_pharma.md"
+   ]
+  },
+  "10.1007/s12325-025-03273-w": {
+   "status": "verified",
+   "title": "Integration of Generative AI with Human Expertise in HEOR: A Hybrid Intelligence Framework",
+   "container": "Advances in Therapy",
+   "short_container": "Adv Ther",
+   "year": 2025,
+   "volume": "42",
+   "issue": "9",
+   "page": "4103-4130",
+   "article_number": "",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Srivastava Tushar",
+    "Irfan Hanan",
+    "Babiy Vladimir",
+    "Swami Shilpi"
+   ],
+   "n_authors": 4,
+   "is_referenced_by_count": 3,
+   "url": "https://doi.org/10.1007/s12325-025-03273-w",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.1007/s40273-017-0553-x": {
+   "status": "verified",
+   "title": "Replicating Health Economic Models: Firm Foundations or a House of Cards?",
+   "container": "PharmacoEconomics",
+   "short_container": "PharmacoEconomics",
+   "year": 2017,
+   "volume": "35",
+   "issue": "11",
+   "page": "1113-1121",
+   "article_number": "",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Bermejo Inigo",
+    "Tappenden Paul",
+    "Youn Ji-Hee"
+   ],
+   "n_authors": 3,
+   "is_referenced_by_count": 9,
+   "url": "https://doi.org/10.1007/s40273-017-0553-x",
+   "sources": [
+    "research_trends.md"
+   ]
+  },
+  "10.1007/s40273-021-01008-7": {
+   "status": "verified",
+   "title": "Replication of Published Health Economic Obesity Models: Assessment of Facilitators, Hurdles and Reproduction Success",
+   "container": "PharmacoEconomics",
+   "short_container": "PharmacoEconomics",
+   "year": 2021,
+   "volume": "39",
+   "issue": "4",
+   "page": "433-446",
+   "article_number": "",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Schwander Bj\u00f6rn",
+    "Nuijten Mark",
+    "Evers Silvia",
+    "Hiligsmann Micka\u00ebl"
+   ],
+   "n_authors": 4,
+   "is_referenced_by_count": 8,
+   "url": "https://doi.org/10.1007/s40273-021-01008-7",
+   "sources": [
+    "research_trends.md"
+   ]
+  },
+  "10.1007/s40273-023-01242-1": {
+   "status": "verified",
+   "title": "Comprehensive Review of Methods to Assess Uncertainty in Health Economic Evaluations",
+   "container": "PharmacoEconomics",
+   "short_container": "PharmacoEconomics",
+   "year": 2023,
+   "volume": "41",
+   "issue": "6",
+   "page": "619-632",
+   "article_number": "",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Otten Thomas Michael",
+    "Grimm Sabine E.",
+    "Ramaekers Bram",
+    "Joore Manuela A."
+   ],
+   "n_authors": 4,
+   "is_referenced_by_count": 19,
+   "url": "https://doi.org/10.1007/s40273-023-01242-1",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.1007/s40273-023-01323-1": {
+   "status": "verified",
+   "title": "Transporting Comparative Effectiveness Evidence Between Countries: Considerations for Health Technology Assessments",
+   "container": "PharmacoEconomics",
+   "short_container": "PharmacoEconomics",
+   "year": 2023,
+   "volume": "42",
+   "issue": "2",
+   "page": "165-176",
+   "article_number": "",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Turner Alex J.",
+    "Sammon Cormac",
+    "Latimer Nick",
+    "Adamson Blythe",
+    "Beal Brennan",
+    "Subbiah Vivek",
+    "Abrams Keith R.",
+    "Ray Joshua"
+   ],
+   "n_authors": 8,
+   "is_referenced_by_count": 23,
+   "url": "https://doi.org/10.1007/s40273-023-01323-1",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.1007/s41669-024-00476-9": {
+   "status": "verified",
+   "title": "Artificial Intelligence to Automate Network Meta-Analyses: Four Case Studies to Evaluate the Potential Application of Large Language Models",
+   "container": "PharmacoEconomics - Open",
+   "short_container": "PharmacoEconomics Open",
+   "year": 2024,
+   "volume": "8",
+   "issue": "2",
+   "page": "205-220",
+   "article_number": "",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Reason Tim",
+    "Benbow Emma",
+    "Langham Julia",
+    "Gimblett Andy",
+    "Klijn Sven L.",
+    "Malcolm Bill"
+   ],
+   "n_authors": 6,
+   "is_referenced_by_count": 71,
+   "url": "https://doi.org/10.1007/s41669-024-00476-9",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1007/s41669-024-00477-8": {
+   "status": "verified",
+   "title": "Artificial Intelligence to Automate Health Economic Modelling: A Case Study to Evaluate the Potential Application of Large Language Models",
+   "container": "PharmacoEconomics - Open",
+   "short_container": "PharmacoEconomics Open",
+   "year": 2024,
+   "volume": "8",
+   "issue": "2",
+   "page": "191-203",
+   "article_number": "",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Reason Tim",
+    "Rawlinson William",
+    "Langham Julia",
+    "Gimblett Andy",
+    "Malcolm Bill",
+    "Klijn Sven"
+   ],
+   "n_authors": 6,
+   "is_referenced_by_count": 38,
+   "url": "https://doi.org/10.1007/s41669-024-00477-8",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1007/s43441-021-00302-y": {
+   "status": "verified",
+   "title": "The Use of External Controls in FDA Regulatory Decision Making",
+   "container": "Therapeutic Innovation &amp; Regulatory Science",
+   "short_container": "Ther Innov Regul Sci",
+   "year": 2021,
+   "volume": "55",
+   "issue": "5",
+   "page": "1019-1035",
+   "article_number": "",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Jahanshahi Mahta",
+    "Gregg Keith",
+    "Davis Gillian",
+    "Ndu Adora",
+    "Miller Veronica",
+    "Vockley Jerry",
+    "Ollivier Cecile",
+    "Franolic Tanja",
+    "Sakai Sharon"
+   ],
+   "n_authors": 9,
+   "is_referenced_by_count": 123,
+   "url": "https://doi.org/10.1007/s43441-021-00302-y",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1016/j.conctc.2019.100443": {
+   "status": "verified",
+   "title": "The significant cost of systematic reviews and meta-analyses: A call for greater involvement of machine learning to assess the promise of clinical trials",
+   "container": "Contemporary Clinical Trials Communications",
+   "short_container": "Contemporary Clinical Trials Communications",
+   "year": 2019,
+   "volume": "16",
+   "issue": "",
+   "page": "100443",
+   "article_number": "100443",
+   "publisher": "Elsevier BV",
+   "type": "journal-article",
+   "authors": [
+    "Michelson Matthew",
+    "Reuter Katja"
+   ],
+   "n_authors": 2,
+   "is_referenced_by_count": 125,
+   "url": "https://doi.org/10.1016/j.conctc.2019.100443",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.1016/j.drudis.2024.104009": {
+   "status": "verified",
+   "title": "How successful are AI-discovered drugs in clinical trials? A first analysis and emerging lessons",
+   "container": "Drug Discovery Today",
+   "short_container": "Drug Discovery Today",
+   "year": 2024,
+   "volume": "29",
+   "issue": "6",
+   "page": "104009",
+   "article_number": "104009",
+   "publisher": "Elsevier BV",
+   "type": "journal-article",
+   "authors": [
+    "KP Jayatunga Madura",
+    "Ayers Margaret",
+    "Bruens Lotte",
+    "Jayanth Dhruv",
+    "Meier Christoph"
+   ],
+   "n_authors": 5,
+   "is_referenced_by_count": 155,
+   "url": "https://doi.org/10.1016/j.drudis.2024.104009",
+   "sources": [
+    "research_trends.md"
+   ]
+  },
+  "10.1016/j.fhj.2024.100182": {
+   "status": "verified",
+   "title": "Bibliometric analysis of artificial intelligence in healthcare research: Trends and future directions",
+   "container": "Future Healthcare Journal",
+   "short_container": "Future Healthcare Journal",
+   "year": 2024,
+   "volume": "11",
+   "issue": "3",
+   "page": "100182",
+   "article_number": "100182",
+   "publisher": "Elsevier BV",
+   "type": "journal-article",
+   "authors": [
+    "Senthil Renganathan",
+    "Anand Thirunavukarasou",
+    "Somala Chaitanya Sree",
+    "Saravanan Konda Mani"
+   ],
+   "n_authors": 4,
+   "is_referenced_by_count": 66,
+   "url": "https://doi.org/10.1016/j.fhj.2024.100182",
+   "sources": [
+    "research_trends.md",
+    "research_trends_notes_AB.md"
+   ]
+  },
+  "10.1016/j.ijmedinf.2025.106103": {
+   "status": "verified",
+   "title": "Scoping review on the economic aspects of machine learning applications in healthcare",
+   "container": "International Journal of Medical Informatics",
+   "short_container": "International Journal of Medical Informatics",
+   "year": 2026,
+   "volume": "205",
+   "issue": "",
+   "page": "106103",
+   "article_number": "106103",
+   "publisher": "Elsevier BV",
+   "type": "journal-article",
+   "authors": [
+    "von Gerich Hanna",
+    "Helenius Mikael",
+    "H\u00f6rhammer Iiris",
+    "Moen Hans",
+    "Peltonen Laura-Maria"
+   ],
+   "n_authors": 5,
+   "is_referenced_by_count": 4,
+   "url": "https://doi.org/10.1016/j.ijmedinf.2025.106103",
+   "sources": [
+    "research_trends.md",
+    "research_trends_notes_AB.md"
+   ]
+  },
+  "10.1016/j.ijtb.2025.11.019": {
+   "status": "verified",
+   "title": "Reinforcement learning to optimize tuberculosis screening strategies in resource-limited settings",
+   "container": "Indian Journal of Tuberculosis",
+   "short_container": "Indian Journal of Tuberculosis",
+   "year": 2025,
+   "volume": "72",
+   "issue": "",
+   "page": "S159-S167",
+   "article_number": "",
+   "publisher": "Elsevier BV",
+   "type": "journal-article",
+   "authors": [
+    "Kalavadekar Prakash Nandkumar",
+    "Khandarkar Kiran Ramesh",
+    "Dhotre Dhanraj R.",
+    "Chincholkar Anuja",
+    "Swarnkar Suman Kumar",
+    "Joshi Hrushikesh Jaiwant"
+   ],
+   "n_authors": 6,
+   "is_referenced_by_count": 0,
+   "url": "https://doi.org/10.1016/j.ijtb.2025.11.019",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1016/j.jclinepi.2017.12.018": {
+   "status": "verified",
+   "title": "Systematic review on costs and resource use of randomized clinical trials shows a lack of transparent and comprehensive data",
+   "container": "Journal of Clinical Epidemiology",
+   "short_container": "Journal of Clinical Epidemiology",
+   "year": 2018,
+   "volume": "96",
+   "issue": "",
+   "page": "1-11",
+   "article_number": "",
+   "publisher": "Elsevier BV",
+   "type": "journal-article",
+   "authors": [
+    "Speich Benjamin",
+    "von Niederh\u00e4usern Belinda",
+    "Schur Nadine",
+    "Hemkens Lars G.",
+    "F\u00fcrst Thomas",
+    "Bhatnagar Neera",
+    "Alturki Reem",
+    "Agarwal Arnav",
+    "Kasenda Benjamin",
+    "Pauli-Magnus Christiane",
+    "Schwenkglenks Matthias",
+    "Briel Matthias"
+   ],
+   "n_authors": 12,
+   "is_referenced_by_count": 119,
+   "url": "https://doi.org/10.1016/j.jclinepi.2017.12.018",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.1016/j.jclinepi.2018.06.011": {
+   "status": "verified",
+   "title": "Improving the conduct of systematic reviews: a process mining perspective",
+   "container": "Journal of Clinical Epidemiology",
+   "short_container": "Journal of Clinical Epidemiology",
+   "year": 2018,
+   "volume": "103",
+   "issue": "",
+   "page": "101-111",
+   "article_number": "",
+   "publisher": "Elsevier BV",
+   "type": "journal-article",
+   "authors": [
+    "Pham Ba'",
+    "Bagheri Ebrahim",
+    "Rios Patricia",
+    "Pourmasoumi Asef",
+    "Robson Reid C.",
+    "Hwee Jeremiah",
+    "Isaranuwatchai Wanrudee",
+    "Darvesh Nazia",
+    "Page Matthew J.",
+    "Tricco Andrea C."
+   ],
+   "n_authors": 10,
+   "is_referenced_by_count": 33,
+   "url": "https://doi.org/10.1016/j.jclinepi.2018.06.011",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1016/j.jclinepi.2021.01.010": {
+   "status": "verified",
+   "title": "Natural language processing was effective in assisting rapid title and abstract screening when updating systematic reviews",
+   "container": "Journal of Clinical Epidemiology",
+   "short_container": "Journal of Clinical Epidemiology",
+   "year": 2021,
+   "volume": "133",
+   "issue": "",
+   "page": "121-129",
+   "article_number": "",
+   "publisher": "Elsevier BV",
+   "type": "journal-article",
+   "authors": [
+    "Qin Xuan",
+    "Liu Jiali",
+    "Wang Yuning",
+    "Liu Yanmei",
+    "Deng Ke",
+    "Ma Yu",
+    "Zou Kang",
+    "Li Ling",
+    "Sun Xin"
+   ],
+   "n_authors": 9,
+   "is_referenced_by_count": 62,
+   "url": "https://doi.org/10.1016/j.jclinepi.2021.01.010",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1016/j.jclinepi.2023.10.024": {
+   "status": "verified",
+   "title": "Transparency, openness, and reproducible research practices are frequently underused in health economic evaluations",
+   "container": "Journal of Clinical Epidemiology",
+   "short_container": "Journal of Clinical Epidemiology",
+   "year": 2024,
+   "volume": "165",
+   "issue": "",
+   "page": "111208",
+   "article_number": "111208",
+   "publisher": "Elsevier BV",
+   "type": "journal-article",
+   "authors": [
+    "Catal\u00e1-L\u00f3pez Ferr\u00e1n",
+    "Ridao Manuel",
+    "Tejedor-Romero Laura",
+    "Caulley Lisa",
+    "Hutton Brian",
+    "Husereau Don",
+    "Alonso-Arroyo Adolfo",
+    "Bernal-Delgado Enrique",
+    "Drummond Michael F.",
+    "Moher David"
+   ],
+   "n_authors": 10,
+   "is_referenced_by_count": 18,
+   "url": "https://doi.org/10.1016/j.jclinepi.2023.10.024",
+   "sources": [
+    "research_trends.md"
+   ]
+  },
+  "10.1016/j.jhealeco.2016.01.012": {
+   "status": "verified",
+   "title": "Innovation in the pharmaceutical industry: New estimates of R&amp;D costs",
+   "container": "Journal of Health Economics",
+   "short_container": "Journal of Health Economics",
+   "year": 2016,
+   "volume": "47",
+   "issue": "",
+   "page": "20-33",
+   "article_number": "",
+   "publisher": "Elsevier BV",
+   "type": "journal-article",
+   "authors": [
+    "DiMasi Joseph A.",
+    "Grabowski Henry G.",
+    "Hansen Ronald W."
+   ],
+   "n_authors": 3,
+   "is_referenced_by_count": 3078,
+   "url": "https://doi.org/10.1016/j.jhealeco.2016.01.012",
+   "sources": [
+    "research_trends.md"
+   ]
+  },
+  "10.1016/j.jval.2020.01.001": {
+   "status": "verified",
+   "title": "Value of Information Analysis for Research Decisions\u2014An Introduction: Report 1 of the ISPOR Value of Information Analysis Emerging Good Practices Task Force",
+   "container": "Value in Health",
+   "short_container": "Value in Health",
+   "year": 2020,
+   "volume": "23",
+   "issue": "2",
+   "page": "139-150",
+   "article_number": "",
+   "publisher": "Elsevier BV",
+   "type": "journal-article",
+   "authors": [
+    "Fenwick Elisabeth",
+    "Steuten Lotte",
+    "Knies Saskia",
+    "Ghabri Salah",
+    "Basu Anirban",
+    "Murray James F.",
+    "Koffijberg Hendrik (Erik)",
+    "Strong Mark",
+    "Sanders Schmidler Gillian D.",
+    "Rothery Claire"
+   ],
+   "n_authors": 10,
+   "is_referenced_by_count": 173,
+   "url": "https://doi.org/10.1016/j.jval.2020.01.001",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.1016/j.jval.2020.01.004": {
+   "status": "verified",
+   "title": "Value of Information Analytical Methods: Report 2 of the ISPOR Value of Information Analysis Emerging Good Practices Task Force",
+   "container": "Value in Health",
+   "short_container": "Value in Health",
+   "year": 2020,
+   "volume": "23",
+   "issue": "3",
+   "page": "277-286",
+   "article_number": "",
+   "publisher": "Elsevier BV",
+   "type": "journal-article",
+   "authors": [
+    "Rothery Claire",
+    "Strong Mark",
+    "Koffijberg Hendrik (Erik)",
+    "Basu Anirban",
+    "Ghabri Salah",
+    "Knies Saskia",
+    "Murray James F.",
+    "Sanders Schmidler Gillian D.",
+    "Steuten Lotte",
+    "Fenwick Elisabeth"
+   ],
+   "n_authors": 10,
+   "is_referenced_by_count": 104,
+   "url": "https://doi.org/10.1016/j.jval.2020.01.004",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.1016/j.jval.2020.04.1834": {
+   "status": "verified",
+   "title": "Competencies for Professionals in Health Economics and Outcomes Research: The ISPOR Health Economics and Outcomes Research Competencies Framework",
+   "container": "Value in Health",
+   "short_container": "Value in Health",
+   "year": 2020,
+   "volume": "23",
+   "issue": "9",
+   "page": "1120-1127",
+   "article_number": "",
+   "publisher": "Elsevier BV",
+   "type": "journal-article",
+   "authors": [
+    "Pizzi Laura T.",
+    "Onukwugha Ebere",
+    "Corey Rebecca",
+    "Albarmawi Husam",
+    "Murray James"
+   ],
+   "n_authors": 5,
+   "is_referenced_by_count": 12,
+   "url": "https://doi.org/10.1016/j.jval.2020.04.1834",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.1016/j.jval.2021.08.015": {
+   "status": "verified",
+   "title": "Assessing the Economic Value of Clinical Artificial Intelligence: Challenges and Opportunities",
+   "container": "Value in Health",
+   "short_container": "Value in Health",
+   "year": 2022,
+   "volume": "25",
+   "issue": "3",
+   "page": "331-339",
+   "article_number": "",
+   "publisher": "Elsevier BV",
+   "type": "journal-article",
+   "authors": [
+    "Hendrix Nathaniel",
+    "Veenstra David L.",
+    "Cheng Mindy",
+    "Anderson Nicholas C.",
+    "Verguet St\u00e9phane"
+   ],
+   "n_authors": 5,
+   "is_referenced_by_count": 84,
+   "url": "https://doi.org/10.1016/j.jval.2021.08.015",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1016/j.jval.2021.11.1351": {
+   "status": "verified",
+   "title": "Consolidated Health Economic Evaluation Reporting Standards 2022 (CHEERS 2022) Statement: Updated Reporting Guidance for Health Economic Evaluations",
+   "container": "Value in Health",
+   "short_container": "Value in Health",
+   "year": 2022,
+   "volume": "25",
+   "issue": "1",
+   "page": "3-9",
+   "article_number": "",
+   "publisher": "Elsevier BV",
+   "type": "journal-article",
+   "authors": [
+    "Husereau Don",
+    "Drummond Michael",
+    "Augustovski Federico",
+    "de Bekker-Grob Esther",
+    "Briggs Andrew H.",
+    "Carswell Chris",
+    "Caulley Lisa",
+    "Chaiyakunapruk Nathorn",
+    "Greenberg Dan",
+    "Loder Elizabeth",
+    "Mauskopf Josephine",
+    "Mullins C. Daniel"
+   ],
+   "n_authors": 15,
+   "is_referenced_by_count": 1027,
+   "url": "https://doi.org/10.1016/j.jval.2021.11.1351",
+   "sources": [
+    "research_regulatory.md"
+   ]
+  },
+  "10.1016/j.jval.2022.03.022": {
+   "status": "verified",
+   "title": "Machine Learning Methods in Health Economics and Outcomes Research\u2014The PALISADE Checklist: A Good Practices Report of an ISPOR Task Force",
+   "container": "Value in Health",
+   "short_container": "Value in Health",
+   "year": 2022,
+   "volume": "25",
+   "issue": "7",
+   "page": "1063-1080",
+   "article_number": "",
+   "publisher": "Elsevier BV",
+   "type": "journal-article",
+   "authors": [
+    "Padula William V.",
+    "Kreif Noemi",
+    "Vanness David J.",
+    "Adamson Blythe",
+    "Rueda Juan-David",
+    "Felizzi Federico",
+    "Jonsson Pall",
+    "IJzerman Maarten J.",
+    "Butte Atul",
+    "Crown William"
+   ],
+   "n_authors": 10,
+   "is_referenced_by_count": 78,
+   "url": "https://doi.org/10.1016/j.jval.2022.03.022",
+   "sources": [
+    "research_economics.md",
+    "research_methods.md",
+    "research_regulatory.md",
+    "research_trends.md",
+    "research_trends_notes_AB.md"
+   ]
+  },
+  "10.1016/j.jval.2022.07.011": {
+   "status": "verified",
+   "title": "A Scoping Review of the Use of Machine Learning in Health Economics and Outcomes Research: Part 2\u2014Data From Nonwearables",
+   "container": "Value in Health",
+   "short_container": "Value in Health",
+   "year": 2022,
+   "volume": "25",
+   "issue": "12",
+   "page": "2053-2061",
+   "article_number": "",
+   "publisher": "Elsevier BV",
+   "type": "journal-article",
+   "authors": [
+    "Lee Woojung",
+    "Schwartz Naomi",
+    "Bansal Aasthaa",
+    "Khor Sara",
+    "Hammarlund Noah",
+    "Basu Anirban",
+    "Devine Beth"
+   ],
+   "n_authors": 7,
+   "is_referenced_by_count": 11,
+   "url": "https://doi.org/10.1016/j.jval.2022.07.011",
+   "sources": [
+    "research_trends.md",
+    "research_trends_notes_AB.md"
+   ]
+  },
+  "10.1016/j.jval.2022.08.005": {
+   "status": "verified",
+   "title": "A Scoping Review of the Use of Machine Learning in Health Economics and Outcomes Research: Part 1\u2014Data From Wearable Devices",
+   "container": "Value in Health",
+   "short_container": "Value in Health",
+   "year": 2023,
+   "volume": "26",
+   "issue": "2",
+   "page": "292-299",
+   "article_number": "",
+   "publisher": "Elsevier BV",
+   "type": "journal-article",
+   "authors": [
+    "Lee Woojung",
+    "Schwartz Naomi",
+    "Bansal Aasthaa",
+    "Khor Sara",
+    "Hammarlund Noah",
+    "Basu Anirban",
+    "Devine Beth"
+   ],
+   "n_authors": 7,
+   "is_referenced_by_count": 5,
+   "url": "https://doi.org/10.1016/j.jval.2022.08.005",
+   "sources": [
+    "research_trends.md",
+    "research_trends_notes_AB.md"
+   ]
+  },
+  "10.1016/j.jval.2024.10.3846": {
+   "status": "verified",
+   "title": "Generative Artificial Intelligence for Health Technology Assessment: Opportunities, Challenges, and Policy Considerations: An ISPOR Working Group Report",
+   "container": "Value in Health",
+   "short_container": "Value in Health",
+   "year": 2025,
+   "volume": "28",
+   "issue": "2",
+   "page": "175-183",
+   "article_number": "",
+   "publisher": "Elsevier BV",
+   "type": "journal-article",
+   "authors": [
+    "Fleurence Rachael L.",
+    "Bian Jiang",
+    "Wang Xiaoyan",
+    "Xu Hua",
+    "Dawoud Dalia",
+    "Higashi Mitchell",
+    "Chhatwal Jagpreet"
+   ],
+   "n_authors": 7,
+   "is_referenced_by_count": 50,
+   "url": "https://doi.org/10.1016/j.jval.2024.10.3846",
+   "sources": [
+    "research_methods.md",
+    "research_regulatory.md",
+    "research_trends.md",
+    "research_trends_notes_AB.md"
+   ]
+  },
+  "10.1016/j.jval.2025.01.019": {
+   "status": "verified",
+   "title": "Mapping the Landscape of Open Source Health Economic Models: A Systematic Database Review and Analysis: An ISPOR Special Interest Group Report",
+   "container": "Value in Health",
+   "short_container": "Value in Health",
+   "year": 2025,
+   "volume": "28",
+   "issue": "6",
+   "page": "813-820",
+   "article_number": "",
+   "publisher": "Elsevier BV",
+   "type": "journal-article",
+   "authors": [
+    "Henderson Raymond H.",
+    "Sampson Chris",
+    "Pouwels Xavier G.L.V.",
+    "Harvard Stephanie",
+    "Handels Ron",
+    "Feenstra Talitha",
+    "Bhandari Ramesh",
+    "Sepassi Aryana",
+    "Arnold Ren\u00e9e"
+   ],
+   "n_authors": 9,
+   "is_referenced_by_count": 7,
+   "url": "https://doi.org/10.1016/j.jval.2025.01.019",
+   "sources": [
+    "research_trends.md"
+   ]
+  },
+  "10.1016/j.jval.2025.04.2167": {
+   "status": "verified",
+   "title": "A Taxonomy of Generative Artificial Intelligence in Health Economics and Outcomes Research: An ISPOR Working Group Report",
+   "container": "Value in Health",
+   "short_container": "Value in Health",
+   "year": 2025,
+   "volume": "28",
+   "issue": "11",
+   "page": "1601-1610",
+   "article_number": "",
+   "publisher": "Elsevier BV",
+   "type": "journal-article",
+   "authors": [
+    "Fleurence Rachael L.",
+    "Wang Xiaoyan",
+    "Bian Jiang",
+    "Higashi Mitchell K.",
+    "Ayer Turgay",
+    "Xu Hua",
+    "Dawoud Dalia",
+    "Chhatwal Jagpreet"
+   ],
+   "n_authors": 8,
+   "is_referenced_by_count": 7,
+   "url": "https://doi.org/10.1016/j.jval.2025.04.2167",
+   "sources": [
+    "research_economics.md",
+    "research_regulatory.md"
+   ]
+  },
+  "10.1016/j.jval.2025.06.018": {
+   "status": "verified",
+   "title": "ELEVATE-GenAI: Reporting Guidelines for the Use of Large Language Models in Health Economics and Outcomes Research: An ISPOR Working Group Report",
+   "container": "Value in Health",
+   "short_container": "Value in Health",
+   "year": 2025,
+   "volume": "28",
+   "issue": "11",
+   "page": "1611-1625",
+   "article_number": "",
+   "publisher": "Elsevier BV",
+   "type": "journal-article",
+   "authors": [
+    "Fleurence Rachael L.",
+    "Dawoud Dalia",
+    "Bian Jiang",
+    "Higashi Mitchell K.",
+    "Wang Xiaoyan",
+    "Xu Hua",
+    "Chhatwal Jagpreet",
+    "Ayer Turgay"
+   ],
+   "n_authors": 8,
+   "is_referenced_by_count": 22,
+   "url": "https://doi.org/10.1016/j.jval.2025.06.018",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.1016/j.jval.2025.08.002": {
+   "status": "verified",
+   "title": "A4SLR: An Agentic Artificial Intelligence-Assisted Systematic Literature Review Framework to Augment Evidence Synthesis for Health Economics and Outcomes Research and Health Technology Assessment",
+   "container": "Value in Health",
+   "short_container": "Value in Health",
+   "year": 2025,
+   "volume": "28",
+   "issue": "11",
+   "page": "1655-1664",
+   "article_number": "",
+   "publisher": "Elsevier BV",
+   "type": "journal-article",
+   "authors": [
+    "Lee Kyeryoung",
+    "Paek Hunki",
+    "Ofoegbu Nneka",
+    "Rube Steven",
+    "Higashi Mitchell K.",
+    "Dawoud Dalia",
+    "Xu Hua",
+    "Shi Lizheng",
+    "Wang Xiaoyan"
+   ],
+   "n_authors": 9,
+   "is_referenced_by_count": 13,
+   "url": "https://doi.org/10.1016/j.jval.2025.08.002",
+   "sources": [
+    "research_trends.md",
+    "research_trends_notes_AB.md"
+   ]
+  },
+  "10.1016/j.jval.2026.01.013": {
+   "status": "verified",
+   "title": "Estimating Heterogeneous Treatment Effects With Real-World Health Data: A Scoping Review of Machine Learning Methods",
+   "container": "Value in Health",
+   "short_container": "Value in Health",
+   "year": 2026,
+   "volume": "29",
+   "issue": "5",
+   "page": "905-913",
+   "article_number": "",
+   "publisher": "Elsevier BV",
+   "type": "journal-article",
+   "authors": [
+    "M\u00f6ller Michael",
+    "Wild Eva-Maria",
+    "Tan Winnie",
+    "Schrey\u00f6gg Jonas"
+   ],
+   "n_authors": 4,
+   "is_referenced_by_count": 0,
+   "url": "https://doi.org/10.1016/j.jval.2026.01.013",
+   "sources": [
+    "research_trends.md",
+    "research_trends_notes_AB.md"
+   ]
+  },
+  "10.1016/s2468-1253(25)00133-5": {
+   "status": "verified",
+   "title": "Endoscopist deskilling risk after exposure to artificial intelligence in colonoscopy: a multicentre, observational study",
+   "container": "The Lancet Gastroenterology &amp; Hepatology",
+   "short_container": "The Lancet Gastroenterology &amp; Hepatology",
+   "year": 2025,
+   "volume": "10",
+   "issue": "10",
+   "page": "896-903",
+   "article_number": "",
+   "publisher": "Elsevier BV",
+   "type": "journal-article",
+   "authors": [
+    "Budzy\u0144 Krzysztof",
+    "Roma\u0144czyk Marcin",
+    "Kitala Diana",
+    "Ko\u0142odziej Pawe\u0142",
+    "Bugajski Marek",
+    "Adami Hans O",
+    "Blom Johannes",
+    "Buszkiewicz Marek",
+    "Halvorsen Natalie",
+    "Hassan Cesare",
+    "Roma\u0144czyk Tomasz",
+    "Holme \u00d8yvind"
+   ],
+   "n_authors": 21,
+   "is_referenced_by_count": 260,
+   "url": "https://doi.org/10.1016/s2468-1253(25)00133-5",
+   "registry": "Crossref",
+   "sources": [
+    "research_economics.md",
+    "research_trends.md"
+   ]
+  },
+  "10.1016/s2468-1253(25)00324-3": {
+   "status": "verified",
+   "title": "Endoscopist deskilling risk after exposure to artificial intelligence in colonoscopy \u2013 Authors' reply",
+   "container": "The Lancet Gastroenterology &amp; Hepatology",
+   "short_container": "The Lancet Gastroenterology &amp; Hepatology",
+   "year": 2025,
+   "volume": "10",
+   "issue": "12",
+   "page": "1062",
+   "article_number": "",
+   "publisher": "Elsevier BV",
+   "type": "journal-article",
+   "authors": [
+    "Budzy\u0144 Krzysztof",
+    "Roma\u0144czyk Marcin",
+    "Mori Yuichi"
+   ],
+   "n_authors": 3,
+   "is_referenced_by_count": 4,
+   "url": "https://doi.org/10.1016/s2468-1253(25)00324-3",
+   "registry": "Crossref",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.1038/d41586-025-01463-8": {
+   "status": "verified",
+   "title": "Is it OK for AI to write science papers? Nature survey shows researchers are split",
+   "container": "Nature",
+   "short_container": "Nature",
+   "year": 2025,
+   "volume": "641",
+   "issue": "8063",
+   "page": "574-578",
+   "article_number": "",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Kwon Diana"
+   ],
+   "n_authors": 1,
+   "is_referenced_by_count": 82,
+   "url": "https://doi.org/10.1038/d41586-025-01463-8",
+   "sources": [
+    "research_trends.md",
+    "research_trends_notes_AB.md"
+   ]
+  },
+  "10.1038/d41586-025-04066-5": {
+   "status": "verified",
+   "title": "More than half of researchers now use AI for peer review \u2014 often against guidance",
+   "container": "Nature",
+   "short_container": "Nature",
+   "year": 2025,
+   "volume": "649",
+   "issue": "8096",
+   "page": "273-274",
+   "article_number": "",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Naddaf Miryam"
+   ],
+   "n_authors": 1,
+   "is_referenced_by_count": 36,
+   "url": "https://doi.org/10.1038/d41586-025-04066-5",
+   "sources": [
+    "research_trends.md",
+    "research_trends_notes_AB.md"
+   ]
+  },
+  "10.1038/s41467-023-41754-0": {
+   "status": "verified",
+   "title": "Cost-effectiveness requirements for implementing artificial intelligence technology in the Women\u2019s UK Breast Cancer Screening service",
+   "container": "Nature Communications",
+   "short_container": "Nat Commun",
+   "year": 2023,
+   "volume": "14",
+   "issue": "1",
+   "page": "",
+   "article_number": "6110",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Vargas-Palacios Armando",
+    "Sharma Nisha",
+    "Sagoo Gurdeep S."
+   ],
+   "n_authors": 3,
+   "is_referenced_by_count": 42,
+   "url": "https://doi.org/10.1038/s41467-023-41754-0",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1038/s41562-025-02173-x": {
+   "status": "verified",
+   "title": "ChatGPT decreases idea diversity in brainstorming",
+   "container": "Nature Human Behaviour",
+   "short_container": "Nat Hum Behav",
+   "year": 2025,
+   "volume": "9",
+   "issue": "6",
+   "page": "1107-1109",
+   "article_number": "",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Meincke Lennart",
+    "Nave Gideon",
+    "Terwiesch Christian"
+   ],
+   "n_authors": 3,
+   "is_referenced_by_count": 31,
+   "url": "https://doi.org/10.1038/s41562-025-02173-x",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.1038/s41591-020-1034-x": {
+   "status": "verified",
+   "title": "Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI extension",
+   "container": "Nature Medicine",
+   "short_container": "Nat Med",
+   "year": 2020,
+   "volume": "26",
+   "issue": "9",
+   "page": "1364-1374",
+   "article_number": "",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Liu Xiaoxuan",
+    "Cruz Rivera Samantha",
+    "Moher David",
+    "Calvert Melanie J.",
+    "Denniston Alastair K.",
+    "The SPIRIT-AI and CONSORT-AI Working Group",
+    "SPIRIT-AI and CONSORT-AI Steering Group",
+    "Chan An-Wen",
+    "Darzi Ara",
+    "Holmes Christopher",
+    "Yau Christopher",
+    "Ashrafian Hutan"
+   ],
+   "n_authors": 47,
+   "is_referenced_by_count": 1130,
+   "url": "https://doi.org/10.1038/s41591-020-1034-x",
+   "sources": [
+    "research_regulatory.md"
+   ]
+  },
+  "10.1038/s41591-020-1037-7": {
+   "status": "verified",
+   "title": "Guidelines for clinical trial protocols for interventions involving artificial intelligence: the SPIRIT-AI extension",
+   "container": "Nature Medicine",
+   "short_container": "Nat Med",
+   "year": 2020,
+   "volume": "26",
+   "issue": "9",
+   "page": "1351-1363",
+   "article_number": "",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Cruz Rivera Samantha",
+    "Liu Xiaoxuan",
+    "Chan An-Wen",
+    "Denniston Alastair K.",
+    "Calvert Melanie J.",
+    "The SPIRIT-AI and CONSORT-AI Working Group",
+    "SPIRIT-AI and CONSORT-AI Steering Group",
+    "Darzi Ara",
+    "Holmes Christopher",
+    "Yau Christopher",
+    "Moher David",
+    "Ashrafian Hutan"
+   ],
+   "n_authors": 47,
+   "is_referenced_by_count": 610,
+   "url": "https://doi.org/10.1038/s41591-020-1037-7",
+   "sources": [
+    "research_regulatory.md"
+   ]
+  },
+  "10.1038/s41591-021-01599-w": {
+   "status": "verified",
+   "title": "Optimizing risk-based breast cancer screening policies with reinforcement learning",
+   "container": "Nature Medicine",
+   "short_container": "Nat Med",
+   "year": 2022,
+   "volume": "28",
+   "issue": "1",
+   "page": "136-143",
+   "article_number": "",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Yala Adam",
+    "Mikhael Peter G.",
+    "Lehman Constance",
+    "Lin Gigin",
+    "Strand Fredrik",
+    "Wan Yung-Liang",
+    "Hughes Kevin",
+    "Satuluru Siddharth",
+    "Kim Thomas",
+    "Banerjee Imon",
+    "Gichoya Judy",
+    "Trivedi Hari"
+   ],
+   "n_authors": 13,
+   "is_referenced_by_count": 96,
+   "url": "https://doi.org/10.1038/s41591-021-01599-w",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1038/s41591-022-01772-9": {
+   "status": "verified",
+   "title": "Reporting guideline for the early-stage clinical evaluation of decision support systems driven by artificial intelligence: DECIDE-AI",
+   "container": "Nature Medicine",
+   "short_container": "Nat Med",
+   "year": 2022,
+   "volume": "28",
+   "issue": "5",
+   "page": "924-933",
+   "article_number": "",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Vasey Baptiste",
+    "Nagendran Myura",
+    "Campbell Bruce",
+    "Clifton David A.",
+    "Collins Gary S.",
+    "Denaxas Spiros",
+    "Denniston Alastair K.",
+    "Faes Livia",
+    "Geerts Bart",
+    "Ibrahim Mudathir",
+    "Liu Xiaoxuan",
+    "Mateen Bilal A."
+   ],
+   "n_authors": 156,
+   "is_referenced_by_count": 755,
+   "url": "https://doi.org/10.1038/s41591-022-01772-9",
+   "sources": [
+    "research_regulatory.md"
+   ]
+  },
+  "10.1038/s41591-024-03425-5": {
+   "status": "verified",
+   "title": "The TRIPOD-LLM reporting guideline for studies using large language models",
+   "container": "Nature Medicine",
+   "short_container": "Nat Med",
+   "year": 2025,
+   "volume": "31",
+   "issue": "1",
+   "page": "60-69",
+   "article_number": "",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Gallifant Jack",
+    "Afshar Majid",
+    "Ameen Saleem",
+    "Aphinyanaphongs Yindalon",
+    "Chen Shan",
+    "Cacciamani Giovanni",
+    "Demner-Fushman Dina",
+    "Dligach Dmitriy",
+    "Daneshjou Roxana",
+    "Fernandes Chrystinne",
+    "Hansen Lasse Hyldig",
+    "Landman Adam"
+   ],
+   "n_authors": 25,
+   "is_referenced_by_count": 523,
+   "url": "https://doi.org/10.1038/s41591-024-03425-5",
+   "sources": [
+    "research_regulatory.md"
+   ]
+  },
+  "10.1038/s41598-023-41032-5": {
+   "status": "verified",
+   "title": "Fabrication and errors in the bibliographic citations generated by ChatGPT",
+   "container": "Scientific Reports",
+   "short_container": "Sci Rep",
+   "year": 2023,
+   "volume": "13",
+   "issue": "1",
+   "page": "",
+   "article_number": "14045",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Walters William H.",
+    "Wilder Esther Isabelle"
+   ],
+   "n_authors": 2,
+   "is_referenced_by_count": 405,
+   "url": "https://doi.org/10.1038/s41598-023-41032-5",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1038/s41746-023-00970-0": {
+   "status": "verified",
+   "title": "Large language models to identify social determinants of health in electronic health records",
+   "container": "npj Digital Medicine",
+   "short_container": "npj Digit. Med.",
+   "year": 2024,
+   "volume": "7",
+   "issue": "1",
+   "page": "",
+   "article_number": "6",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Guevara Marco",
+    "Chen Shan",
+    "Thomas Spencer",
+    "Chaunzwa Tafadzwa L.",
+    "Franco Idalid",
+    "Kann Benjamin H.",
+    "Moningi Shalini",
+    "Qian Jack M.",
+    "Goldstein Madeleine",
+    "Harper Susan",
+    "Aerts Hugo J. W. L.",
+    "Catalano Paul J."
+   ],
+   "n_authors": 15,
+   "is_referenced_by_count": 287,
+   "url": "https://doi.org/10.1038/s41746-023-00970-0",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1038/s41746-024-01359-3": {
+   "status": "verified",
+   "title": "A scoping review of privacy and utility metrics in medical synthetic data",
+   "container": "npj Digital Medicine",
+   "short_container": "npj Digit. Med.",
+   "year": 2025,
+   "volume": "8",
+   "issue": "1",
+   "page": "",
+   "article_number": "60",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Kaabachi Bayrem",
+    "Despraz J\u00e9r\u00e9mie",
+    "Meurers Thierry",
+    "Otte Karen",
+    "Halilovic Mehmed",
+    "Kulynych Bogdan",
+    "Prasser Fabian",
+    "Raisaro Jean Louis"
+   ],
+   "n_authors": 8,
+   "is_referenced_by_count": 85,
+   "url": "https://doi.org/10.1038/s41746-024-01359-3",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1038/s41746-025-01457-w": {
+   "status": "verified",
+   "title": "Language models for data extraction and risk of bias assessment in complementary medicine",
+   "container": "npj Digital Medicine",
+   "short_container": "npj Digit. Med.",
+   "year": 2025,
+   "volume": "8",
+   "issue": "1",
+   "page": "",
+   "article_number": "74",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Lai Honghao",
+    "Liu Jiayi",
+    "Bai Chunyang",
+    "Liu Hui",
+    "Pan Bei",
+    "Luo Xufei",
+    "Hou Liangying",
+    "Zhao Weilong",
+    "Xia Danni",
+    "Tian Jinhui",
+    "Chen Yaolong",
+    "Zhang Lu"
+   ],
+   "n_authors": 36,
+   "is_referenced_by_count": 53,
+   "url": "https://doi.org/10.1038/s41746-025-01457-w",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1038/s41746-025-01722-y": {
+   "status": "verified",
+   "title": "Systematic review of cost effectiveness and budget impact of artificial intelligence in healthcare",
+   "container": "npj Digital Medicine",
+   "short_container": "npj Digit. Med.",
+   "year": 2025,
+   "volume": "8",
+   "issue": "1",
+   "page": "",
+   "article_number": "548",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "El Arab Rabie Adel",
+    "Al Moosa Omayma Abdulaziz"
+   ],
+   "n_authors": 2,
+   "is_referenced_by_count": 123,
+   "url": "https://doi.org/10.1038/s41746-025-01722-y",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1038/s44271-026-00428-5": {
+   "status": "verified",
+   "title": "AI is turning research into a scientific monoculture",
+   "container": "Communications Psychology",
+   "short_container": "Commun Psychol",
+   "year": 2026,
+   "volume": "4",
+   "issue": "1",
+   "page": "",
+   "article_number": "37",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Traberg Cecilie Steenbuch",
+    "Roozenbeek Jon",
+    "van der Linden Sander"
+   ],
+   "n_authors": 3,
+   "is_referenced_by_count": 8,
+   "url": "https://doi.org/10.1038/s44271-026-00428-5",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.1056/aipc2500801": {
+   "status": "verified",
+   "title": "Leveraging Artificial Intelligence in Drug and Biological Product Development: An FDA and Clinical Trial Transformation Initiative Workshop Report",
+   "container": "NEJM AI",
+   "short_container": "NEJM AI",
+   "year": 2025,
+   "volume": "2",
+   "issue": "12",
+   "page": "",
+   "article_number": "",
+   "publisher": "Massachusetts Medical Society",
+   "type": "journal-article",
+   "authors": [
+    "Poddar Atasi",
+    "Samson Marsha",
+    "Innes Gabriel K.",
+    "Liu Qi",
+    "Saha Anindita",
+    "Hanger Morgan",
+    "Franzetti Kelly",
+    "ElZarrad M. Khair",
+    "Fakhouri Tala H."
+   ],
+   "n_authors": 9,
+   "is_referenced_by_count": 2,
+   "url": "https://doi.org/10.1056/aipc2500801",
+   "sources": [
+    "research_regulatory.md"
+   ]
+  },
+  "10.1080/0142159x.2024.2314198": {
+   "status": "verified",
+   "title": "A scoping review of artificial intelligence in medical education: BEME Guide No. 84",
+   "container": "Medical Teacher",
+   "short_container": "Medical Teacher",
+   "year": 2024,
+   "volume": "46",
+   "issue": "4",
+   "page": "446-470",
+   "article_number": "",
+   "publisher": "Informa UK Limited",
+   "type": "journal-article",
+   "authors": [
+    "Gordon Morris",
+    "Daniel Michelle",
+    "Ajiboye Aderonke",
+    "Uraiby Hussein",
+    "Xu Nicole Y.",
+    "Bartlett Rangana",
+    "Hanson Janice",
+    "Haas Mary",
+    "Spadafore Maxwell",
+    "Grafton-Clarke Ciaran",
+    "Gasiea Rayhan Yousef",
+    "Michie Colin"
+   ],
+   "n_authors": 16,
+   "is_referenced_by_count": 517,
+   "url": "https://doi.org/10.1080/0142159x.2024.2314198",
+   "sources": [
+    "research_trends.md"
+   ]
+  },
+  "10.1080/01621459.2017.1319839": {
+   "status": "verified",
+   "title": "Estimation and Inference of Heterogeneous Treatment Effects using Random Forests",
+   "container": "Journal of the American Statistical Association",
+   "short_container": "Journal of the American Statistical Association",
+   "year": 2018,
+   "volume": "113",
+   "issue": "523",
+   "page": "1228-1242",
+   "article_number": "",
+   "publisher": "Informa UK Limited",
+   "type": "journal-article",
+   "authors": [
+    "Wager Stefan",
+    "Athey Susan"
+   ],
+   "n_authors": 2,
+   "is_referenced_by_count": 2330,
+   "url": "https://doi.org/10.1080/01621459.2017.1319839",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1080/10543406.2021.2011901": {
+   "status": "verified",
+   "title": "Exploring the Potential of External Control Arms created from Patient Level Data: A case study in non-small cell lung cancer",
+   "container": "Journal of Biopharmaceutical Statistics",
+   "short_container": "Journal of Biopharmaceutical Statistics",
+   "year": 2022,
+   "volume": "32",
+   "issue": "1",
+   "page": "204-218",
+   "article_number": "",
+   "publisher": "Informa UK Limited",
+   "type": "journal-article",
+   "authors": [
+    "Yin Xiang",
+    "Mishra-Kalyan Pallavi S.",
+    "Sridhara Rajeshwari",
+    "Stewart Mark D.",
+    "Stuart Elizabeth A.",
+    "Davi Ruthanna C."
+   ],
+   "n_authors": 6,
+   "is_referenced_by_count": 16,
+   "url": "https://doi.org/10.1080/10543406.2021.2011901",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1080/17477778.2023.2260772": {
+   "status": "verified",
+   "title": "Computer model and code sharing practices in healthcare discrete-event simulation: a systematic scoping review",
+   "container": "Journal of Simulation",
+   "short_container": "Journal of Simulation",
+   "year": 2023,
+   "volume": "19",
+   "issue": "1",
+   "page": "108-123",
+   "article_number": "",
+   "publisher": "Informa UK Limited",
+   "type": "journal-article",
+   "authors": [
+    "Monks Thomas",
+    "Harper Alison"
+   ],
+   "n_authors": 2,
+   "is_referenced_by_count": 17,
+   "url": "https://doi.org/10.1080/17477778.2023.2260772",
+   "sources": [
+    "research_trends.md"
+   ]
+  },
+  "10.1086/705716": {
+   "status": "verified",
+   "title": "Robots and Jobs: Evidence from US Labor Markets",
+   "container": "Journal of Political Economy",
+   "short_container": "Journal of Political Economy",
+   "year": 2020,
+   "volume": "128",
+   "issue": "6",
+   "page": "2188-2244",
+   "article_number": "",
+   "publisher": "University of Chicago Press",
+   "type": "journal-article",
+   "authors": [
+    "Acemoglu Daron",
+    "Restrepo Pascual"
+   ],
+   "n_authors": 2,
+   "is_referenced_by_count": 3317,
+   "url": "https://doi.org/10.1086/705716",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.1093/biostatistics/kxx069": {
+   "status": "verified",
+   "title": "Estimation of clinical trial success rates and related parameters",
+   "container": "Biostatistics",
+   "short_container": "",
+   "year": 2018,
+   "volume": "20",
+   "issue": "2",
+   "page": "273-286",
+   "article_number": "",
+   "publisher": "Oxford University Press (OUP)",
+   "type": "journal-article",
+   "authors": [
+    "Wong Chi Heem",
+    "Siah Kien Wei",
+    "Lo Andrew W"
+   ],
+   "n_authors": 3,
+   "is_referenced_by_count": 1360,
+   "url": "https://doi.org/10.1093/biostatistics/kxx069",
+   "sources": [
+    "research_trends.md"
+   ]
+  },
+  "10.1093/biostatistics/kxy072": {
+   "status": "verified",
+   "title": "Corrigendum: Estimation of clinical trial success rates and related parameters",
+   "container": "Biostatistics",
+   "short_container": "",
+   "year": 2018,
+   "volume": "20",
+   "issue": "2",
+   "page": "366-366",
+   "article_number": "",
+   "publisher": "Oxford University Press (OUP)",
+   "type": "journal-article",
+   "authors": [
+    "Wong Chi Heem",
+    "Siah Kien Wei",
+    "Lo Andrew W"
+   ],
+   "n_authors": 3,
+   "is_referenced_by_count": 49,
+   "url": "https://doi.org/10.1093/biostatistics/kxy072",
+   "sources": [
+    "research_trends.md"
+   ]
+  },
+  "10.1093/cjres/rsz022": {
+   "status": "verified",
+   "title": "The wrong kind of AI? Artificial intelligence and the future of labour demand",
+   "container": "Cambridge Journal of Regions, Economy and Society",
+   "short_container": "",
+   "year": 2019,
+   "volume": "13",
+   "issue": "1",
+   "page": "25-35",
+   "article_number": "",
+   "publisher": "Oxford University Press (OUP)",
+   "type": "journal-article",
+   "authors": [
+    "Acemoglu Daron",
+    "Restrepo Pascual"
+   ],
+   "n_authors": 2,
+   "is_referenced_by_count": 509,
+   "url": "https://doi.org/10.1093/cjres/rsz022",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.1093/epolic/eiae042": {
+   "status": "verified",
+   "title": "The simple macroeconomics of AI",
+   "container": "Economic Policy",
+   "short_container": "",
+   "year": 2024,
+   "volume": "40",
+   "issue": "121",
+   "page": "13-58",
+   "article_number": "",
+   "publisher": "Oxford University Press (OUP)",
+   "type": "journal-article",
+   "authors": [
+    "Acemoglu Daron"
+   ],
+   "n_authors": 1,
+   "is_referenced_by_count": 251,
+   "url": "https://doi.org/10.1093/epolic/eiae042",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.1093/jamia/ocab170": {
+   "status": "verified",
+   "title": "Extracting social determinants of health from electronic health records using natural language processing: a systematic review",
+   "container": "Journal of the American Medical Informatics Association",
+   "short_container": "",
+   "year": 2021,
+   "volume": "28",
+   "issue": "12",
+   "page": "2716-2727",
+   "article_number": "",
+   "publisher": "Oxford University Press (OUP)",
+   "type": "journal-article",
+   "authors": [
+    "Patra Braja G",
+    "Sharma Mohit M",
+    "Vekaria Veer",
+    "Adekkanattu Prakash",
+    "Patterson Olga V",
+    "Glicksberg Benjamin",
+    "Lepow Lauren A",
+    "Ryu Euijung",
+    "Biernacka Joanna M",
+    "Furmanchuk Al\u2019ona",
+    "George Thomas J",
+    "Hogan William"
+   ],
+   "n_authors": 22,
+   "is_referenced_by_count": 230,
+   "url": "https://doi.org/10.1093/jamia/ocab170",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1093/jamia/ocad118": {
+   "status": "verified",
+   "title": "Artificial intelligence suppression as a strategy to mitigate artificial intelligence automation bias",
+   "container": "Journal of the American Medical Informatics Association",
+   "short_container": "",
+   "year": 2023,
+   "volume": "30",
+   "issue": "10",
+   "page": "1684-1692",
+   "article_number": "",
+   "publisher": "Oxford University Press (OUP)",
+   "type": "journal-article",
+   "authors": [
+    "Wang Ding-Yu",
+    "Ding Jia",
+    "Sun An-Lan",
+    "Liu Shang-Gui",
+    "Jiang Dong",
+    "Li Nan",
+    "Yu Jia-Kuo"
+   ],
+   "n_authors": 7,
+   "is_referenced_by_count": 47,
+   "url": "https://doi.org/10.1093/jamia/ocad118",
+   "sources": [
+    "research_trends.md"
+   ]
+  },
+  "10.1093/qje/qjae044": {
+   "status": "verified",
+   "title": "Generative AI at Work",
+   "container": "The Quarterly Journal of Economics",
+   "short_container": "",
+   "year": 2025,
+   "volume": "140",
+   "issue": "2",
+   "page": "889-942",
+   "article_number": "",
+   "publisher": "Oxford University Press (OUP)",
+   "type": "journal-article",
+   "authors": [
+    "Brynjolfsson Erik",
+    "Li Danielle",
+    "Raymond Lindsey"
+   ],
+   "n_authors": 3,
+   "is_referenced_by_count": 877,
+   "url": "https://doi.org/10.1093/qje/qjae044",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.1097/ede.0000000000000487": {
+   "status": "verified",
+   "title": "Targeted Maximum Likelihood Estimation for Pharmacoepidemiologic Research",
+   "container": "Epidemiology",
+   "short_container": "Epidemiology",
+   "year": 2016,
+   "volume": "27",
+   "issue": "4",
+   "page": "570-577",
+   "article_number": "",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "type": "journal-article",
+   "authors": [
+    "Pang Menglan",
+    "Schuster Tibor",
+    "Filion Kristian B.",
+    "Eberg Maria",
+    "Platt Robert W."
+   ],
+   "n_authors": 5,
+   "is_referenced_by_count": 27,
+   "url": "https://doi.org/10.1097/ede.0000000000000487",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1097/ede.0b013e3181a663cc": {
+   "status": "verified",
+   "title": "High-dimensional Propensity Score Adjustment in Studies of Treatment Effects Using Health Care Claims Data",
+   "container": "Epidemiology",
+   "short_container": "",
+   "year": 2009,
+   "volume": "20",
+   "issue": "4",
+   "page": "512-522",
+   "article_number": "",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "type": "journal-article",
+   "authors": [
+    "Schneeweiss Sebastian",
+    "Rassen Jeremy A.",
+    "Glynn Robert J.",
+    "Avorn Jerry",
+    "Mogun Helen",
+    "Brookhart M Alan"
+   ],
+   "n_authors": 6,
+   "is_referenced_by_count": 980,
+   "url": "https://doi.org/10.1097/ede.0b013e3181a663cc",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1097/js9.0000000000002215": {
+   "status": "verified",
+   "title": "AI-driven evidence synthesis: data extraction of randomized controlled trials with large language models",
+   "container": "International Journal of Surgery",
+   "short_container": "",
+   "year": 2025,
+   "volume": "111",
+   "issue": "3",
+   "page": "2722-2726",
+   "article_number": "",
+   "publisher": "Ovid Technologies (Wolters Kluwer Health)",
+   "type": "journal-article",
+   "authors": [
+    "Liu Jiayi",
+    "Lai Honghao",
+    "Zhao Weilong",
+    "Huang Jiajie",
+    "Xia Danni",
+    "Liu Hui",
+    "Luo Xufei",
+    "Wang Bingyi",
+    "Pan Bei",
+    "Hou Liangying",
+    "Chen Yaolong",
+    "Ge Long"
+   ],
+   "n_authors": 12,
+   "is_referenced_by_count": 16,
+   "url": "https://doi.org/10.1097/js9.0000000000002215",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1101/2022.06.06.22276062": {
+   "status": "verified",
+   "title": "Assessing the effects of data drift on the performance of machine learning models used in clinical sepsis prediction",
+   "container": "",
+   "short_container": "",
+   "year": 2022,
+   "volume": "",
+   "issue": "",
+   "page": "",
+   "article_number": "",
+   "publisher": "openRxiv",
+   "type": "posted-content",
+   "authors": [
+    "Rahmani Keyvan",
+    "Thapa Rahul",
+    "Tsou Peiling",
+    "Chetty Satish Casie",
+    "Barnes Gina",
+    "Lam Carson",
+    "Tso Chak Foon"
+   ],
+   "n_authors": 7,
+   "is_referenced_by_count": 12,
+   "url": "https://doi.org/10.1101/2022.06.06.22276062",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1101/2025.04.25.25326412": {
+   "status": "verified",
+   "title": "Systematic literature review of the use of generative AI in health economic evaluation",
+   "container": "",
+   "short_container": "",
+   "year": 2025,
+   "volume": "",
+   "issue": "",
+   "page": "",
+   "article_number": "",
+   "publisher": "openRxiv",
+   "type": "posted-content",
+   "authors": [
+    "Sharp Steve",
+    "Lokuge Kusal",
+    "Elvidge Jamie",
+    "Hudson Tom",
+    "Dawoud Dalia"
+   ],
+   "n_authors": 5,
+   "is_referenced_by_count": 3,
+   "url": "https://doi.org/10.1101/2025.04.25.25326412",
+   "sources": [
+    "research_trends.md",
+    "research_trends_notes_AB.md"
+   ]
+  },
+  "10.1101/2025.06.16.25329708": {
+   "status": "verified",
+   "title": "Machine Learning Versus Logistic Regression for Propensity Score Estimation: A Benchmark Trial Emulation Against the PARADIGM-HF Randomized Trial",
+   "container": "",
+   "short_container": "",
+   "year": 2025,
+   "volume": "",
+   "issue": "",
+   "page": "",
+   "article_number": "",
+   "publisher": "openRxiv",
+   "type": "posted-content",
+   "authors": [
+    "Wang Kaicheng",
+    "Rosman Lindsey A",
+    "Lu Haidong"
+   ],
+   "n_authors": 3,
+   "is_referenced_by_count": 0,
+   "url": "https://doi.org/10.1101/2025.06.16.25329708",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1111/cts.70206": {
+   "status": "verified",
+   "title": "Potential Meets Practicality:\n                    <scp>AI</scp>\n                    's Current Impact on the Evidence Generation and Synthesis Pipeline in Health Economics",
+   "container": "Clinical and Translational Science",
+   "short_container": "Clinical Translational Sci",
+   "year": 2025,
+   "volume": "18",
+   "issue": "4",
+   "page": "",
+   "article_number": "e70206",
+   "publisher": "Wiley",
+   "type": "journal-article",
+   "authors": [
+    "Naylor Nichola R.",
+    "Hummel Noemi",
+    "de Moor Carl",
+    "Kadambi Ananth"
+   ],
+   "n_authors": 4,
+   "is_referenced_by_count": 5,
+   "url": "https://doi.org/10.1111/cts.70206",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.1111/ectj.12097": {
+   "status": "verified",
+   "title": "Double/debiased machine learning for treatment and structural parameters",
+   "container": "The Econometrics Journal",
+   "short_container": "",
+   "year": 2018,
+   "volume": "21",
+   "issue": "1",
+   "page": "C1-C68",
+   "article_number": "",
+   "publisher": "Oxford University Press (OUP)",
+   "type": "journal-article",
+   "authors": [
+    "Chernozhukov Victor",
+    "Chetverikov Denis",
+    "Demirer Mert",
+    "Duflo Esther",
+    "Hansen Christian",
+    "Newey Whitney",
+    "Robins James"
+   ],
+   "n_authors": 7,
+   "is_referenced_by_count": 2681,
+   "url": "https://doi.org/10.1111/ectj.12097",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1111/j.1524-4733.2005.00033.x": {
+   "status": "verified",
+   "title": "Establishing the Cost-Effectiveness of New Pharmaceuticals under Conditions of Uncertainty\u2014When Is There Sufficient Evidence?",
+   "container": "Value in Health",
+   "short_container": "Value in Health",
+   "year": 2005,
+   "volume": "8",
+   "issue": "4",
+   "page": "433-446",
+   "article_number": "",
+   "publisher": "Elsevier BV",
+   "type": "journal-article",
+   "authors": [
+    "Sculpher Mark",
+    "Claxton Karl"
+   ],
+   "n_authors": 2,
+   "is_referenced_by_count": 86,
+   "url": "https://doi.org/10.1111/j.1524-4733.2005.00033.x",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.1111/j.1524-4733.2008.00502.x": {
+   "status": "verified",
+   "title": "Characterizing Structural Uncertainty in Decision Analytic Models: A Review and Application of Methods",
+   "container": "Value in Health",
+   "short_container": "Value in Health",
+   "year": 2009,
+   "volume": "12",
+   "issue": "5",
+   "page": "739-749",
+   "article_number": "",
+   "publisher": "Elsevier BV",
+   "type": "journal-article",
+   "authors": [
+    "Bojke Laura",
+    "Claxton Karl",
+    "Sculpher Mark",
+    "Palmer Stephen"
+   ],
+   "n_authors": 4,
+   "is_referenced_by_count": 131,
+   "url": "https://doi.org/10.1111/j.1524-4733.2008.00502.x",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.1111/jgs.15411": {
+   "status": "verified",
+   "title": "The Value of Unstructured Electronic Health Record Data in Geriatric Syndrome Case Identification",
+   "container": "Journal of the American Geriatrics Society",
+   "short_container": "J American Geriatrics Society",
+   "year": 2018,
+   "volume": "66",
+   "issue": "8",
+   "page": "1499-1507",
+   "article_number": "",
+   "publisher": "Wiley",
+   "type": "journal-article",
+   "authors": [
+    "Kharrazi Hadi",
+    "Anzaldi Laura J.",
+    "Hernandez Leilani",
+    "Davison Ashwini",
+    "Boyd Cynthia M.",
+    "Leff Bruce",
+    "Kimura Joe",
+    "Weiner Jonathan P."
+   ],
+   "n_authors": 8,
+   "is_referenced_by_count": 123,
+   "url": "https://doi.org/10.1111/jgs.15411",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1126/sciadv.adn5290": {
+   "status": "verified",
+   "title": "Generative AI enhances individual creativity but reduces the collective diversity of novel content",
+   "container": "Science Advances",
+   "short_container": "Sci. Adv.",
+   "year": 2024,
+   "volume": "10",
+   "issue": "28",
+   "page": "",
+   "article_number": "eadn5290",
+   "publisher": "American Association for the Advancement of Science (AAAS)",
+   "type": "journal-article",
+   "authors": [
+    "Doshi Anil R.",
+    "Hauser Oliver P."
+   ],
+   "n_authors": 2,
+   "is_referenced_by_count": 700,
+   "url": "https://doi.org/10.1126/sciadv.adn5290",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.1126/science.aax2342": {
+   "status": "verified",
+   "title": "Dissecting racial bias in an algorithm used to manage the health of populations",
+   "container": "Science",
+   "short_container": "Science",
+   "year": 2019,
+   "volume": "366",
+   "issue": "6464",
+   "page": "447-453",
+   "article_number": "",
+   "publisher": "American Association for the Advancement of Science (AAAS)",
+   "type": "journal-article",
+   "authors": [
+    "Obermeyer Ziad",
+    "Powers Brian",
+    "Vogeli Christine",
+    "Mullainathan Sendhil"
+   ],
+   "n_authors": 4,
+   "is_referenced_by_count": 6074,
+   "url": "https://doi.org/10.1126/science.aax2342",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1126/science.adh2586": {
+   "status": "verified",
+   "title": "Experimental evidence on the productivity effects of generative artificial intelligence",
+   "container": "Science",
+   "short_container": "Science",
+   "year": 2023,
+   "volume": "381",
+   "issue": "6654",
+   "page": "187-192",
+   "article_number": "",
+   "publisher": "American Association for the Advancement of Science (AAAS)",
+   "type": "journal-article",
+   "authors": [
+    "Noy Shakked",
+    "Zhang Whitney"
+   ],
+   "n_authors": 2,
+   "is_referenced_by_count": 1644,
+   "url": "https://doi.org/10.1126/science.adh2586",
+   "sources": [
+    "research_economics.md",
+    "research_trends.md"
+   ]
+  },
+  "10.1136/bmj-2023-078378": {
+   "status": "verified",
+   "title": "TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods",
+   "container": "BMJ",
+   "short_container": "BMJ",
+   "year": 2024,
+   "volume": "385",
+   "issue": "",
+   "page": "e078378",
+   "article_number": "",
+   "publisher": "BMJ",
+   "type": "journal-article",
+   "authors": [
+    "Collins Gary S",
+    "Moons Karel G M",
+    "Dhiman Paula",
+    "Riley Richard D",
+    "Beam Andrew L",
+    "Van Calster Ben",
+    "Ghassemi Marzyeh",
+    "Liu Xiaoxuan",
+    "Reitsma Johannes B",
+    "van Smeden Maarten",
+    "Boulesteix Anne-Laure",
+    "Camaradou Jennifer Catherine"
+   ],
+   "n_authors": 34,
+   "is_referenced_by_count": 3473,
+   "url": "https://doi.org/10.1136/bmj-2023-078378",
+   "sources": [
+    "research_regulatory.md"
+   ]
+  },
+  "10.1136/bmj-2024-082505": {
+   "status": "verified",
+   "title": "PROBAST+AI: an updated quality, risk of bias, and applicability assessment tool for prediction models using regression or artificial intelligence methods",
+   "container": "BMJ",
+   "short_container": "BMJ",
+   "year": 2025,
+   "volume": "388",
+   "issue": "",
+   "page": "e082505",
+   "article_number": "",
+   "publisher": "BMJ",
+   "type": "journal-article",
+   "authors": [
+    "Moons Karel G M",
+    "Damen Johanna A A",
+    "Kaul Tabea",
+    "Hooft Lotty",
+    "Andaur Navarro Constanza",
+    "Dhiman Paula",
+    "Beam Andrew L",
+    "Van Calster Ben",
+    "Celi Leo Anthony",
+    "Denaxas Spiros",
+    "Denniston Alastair K",
+    "Ghassemi Marzyeh"
+   ],
+   "n_authors": 28,
+   "is_referenced_by_count": 744,
+   "url": "https://doi.org/10.1136/bmj-2024-082505",
+   "sources": [
+    "research_regulatory.md"
+   ]
+  },
+  "10.1136/bmj.k400": {
+   "status": "verified",
+   "title": "Data sharing and reanalysis of randomized controlled trials in leading biomedical journals with a full data sharing policy: survey of studies published in<i>The BMJ</i>and<i>PLOS Medicine</i>",
+   "container": "BMJ",
+   "short_container": "BMJ",
+   "year": 2018,
+   "volume": "",
+   "issue": "",
+   "page": "k400",
+   "article_number": "",
+   "publisher": "BMJ",
+   "type": "journal-article",
+   "authors": [
+    "Naudet Florian",
+    "Sakarovitch Charlotte",
+    "Janiaud Perrine",
+    "Cristea Ioana",
+    "Fanelli Daniele",
+    "Moher David",
+    "Ioannidis John P A"
+   ],
+   "n_authors": 7,
+   "is_referenced_by_count": 175,
+   "url": "https://doi.org/10.1136/bmj.k400",
+   "sources": [
+    "research_trends.md"
+   ]
+  },
+  "10.1136/bmj.m1328": {
+   "status": "verified",
+   "title": "Prediction models for diagnosis and prognosis of covid-19: systematic review and critical appraisal",
+   "container": "BMJ",
+   "short_container": "BMJ",
+   "year": 2020,
+   "volume": "",
+   "issue": "",
+   "page": "m1328",
+   "article_number": "",
+   "publisher": "BMJ",
+   "type": "journal-article",
+   "authors": [
+    "Wynants Laure",
+    "Van Calster Ben",
+    "Collins Gary S",
+    "Riley Richard D",
+    "Heinze Georg",
+    "Schuit Ewoud",
+    "Albu Elena",
+    "Arshi Banafsheh",
+    "Bellou Vanesa",
+    "Bonten Marc M J",
+    "Dahly Darren L",
+    "Damen Johanna A"
+   ],
+   "n_authors": 57,
+   "is_referenced_by_count": 2229,
+   "url": "https://doi.org/10.1136/bmj.m1328",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1136/bmj.n2281": {
+   "status": "verified",
+   "title": "Risk of bias in studies on prediction models developed using supervised\n                        machine learning techniques: systematic review",
+   "container": "BMJ",
+   "short_container": "BMJ",
+   "year": 2021,
+   "volume": "",
+   "issue": "",
+   "page": "n2281",
+   "article_number": "",
+   "publisher": "BMJ",
+   "type": "journal-article",
+   "authors": [
+    "Andaur Navarro Constanza L",
+    "Damen Johanna A A",
+    "Takada Toshihiko",
+    "Nijman Steven W J",
+    "Dhiman Paula",
+    "Ma Jie",
+    "Collins Gary S",
+    "Bajpai Ram",
+    "Riley Richard D",
+    "Moons Karel G M",
+    "Hooft Lotty"
+   ],
+   "n_authors": 11,
+   "is_referenced_by_count": 310,
+   "url": "https://doi.org/10.1136/bmj.n2281",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1136/bmjebm-2023-112597": {
+   "status": "verified",
+   "title": "Integrating large language models in systematic reviews: a framework and case study using ROBINS-I for risk of bias assessment",
+   "container": "BMJ Evidence-Based Medicine",
+   "short_container": "BMJ EBM",
+   "year": 2024,
+   "volume": "29",
+   "issue": "6",
+   "page": "394-398",
+   "article_number": "",
+   "publisher": "BMJ",
+   "type": "journal-article",
+   "authors": [
+    "Hasan Bashar",
+    "Saadi Samer",
+    "Rajjoub Noora S",
+    "Hegazi Moustafa",
+    "Al-Kordi Mohammad",
+    "Fleti Farah",
+    "Farah Magdoleen",
+    "Riaz Irbaz B",
+    "Banerjee Imon",
+    "Wang Zhen",
+    "Murad Mohammad Hassan"
+   ],
+   "n_authors": 11,
+   "is_referenced_by_count": 69,
+   "url": "https://doi.org/10.1136/bmjebm-2023-112597",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1136/bmjopen-2020-047709": {
+   "status": "verified",
+   "title": "Developing a reporting guideline for artificial intelligence-centred diagnostic test accuracy studies: the STARD-AI protocol",
+   "container": "BMJ Open",
+   "short_container": "BMJ Open",
+   "year": 2021,
+   "volume": "11",
+   "issue": "6",
+   "page": "e047709",
+   "article_number": "",
+   "publisher": "BMJ",
+   "type": "journal-article",
+   "authors": [
+    "Sounderajah Viknesh",
+    "Ashrafian Hutan",
+    "Golub Robert M",
+    "Shetty Shravya",
+    "De Fauw Jeffrey",
+    "Hooft Lotty",
+    "Moons Karel",
+    "Collins Gary",
+    "Moher David",
+    "Bossuyt Patrick M",
+    "Darzi Ara",
+    "Karthikesalingam Alan"
+   ],
+   "n_authors": 31,
+   "is_referenced_by_count": 307,
+   "url": "https://doi.org/10.1136/bmjopen-2020-047709",
+   "sources": [
+    "research_regulatory.md"
+   ]
+  },
+  "10.1146/annurev-economics-091823-025129": {
+   "status": "verified",
+   "title": "Learning From Ricardo and Thompson: Machinery and Labor in the Early Industrial Revolution and in the Age of Artificial Intelligence",
+   "container": "Annual Review of Economics",
+   "short_container": "",
+   "year": 2024,
+   "volume": "16",
+   "issue": "1",
+   "page": "597-621",
+   "article_number": "",
+   "publisher": "Annual Reviews",
+   "type": "journal-article",
+   "authors": [
+    "Acemoglu Daron",
+    "Johnson Simon"
+   ],
+   "n_authors": 2,
+   "is_referenced_by_count": 38,
+   "url": "https://doi.org/10.1146/annurev-economics-091823-025129",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.1148/radiol.222176": {
+   "status": "verified",
+   "title": "Automation Bias in Mammography: The Impact of Artificial Intelligence                     BI-RADS Suggestions on Reader Performance",
+   "container": "Radiology",
+   "short_container": "Radiology",
+   "year": 2023,
+   "volume": "307",
+   "issue": "4",
+   "page": "",
+   "article_number": "e222176",
+   "publisher": "Radiological Society of North America (RSNA)",
+   "type": "journal-article",
+   "authors": [
+    "Dratsch Thomas",
+    "Chen Xue",
+    "Rezazade Mehrizi Mohammad",
+    "Kloeckner Roman",
+    "M\u00e4hringer-Kunz Aline",
+    "P\u00fcsken Michael",
+    "Bae\u00dfler Bettina",
+    "Sauer Stephanie",
+    "Maintz David",
+    "Pinto dos Santos Daniel"
+   ],
+   "n_authors": 10,
+   "is_referenced_by_count": 326,
+   "url": "https://doi.org/10.1148/radiol.222176",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.1162/daed_a_01915": {
+   "status": "verified",
+   "title": "The Turing Trap: The Promise &amp; Peril of Human-Like Artificial\n          Intelligence",
+   "container": "Daedalus",
+   "short_container": "",
+   "year": 2022,
+   "volume": "151",
+   "issue": "2",
+   "page": "272-287",
+   "article_number": "",
+   "publisher": "MIT Press",
+   "type": "journal-article",
+   "authors": [
+    "Brynjolfsson Erik"
+   ],
+   "n_authors": 1,
+   "is_referenced_by_count": 176,
+   "url": "https://doi.org/10.1162/daed_a_01915",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.1177/0272989x07308751": {
+   "status": "verified",
+   "title": "The Value of Implementation and the Value of Information: Combined and Uneven Development",
+   "container": "Medical Decision Making",
+   "short_container": "Med Decis Making",
+   "year": 2007,
+   "volume": "28",
+   "issue": "1",
+   "page": "21-32",
+   "article_number": "",
+   "publisher": "SAGE Publications",
+   "type": "journal-article",
+   "authors": [
+    "Fenwick Elisabeth",
+    "Claxton Karl",
+    "Sculpher Mark"
+   ],
+   "n_authors": 3,
+   "is_referenced_by_count": 134,
+   "url": "https://doi.org/10.1177/0272989x07308751",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.1177/0272989x20912233": {
+   "status": "verified",
+   "title": "Introduction to Metamodeling for Reducing Computational Burden of Advanced Analyses with Health Economic Models: A Structured Overview of Metamodeling Methods in a 6-Step Application Process",
+   "container": "Medical Decision Making",
+   "short_container": "Med Decis Making",
+   "year": 2020,
+   "volume": "40",
+   "issue": "3",
+   "page": "348-363",
+   "article_number": "",
+   "publisher": "SAGE Publications",
+   "type": "journal-article",
+   "authors": [
+    "Degeling Koen",
+    "IJzerman Maarten J.",
+    "Lavieri Mariel S.",
+    "Strong Mark",
+    "Koffijberg Hendrik"
+   ],
+   "n_authors": 5,
+   "is_referenced_by_count": 15,
+   "url": "https://doi.org/10.1177/0272989x20912233",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1177/0272989x241263356": {
+   "status": "verified",
+   "title": "Machine Learning Methods to Estimate Individualized Treatment Effects for Use in Health Technology Assessment",
+   "container": "Medical Decision Making",
+   "short_container": "Med Decis Making",
+   "year": 2024,
+   "volume": "44",
+   "issue": "7",
+   "page": "756-769",
+   "article_number": "",
+   "publisher": "SAGE Publications",
+   "type": "journal-article",
+   "authors": [
+    "Zhang Yingying",
+    "Kreif Noemi",
+    "GC Vijay S.",
+    "Manca Andrea"
+   ],
+   "n_authors": 4,
+   "is_referenced_by_count": 9,
+   "url": "https://doi.org/10.1177/0272989x241263356",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1177/10732748241279518": {
+   "status": "verified",
+   "title": "A Multi-Institutional Natural Language Processing Pipeline to Extract Performance Status From Electronic Health Records",
+   "container": "Cancer Control",
+   "short_container": "Cancer Control",
+   "year": 2024,
+   "volume": "31",
+   "issue": "",
+   "page": "",
+   "article_number": "10732748241279518",
+   "publisher": "SAGE Publications",
+   "type": "journal-article",
+   "authors": [
+    "Maghsoudi Arash",
+    "Sada Yvonne H.",
+    "Nowakowski Sara",
+    "Guffey Danielle",
+    "Zhu Huili",
+    "Yarlagadda Sudha R.",
+    "Li Ang",
+    "Razjouyan Javad"
+   ],
+   "n_authors": 8,
+   "is_referenced_by_count": 4,
+   "url": "https://doi.org/10.1177/10732748241279518",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1177/14604582231198021": {
+   "status": "verified",
+   "title": "Machine learning-based natural language processing to extract PD-L1 expression levels from clinical notes",
+   "container": "Health Informatics Journal",
+   "short_container": "Health Informatics J",
+   "year": 2023,
+   "volume": "29",
+   "issue": "3",
+   "page": "",
+   "article_number": "14604582231198021",
+   "publisher": "SAGE Publications",
+   "type": "journal-article",
+   "authors": [
+    "Lin Eric",
+    "Zwolinski Robert",
+    "Wu Julie Tsu-Yu",
+    "La Jennifer",
+    "Goryachev Sergey",
+    "Huhmann Linden",
+    "Yildrim Cenk",
+    "Tuck David P",
+    "Elbers Danne C",
+    "Brophy Mary T",
+    "Do Nhan V",
+    "Fillmore Nathanael R"
+   ],
+   "n_authors": 12,
+   "is_referenced_by_count": 7,
+   "url": "https://doi.org/10.1177/14604582231198021",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1186/s12874-021-01354-2": {
+   "status": "verified",
+   "title": "Creating efficiencies in the extraction of data from randomized trials: a prospective evaluation of a machine learning and text mining tool",
+   "container": "BMC Medical Research Methodology",
+   "short_container": "BMC Med Res Methodol",
+   "year": 2021,
+   "volume": "21",
+   "issue": "1",
+   "page": "",
+   "article_number": "169",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Gates Allison",
+    "Gates Michelle",
+    "Sim Shannon",
+    "Elliott Sarah A.",
+    "Pillay Jennifer",
+    "Hartling Lisa"
+   ],
+   "n_authors": 6,
+   "is_referenced_by_count": 21,
+   "url": "https://doi.org/10.1186/s12874-021-01354-2",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1186/s12874-022-01536-6": {
+   "status": "verified",
+   "title": "Assessing transferability in systematic reviews of health economic evaluations \u2013 a review of methodological guidance",
+   "container": "BMC Medical Research Methodology",
+   "short_container": "BMC Med Res Methodol",
+   "year": 2022,
+   "volume": "22",
+   "issue": "1",
+   "page": "",
+   "article_number": "52",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Weise Alina",
+    "B\u00fcchter Roland Brian",
+    "Pieper Dawid",
+    "Mathes Tim"
+   ],
+   "n_authors": 4,
+   "is_referenced_by_count": 15,
+   "url": "https://doi.org/10.1186/s12874-022-01536-6",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.1186/s12874-023-01998-2": {
+   "status": "verified",
+   "title": "Evaluating and improving real-world evidence with Targeted Learning",
+   "container": "BMC Medical Research Methodology",
+   "short_container": "BMC Med Res Methodol",
+   "year": 2023,
+   "volume": "23",
+   "issue": "1",
+   "page": "",
+   "article_number": "178",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Gruber Susan",
+    "Phillips Rachael V.",
+    "Lee Hana",
+    "Concato John",
+    "van der Laan Mark"
+   ],
+   "n_authors": 5,
+   "is_referenced_by_count": 6,
+   "url": "https://doi.org/10.1186/s12874-023-01998-2",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1186/s12885-022-09613-1": {
+   "status": "verified",
+   "title": "Cost-effectiveness of using artificial intelligence versus polygenic risk score to guide breast cancer screening",
+   "container": "BMC Cancer",
+   "short_container": "BMC Cancer",
+   "year": 2022,
+   "volume": "22",
+   "issue": "1",
+   "page": "",
+   "article_number": "501",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Mital Shweta",
+    "Nguyen Hai V."
+   ],
+   "n_authors": 2,
+   "is_referenced_by_count": 34,
+   "url": "https://doi.org/10.1186/s12885-022-09613-1",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1186/s12913-022-07655-6": {
+   "status": "verified",
+   "title": "Cost-effectiveness of artificial intelligence screening for diabetic retinopathy in rural China",
+   "container": "BMC Health Services Research",
+   "short_container": "BMC Health Serv Res",
+   "year": 2022,
+   "volume": "22",
+   "issue": "1",
+   "page": "",
+   "article_number": "260",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Huang Xiao-Mei",
+    "Yang Bo-Fan",
+    "Zheng Wen-Lin",
+    "Liu Qun",
+    "Xiao Fan",
+    "Ouyang Pei-Wen",
+    "Li Mei-Jun",
+    "Li Xiu-Yun",
+    "Meng Jing",
+    "Zhang Tian-Tian",
+    "Cui Yu-Hong",
+    "Pan Hong-Wei"
+   ],
+   "n_authors": 12,
+   "is_referenced_by_count": 81,
+   "url": "https://doi.org/10.1186/s12913-022-07655-6",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1186/s13643-020-01520-5": {
+   "status": "verified",
+   "title": "Aligning text mining and machine learning algorithms with best practices for study selection in systematic literature reviews",
+   "container": "Systematic Reviews",
+   "short_container": "Syst Rev",
+   "year": 2020,
+   "volume": "9",
+   "issue": "1",
+   "page": "",
+   "article_number": "293",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Popoff E.",
+    "Besada M.",
+    "Jansen J. P.",
+    "Cope S.",
+    "Kanters S."
+   ],
+   "n_authors": 5,
+   "is_referenced_by_count": 25,
+   "url": "https://doi.org/10.1186/s13643-020-01520-5",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1186/s13643-023-02243-z": {
+   "status": "verified",
+   "title": "Are ChatGPT and large language models \u201cthe answer\u201d to bringing us closer to systematic review automation?",
+   "container": "Systematic Reviews",
+   "short_container": "Syst Rev",
+   "year": 2023,
+   "volume": "12",
+   "issue": "1",
+   "page": "",
+   "article_number": "72",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Qureshi Riaz",
+    "Shaughnessy Daniel",
+    "Gill Kayden A. R.",
+    "Robinson Karen A.",
+    "Li Tianjing",
+    "Agai Eitan"
+   ],
+   "n_authors": 6,
+   "is_referenced_by_count": 197,
+   "url": "https://doi.org/10.1186/s13643-023-02243-z",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1186/s13750-025-00360-x": {
+   "status": "verified",
+   "title": "Testing the utility of GPT for title and abstract screening in environmental systematic evidence synthesis",
+   "container": "Environmental Evidence",
+   "short_container": "Environ Evid",
+   "year": 2025,
+   "volume": "14",
+   "issue": "1",
+   "page": "",
+   "article_number": "7",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Nykvist Bj\u00f6rn",
+    "Macura Biljana",
+    "Xylia Maria",
+    "Olsson Erik"
+   ],
+   "n_authors": 4,
+   "is_referenced_by_count": 14,
+   "url": "https://doi.org/10.1186/s13750-025-00360-x",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1186/s13750-025-00374-5": {
+   "status": "verified",
+   "title": "Position statement on artificial intelligence (AI) use in evidence synthesis across Cochrane, the Campbell Collaboration, JBI and the Collaboration for Environmental Evidence 2025",
+   "container": "Environmental Evidence",
+   "short_container": "Environ Evid",
+   "year": 2025,
+   "volume": "14",
+   "issue": "1",
+   "page": "",
+   "article_number": "20",
+   "publisher": "Springer Science and Business Media LLC",
+   "type": "journal-article",
+   "authors": [
+    "Flemyng Ella",
+    "Noel-Storr Anna",
+    "Macura Biljana",
+    "Gartlehner Gerald",
+    "Thomas James",
+    "Meerpohl Joerg J.",
+    "Jordan Zoe",
+    "Minx Jan",
+    "Eisele-Metzger Angelika",
+    "Hamel Candyce",
+    "Jemio\u0142o Pawe\u0142",
+    "Porritt Kylie"
+   ],
+   "n_authors": 13,
+   "is_referenced_by_count": 10,
+   "url": "https://doi.org/10.1186/s13750-025-00374-5",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1200/cci-25-00215": {
+   "status": "verified",
+   "title": "Ensuring Reliability of Curated Electronic Health Record\u2013Derived Data: The Validation of Accuracy for Large Language Model\u2013/Machine Learning\u2013Extracted Information and Data (VALID) Framework",
+   "container": "JCO Clinical Cancer Informatics",
+   "short_container": "JCO Clin Cancer Inform",
+   "year": 2026,
+   "volume": "10",
+   "issue": "1",
+   "page": "",
+   "article_number": "e2500215",
+   "publisher": "American Society of Clinical Oncology (ASCO)",
+   "type": "journal-article",
+   "authors": [
+    "Estevez Melissa",
+    "Singh Nisha",
+    "Dyson Lauren",
+    "Adamson Blythe",
+    "Krismer Konstantin",
+    "Magee Kelly",
+    "Yuan Qianyu",
+    "Hildner Megan W.",
+    "Fidyk Erin",
+    "Williams Tori",
+    "Mbah Olive",
+    "Khan Farhad"
+   ],
+   "n_authors": 14,
+   "is_referenced_by_count": 3,
+   "url": "https://doi.org/10.1200/cci-25-00215",
+   "sources": [
+    "research_pharma.md"
+   ]
+  },
+  "10.1200/cci.21.00065": {
+   "status": "verified",
+   "title": "Automated Extraction of Tumor Staging and Diagnosis Information From Surgical Pathology Reports",
+   "container": "JCO Clinical Cancer Informatics",
+   "short_container": "JCO Clinical Cancer Informatics",
+   "year": 2021,
+   "volume": "",
+   "issue": "5",
+   "page": "1054-1061",
+   "article_number": "",
+   "publisher": "American Society of Clinical Oncology (ASCO)",
+   "type": "journal-article",
+   "authors": [
+    "Abedian Sajjad",
+    "Sholle Evan T.",
+    "Adekkanattu Prakash M.",
+    "Cusick Marika M.",
+    "Weiner Stephanie E.",
+    "Shoag Jonathan E.",
+    "Hu Jim C.",
+    "Campion Thomas R."
+   ],
+   "n_authors": 8,
+   "is_referenced_by_count": 29,
+   "url": "https://doi.org/10.1200/cci.21.00065",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1200/cci.23.00021": {
+   "status": "verified",
+   "title": "Synthetic Data Generation by Artificial Intelligence to Accelerate Research and Precision Medicine in Hematology",
+   "container": "JCO Clinical Cancer Informatics",
+   "short_container": "JCO Clinical Cancer Informatics",
+   "year": 2023,
+   "volume": "",
+   "issue": "7",
+   "page": "",
+   "article_number": "e2300021",
+   "publisher": "American Society of Clinical Oncology (ASCO)",
+   "type": "journal-article",
+   "authors": [
+    "D'Amico Saverio",
+    "Dall\u2019Olio Daniele",
+    "Sala Claudia",
+    "Dall\u2019Olio Lorenzo",
+    "Sauta Elisabetta",
+    "Zampini Matteo",
+    "Asti Gianluca",
+    "Lanino Luca",
+    "Maggioni Giulia",
+    "Campagna Alessia",
+    "Ubezio Marta",
+    "Russo Antonio"
+   ],
+   "n_authors": 29,
+   "is_referenced_by_count": 63,
+   "url": "https://doi.org/10.1200/cci.23.00021",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1200/cci.23.00099": {
+   "status": "verified",
+   "title": "Validation of Non\u2013Small Cell Lung Cancer Clinical Insights Using a Generalized Oncology Natural Language Processing Model",
+   "container": "JCO Clinical Cancer Informatics",
+   "short_container": "JCO Clin Cancer Inform",
+   "year": 2024,
+   "volume": "",
+   "issue": "8",
+   "page": "",
+   "article_number": "e2300099",
+   "publisher": "American Society of Clinical Oncology (ASCO)",
+   "type": "journal-article",
+   "authors": [
+    "Kenney Rachel C.",
+    "Chen Xiaoren",
+    "Shintani Kazuki",
+    "Gagnon Clara",
+    "Liu John",
+    "DaCosta Byfield Stacey",
+    "Ochs Lorre",
+    "Currie Anne-Marie"
+   ],
+   "n_authors": 8,
+   "is_referenced_by_count": 0,
+   "url": "https://doi.org/10.1200/cci.23.00099",
+   "sources": [
+    "research_pharma.md"
+   ]
+  },
+  "10.1200/cci.23.00269": {
+   "status": "verified",
+   "title": "Extraction and Imputation of Eastern Cooperative Oncology Group Performance Status From Unstructured Oncology Notes Using Language Models",
+   "container": "JCO Clinical Cancer Informatics",
+   "short_container": "JCO Clin Cancer Inform",
+   "year": 2024,
+   "volume": "",
+   "issue": "8",
+   "page": "",
+   "article_number": "e2300269",
+   "publisher": "American Society of Clinical Oncology (ASCO)",
+   "type": "journal-article",
+   "authors": [
+    "Xu Wenxin",
+    "Gu Bowen",
+    "Lotter William E.",
+    "Kehl Kenneth L."
+   ],
+   "n_authors": 4,
+   "is_referenced_by_count": 8,
+   "url": "https://doi.org/10.1200/cci.23.00269",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1200/jco.2026.44.16_suppl.11072": {
+   "status": "verified",
+   "title": "Clinical-stage AI-enabled therapeutic assets: An industry-wide analysis of scale, clinical progression, and company characteristics.",
+   "container": "Journal of Clinical Oncology",
+   "short_container": "J Clin Oncol",
+   "year": 2026,
+   "volume": "44",
+   "issue": "16_suppl",
+   "page": "11072-11072",
+   "article_number": "",
+   "publisher": "American Society of Clinical Oncology (ASCO)",
+   "type": "journal-article",
+   "authors": [
+    "Haque Waqas",
+    "Sai-Palm Kareena",
+    "Kasparcova Misa Z.",
+    "Rana Iemaan",
+    "Verlingue Loic",
+    "Garassino Marina Chiara",
+    "Veronesi Pietro"
+   ],
+   "n_authors": 7,
+   "is_referenced_by_count": 0,
+   "url": "https://doi.org/10.1200/jco.2026.44.16_suppl.11072",
+   "sources": [
+    "research_trends.md"
+   ]
+  },
+  "10.1257/aer.20160696": {
+   "status": "verified",
+   "title": "The Race between Man and Machine: Implications of Technology for Growth, Factor Shares, and Employment",
+   "container": "American Economic Review",
+   "short_container": "American Economic Review",
+   "year": 2018,
+   "volume": "108",
+   "issue": "6",
+   "page": "1488-1542",
+   "article_number": "",
+   "publisher": "American Economic Association",
+   "type": "journal-article",
+   "authors": [
+    "Acemoglu Daron",
+    "Restrepo Pascual"
+   ],
+   "n_authors": 2,
+   "is_referenced_by_count": 2630,
+   "url": "https://doi.org/10.1257/aer.20160696",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.1257/jep.33.2.3": {
+   "status": "verified",
+   "title": "Automation and New Tasks: How Technology Displaces and Reinstates Labor",
+   "container": "Journal of Economic Perspectives",
+   "short_container": "Journal of Economic Perspectives",
+   "year": 2019,
+   "volume": "33",
+   "issue": "2",
+   "page": "3-30",
+   "article_number": "",
+   "publisher": "American Economic Association",
+   "type": "journal-article",
+   "authors": [
+    "Acemoglu Daron",
+    "Restrepo Pascual"
+   ],
+   "n_authors": 2,
+   "is_referenced_by_count": 2267,
+   "url": "https://doi.org/10.1257/jep.33.2.3",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.1257/mac.20180386": {
+   "status": "verified",
+   "title": "The Productivity J-Curve: How Intangibles Complement General Purpose Technologies",
+   "container": "American Economic Journal: Macroeconomics",
+   "short_container": "American Economic Journal: Macroeconomics",
+   "year": 2021,
+   "volume": "13",
+   "issue": "1",
+   "page": "333-372",
+   "article_number": "",
+   "publisher": "American Economic Association",
+   "type": "journal-article",
+   "authors": [
+    "Brynjolfsson Erik",
+    "Rock Daniel",
+    "Syverson Chad"
+   ],
+   "n_authors": 3,
+   "is_referenced_by_count": 410,
+   "url": "https://doi.org/10.1257/mac.20180386",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.1287/orsc.2025.21838": {
+   "status": "verified",
+   "title": "Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of Artificial Intelligence on Knowledge Worker Productivity and Quality",
+   "container": "Organization Science",
+   "short_container": "Organization Science",
+   "year": 2026,
+   "volume": "37",
+   "issue": "2",
+   "page": "403-423",
+   "article_number": "",
+   "publisher": "Institute for Operations Research and the Management Sciences (INFORMS)",
+   "type": "journal-article",
+   "authors": [
+    "Dell\u2019Acqua Fabrizio",
+    "McFowland Edward",
+    "Mollick Ethan",
+    "Lifshitz Hila",
+    "Kellogg Katherine C.",
+    "Rajendran Saran",
+    "Krayer Lisa",
+    "Candelon Fran\u00e7ois",
+    "Lakhani Karim R."
+   ],
+   "n_authors": 9,
+   "is_referenced_by_count": 165,
+   "url": "https://doi.org/10.1287/orsc.2025.21838",
+   "sources": [
+    "research_trends.md"
+   ]
+  },
+  "10.1371/journal.pdig.0000581": {
+   "status": "verified",
+   "title": "Synthetic data as external control arms in scarce single-arm clinical trials",
+   "container": "PLOS Digital Health",
+   "short_container": "PLOS Digit Health",
+   "year": 2025,
+   "volume": "4",
+   "issue": "1",
+   "page": "e0000581",
+   "article_number": "",
+   "publisher": "Public Library of Science (PLoS)",
+   "type": "journal-article",
+   "authors": [
+    "Elvatun Severin",
+    "Knoors Daan",
+    "Brant Simon",
+    "Jonasson Christian",
+    "Nyg\u00e5rd Jan F."
+   ],
+   "n_authors": 5,
+   "is_referenced_by_count": 16,
+   "url": "https://doi.org/10.1371/journal.pdig.0000581",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1371/journal.pdig.0001534": {
+   "status": "verified",
+   "title": "Validation is not enough: Longitudinal evidence of post-deployment fragility in clinical AI systems",
+   "container": "PLOS Digital Health",
+   "short_container": "PLOS Digit Health",
+   "year": 2026,
+   "volume": "5",
+   "issue": "7",
+   "page": "e0001534",
+   "article_number": "",
+   "publisher": "Public Library of Science (PLoS)",
+   "type": "journal-article",
+   "authors": [
+    "Kopanitsa Georgy"
+   ],
+   "n_authors": 1,
+   "is_referenced_by_count": 0,
+   "url": "https://doi.org/10.1371/journal.pdig.0001534",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.1371/journal.pone.0275380": {
+   "status": "verified",
+   "title": "A meta-epidemiological assessment of transparency indicators of infectious disease models",
+   "container": "PLOS ONE",
+   "short_container": "PLoS ONE",
+   "year": 2022,
+   "volume": "17",
+   "issue": "10",
+   "page": "e0275380",
+   "article_number": "",
+   "publisher": "Public Library of Science (PLoS)",
+   "type": "journal-article",
+   "authors": [
+    "Zavalis Emmanuel A.",
+    "Ioannidis John P. A."
+   ],
+   "n_authors": 2,
+   "is_referenced_by_count": 18,
+   "url": "https://doi.org/10.1371/journal.pone.0275380",
+   "sources": [
+    "research_trends.md"
+   ]
+  },
+  "10.2196/22422": {
+   "status": "verified",
+   "title": "Deep Neural Network for Reducing the Screening Workload in Systematic Reviews for Clinical Guidelines: Algorithm Validation Study",
+   "container": "Journal of Medical Internet Research",
+   "short_container": "J Med Internet Res",
+   "year": 2020,
+   "volume": "22",
+   "issue": "12",
+   "page": "e22422",
+   "article_number": "",
+   "publisher": "JMIR Publications Inc.",
+   "type": "journal-article",
+   "authors": [
+    "Yamada Tomohide",
+    "Yoneoka Daisuke",
+    "Hiraike Yuta",
+    "Hino Kimihiro",
+    "Toyoshiba Hiroyoshi",
+    "Shishido Akira",
+    "Noma Hisashi",
+    "Shojima Nobuhiro",
+    "Yamauchi Toshimasa"
+   ],
+   "n_authors": 9,
+   "is_referenced_by_count": 18,
+   "url": "https://doi.org/10.2196/22422",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.2196/24418": {
+   "status": "verified",
+   "title": "The Impact of Systematic Review Automation Tools on Methodological Quality and Time Taken to Complete Systematic Review Tasks: Case Study",
+   "container": "JMIR Medical Education",
+   "short_container": "JMIR Med Educ",
+   "year": 2021,
+   "volume": "7",
+   "issue": "2",
+   "page": "e24418",
+   "article_number": "",
+   "publisher": "JMIR Publications Inc.",
+   "type": "journal-article",
+   "authors": [
+    "Clark Justin",
+    "McFarlane Catherine",
+    "Cleo Gina",
+    "Ishikawa Ramos Christiane",
+    "Marshall Skye"
+   ],
+   "n_authors": 5,
+   "is_referenced_by_count": 51,
+   "url": "https://doi.org/10.2196/24418",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.2196/45815": {
+   "status": "verified",
+   "title": "Mapping the Bibliometrics Landscape of AI in Medicine: Methodological Study",
+   "container": "Journal of Medical Internet Research",
+   "short_container": "J Med Internet Res",
+   "year": 2023,
+   "volume": "25",
+   "issue": "",
+   "page": "e45815",
+   "article_number": "",
+   "publisher": "JMIR Publications Inc.",
+   "type": "journal-article",
+   "authors": [
+    "Shi Jin",
+    "Bendig David",
+    "Vollmar Horst Christian",
+    "Rasche Peter"
+   ],
+   "n_authors": 4,
+   "is_referenced_by_count": 36,
+   "url": "https://doi.org/10.2196/45815",
+   "sources": [
+    "research_trends.md",
+    "research_trends_notes_AB.md"
+   ]
+  },
+  "10.2196/48933": {
+   "status": "verified",
+   "title": "Applications of the Natural Language Processing Tool ChatGPT in Clinical Practice: Comparative Study and Augmented Systematic Review",
+   "container": "JMIR Medical Informatics",
+   "short_container": "JMIR Med Inform",
+   "year": 2023,
+   "volume": "11",
+   "issue": "",
+   "page": "e48933",
+   "article_number": "",
+   "publisher": "JMIR Publications Inc.",
+   "type": "journal-article",
+   "authors": [
+    "Schopow Nikolas",
+    "Osterhoff Georg",
+    "Baur David"
+   ],
+   "n_authors": 3,
+   "is_referenced_by_count": 72,
+   "url": "https://doi.org/10.2196/48933",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.2196/52758": {
+   "status": "verified",
+   "title": "Human-Comparable Sensitivity of Large Language Models in Identifying Eligible Studies Through Title and Abstract Screening: 3-Layer Strategy Using GPT-3.5 and GPT-4 for Systematic Reviews",
+   "container": "Journal of Medical Internet Research",
+   "short_container": "J Med Internet Res",
+   "year": 2024,
+   "volume": "26",
+   "issue": "",
+   "page": "e52758",
+   "article_number": "",
+   "publisher": "JMIR Publications Inc.",
+   "type": "journal-article",
+   "authors": [
+    "Matsui Kentaro",
+    "Utsumi Tomohiro",
+    "Aoki Yumi",
+    "Maruki Taku",
+    "Takeshima Masahiro",
+    "Takaesu Yoshikazu"
+   ],
+   "n_authors": 6,
+   "is_referenced_by_count": 51,
+   "url": "https://doi.org/10.2196/52758",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.2196/53164": {
+   "status": "verified",
+   "title": "Hallucination Rates and Reference Accuracy of ChatGPT and Bard for Systematic Reviews: Comparative Analysis",
+   "container": "Journal of Medical Internet Research",
+   "short_container": "J Med Internet Res",
+   "year": 2024,
+   "volume": "26",
+   "issue": "",
+   "page": "e53164",
+   "article_number": "",
+   "publisher": "JMIR Publications Inc.",
+   "type": "journal-article",
+   "authors": [
+    "Chelli Mika\u00ebl",
+    "Descamps Jules",
+    "Lavou\u00e9 Vincent",
+    "Trojani Christophe",
+    "Azar Michel",
+    "Deckert Marcel",
+    "Raynier Jean-Luc",
+    "Clowez Gilles",
+    "Boileau Pascal",
+    "Ruetsch-Chelli Caroline"
+   ],
+   "n_authors": 10,
+   "is_referenced_by_count": 382,
+   "url": "https://doi.org/10.2196/53164",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.2196/55118": {
+   "status": "verified",
+   "title": "Comparison of Synthetic Data Generation Techniques for Control Group Survival Data in Oncology Clinical Trials: Simulation Study",
+   "container": "JMIR Medical Informatics",
+   "short_container": "JMIR Med Inform",
+   "year": 2024,
+   "volume": "12",
+   "issue": "",
+   "page": "e55118-e55118",
+   "article_number": "v12i2e55118",
+   "publisher": "JMIR Publications Inc.",
+   "type": "journal-article",
+   "authors": [
+    "Akiya Ippei",
+    "Ishihara Takuma",
+    "Yamamoto Keiichi"
+   ],
+   "n_authors": 3,
+   "is_referenced_by_count": 19,
+   "url": "https://doi.org/10.2196/55118",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.2196/58666": {
+   "status": "verified",
+   "title": "Facilitating Trust Calibration in Artificial Intelligence\u2013Driven Diagnostic Decision Support Systems for Determining Physicians\u2019 Diagnostic Accuracy: Quasi-Experimental Study",
+   "container": "JMIR Formative Research",
+   "short_container": "JMIR Form Res",
+   "year": 2024,
+   "volume": "8",
+   "issue": "",
+   "page": "e58666-e58666",
+   "article_number": "v8i8e58666",
+   "publisher": "JMIR Publications Inc.",
+   "type": "journal-article",
+   "authors": [
+    "Sakamoto Tetsu",
+    "Harada Yukinori",
+    "Shimizu Taro"
+   ],
+   "n_authors": 3,
+   "is_referenced_by_count": 22,
+   "url": "https://doi.org/10.2196/58666",
+   "sources": [
+    "research_trends.md"
+   ]
+  },
+  "10.2196/64682": {
+   "status": "verified",
+   "title": "GPT-3.5 Turbo and GPT-4 Turbo in Title and Abstract Screening for Systematic Reviews",
+   "container": "JMIR Medical Informatics",
+   "short_container": "JMIR Med Inform",
+   "year": 2025,
+   "volume": "13",
+   "issue": "",
+   "page": "e64682-e64682",
+   "article_number": "v13i1e64682",
+   "publisher": "JMIR Publications Inc.",
+   "type": "journal-article",
+   "authors": [
+    "Oami Takehiko",
+    "Okada Yohei",
+    "Nakada Taka-aki"
+   ],
+   "n_authors": 3,
+   "is_referenced_by_count": 11,
+   "url": "https://doi.org/10.2196/64682",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.2196/64697": {
+   "status": "verified",
+   "title": "A Deep Learning\u2013Enabled Workflow to Estimate Real-World Progression-Free Survival in Patients With Metastatic Breast Cancer: Study Using Deidentified Electronic Health Records",
+   "container": "JMIR Cancer",
+   "short_container": "JMIR Cancer",
+   "year": 2025,
+   "volume": "11",
+   "issue": "",
+   "page": "e64697-e64697",
+   "article_number": "v11i2e64697",
+   "publisher": "JMIR Publications Inc.",
+   "type": "journal-article",
+   "authors": [
+    "Varma Gowtham",
+    "Yenukoti Rohit Kumar",
+    "Kumar M Praveen",
+    "Ashrit Bandlamudi Sai",
+    "Purushotham K",
+    "Subash C",
+    "Ravi Sunil Kumar",
+    "Kurien Verghese",
+    "Aman Avinash",
+    "Manoharan Mithun",
+    "Jaiswal Shashank",
+    "Anand Akash"
+   ],
+   "n_authors": 17,
+   "is_referenced_by_count": 9,
+   "url": "https://doi.org/10.2196/64697",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.2196/77494": {
+   "status": "verified",
+   "title": "Machine Learning in Health Economic Evaluations: Protocol for a Scoping Review",
+   "container": "JMIR Research Protocols",
+   "short_container": "JMIR Res Protoc",
+   "year": 2025,
+   "volume": "14",
+   "issue": "",
+   "page": "e77494",
+   "article_number": "",
+   "publisher": "JMIR Publications Inc.",
+   "type": "journal-article",
+   "authors": [
+    "Daghash Hanan",
+    "Kernohan Ashleigh",
+    "Brownson-Smith Rosiered",
+    "Pandey Rohan",
+    "Ananthakrishnan Ananya",
+    "Cong Cen",
+    "Riccalton Victoria",
+    "Meinert Edward",
+    "Sagoo Gurdeep S"
+   ],
+   "n_authors": 9,
+   "is_referenced_by_count": 0,
+   "url": "https://doi.org/10.2196/77494",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.2196/91116": {
+   "status": "verified",
+   "title": "A Competency Framework for Medical AI Education: Mixed Methods Study",
+   "container": "JMIR Medical Education",
+   "short_container": "JMIR Med Educ",
+   "year": 2026,
+   "volume": "12",
+   "issue": "",
+   "page": "e91116-e91116",
+   "article_number": "v12i7e91116",
+   "publisher": "JMIR Publications Inc.",
+   "type": "journal-article",
+   "authors": [
+    "Cai Chang",
+    "Zhu Gaoxia",
+    "Zhou Shang-Ming",
+    "Ng Olivia",
+    "Duell Jamie",
+    "Ho Weng Kin",
+    "Chen Daisy Minghui",
+    "Lee Bernett",
+    "Li Fang",
+    "Liu Siyuan",
+    "Sudarshan Vidya",
+    "Wang Li Rong"
+   ],
+   "n_authors": 14,
+   "is_referenced_by_count": 2,
+   "url": "https://doi.org/10.2196/91116",
+   "sources": [
+    "research_trends.md"
+   ]
+  },
+  "10.2202/1544-6115.1309": {
+   "status": "verified",
+   "title": "Super Learner",
+   "container": "Statistical Applications in Genetics and Molecular Biology",
+   "short_container": "",
+   "year": 2007,
+   "volume": "6",
+   "issue": "1",
+   "page": "",
+   "article_number": "",
+   "publisher": "Walter de Gruyter GmbH",
+   "type": "journal-article",
+   "authors": [
+    "van der Laan Mark J.",
+    "Polley Eric C",
+    "Hubbard Alan E."
+   ],
+   "n_authors": 3,
+   "is_referenced_by_count": 1515,
+   "url": "https://doi.org/10.2202/1544-6115.1309",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.2202/1557-4679.1043": {
+   "status": "verified",
+   "title": "Targeted Maximum Likelihood Learning",
+   "container": "The International Journal of Biostatistics",
+   "short_container": "",
+   "year": 2006,
+   "volume": "2",
+   "issue": "1",
+   "page": "",
+   "article_number": "",
+   "publisher": "Walter de Gruyter GmbH",
+   "type": "journal-article",
+   "authors": [
+    "van der Laan Mark J.",
+    "Rubin Daniel"
+   ],
+   "n_authors": 2,
+   "is_referenced_by_count": 468,
+   "url": "https://doi.org/10.2202/1557-4679.1043",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.3386/w23285": {
+   "status": "verified",
+   "title": "Robots and Jobs: Evidence from US Labor Markets",
+   "container": "",
+   "short_container": "",
+   "year": 2017,
+   "volume": "",
+   "issue": "",
+   "page": "",
+   "article_number": "",
+   "publisher": "National Bureau of Economic Research",
+   "type": "report",
+   "authors": [
+    "Acemoglu Daron",
+    "Restrepo Pascual"
+   ],
+   "n_authors": 2,
+   "is_referenced_by_count": 503,
+   "url": "https://doi.org/10.3386/w23285",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.3386/w23928": {
+   "status": "verified",
+   "title": "Artificial Intelligence and Economic Growth",
+   "container": "",
+   "short_container": "",
+   "year": 2017,
+   "volume": "",
+   "issue": "",
+   "page": "",
+   "article_number": "",
+   "publisher": "National Bureau of Economic Research",
+   "type": "report",
+   "authors": [
+    "Aghion Philippe",
+    "Jones Benjamin",
+    "Jones Charles"
+   ],
+   "n_authors": 3,
+   "is_referenced_by_count": 364,
+   "url": "https://doi.org/10.3386/w23928",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.3386/w31161": {
+   "status": "verified",
+   "title": "Generative AI at Work",
+   "container": "",
+   "short_container": "",
+   "year": 2023,
+   "volume": "",
+   "issue": "",
+   "page": "",
+   "article_number": "",
+   "publisher": "National Bureau of Economic Research",
+   "type": "report",
+   "authors": [
+    "Brynjolfsson Erik",
+    "Li Danielle",
+    "Raymond Lindsey"
+   ],
+   "n_authors": 3,
+   "is_referenced_by_count": 818,
+   "url": "https://doi.org/10.3386/w31161",
+   "sources": [
+    "research_trends.md"
+   ]
+  },
+  "10.3386/w31837": {
+   "status": "verified",
+   "title": "The A.I. Dilemma: Growth versus Existential Risk",
+   "container": "",
+   "short_container": "",
+   "year": 2023,
+   "volume": "",
+   "issue": "",
+   "page": "",
+   "article_number": "",
+   "publisher": "National Bureau of Economic Research",
+   "type": "report",
+   "authors": [
+    "Jones Charles"
+   ],
+   "n_authors": 1,
+   "is_referenced_by_count": 9,
+   "url": "https://doi.org/10.3386/w31837",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.3386/w32140": {
+   "status": "verified",
+   "title": "Applying AI to Rebuild Middle Class Jobs",
+   "container": "",
+   "short_container": "",
+   "year": 2024,
+   "volume": "",
+   "issue": "",
+   "page": "",
+   "article_number": "",
+   "publisher": "National Bureau of Economic Research",
+   "type": "report",
+   "authors": [
+    "Autor David"
+   ],
+   "n_authors": 1,
+   "is_referenced_by_count": 119,
+   "url": "https://doi.org/10.3386/w32140",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.3386/w32255": {
+   "status": "verified",
+   "title": "Scenarios for the Transition to AGI",
+   "container": "",
+   "short_container": "",
+   "year": 2024,
+   "volume": "",
+   "issue": "",
+   "page": "",
+   "article_number": "",
+   "publisher": "National Bureau of Economic Research",
+   "type": "report",
+   "authors": [
+    "Korinek Anton",
+    "Suh Donghyun"
+   ],
+   "n_authors": 2,
+   "is_referenced_by_count": 41,
+   "url": "https://doi.org/10.3386/w32255",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.3386/w32487": {
+   "status": "verified",
+   "title": "The Simple Macroeconomics of AI",
+   "container": "",
+   "short_container": "",
+   "year": 2024,
+   "volume": "",
+   "issue": "",
+   "page": "",
+   "article_number": "",
+   "publisher": "National Bureau of Economic Research",
+   "type": "report",
+   "authors": [
+    "Acemoglu Daron"
+   ],
+   "n_authors": 1,
+   "is_referenced_by_count": 136,
+   "url": "https://doi.org/10.3386/w32487",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.3386/w33892": {
+   "status": "verified",
+   "title": "AI and Social Media: A Political Economy Perspective",
+   "container": "",
+   "short_container": "",
+   "year": 2025,
+   "volume": "",
+   "issue": "",
+   "page": "",
+   "article_number": "",
+   "publisher": "National Bureau of Economic Research",
+   "type": "report",
+   "authors": [
+    "Acemoglu Daron",
+    "Ozdaglar Asuman",
+    "Siderius James"
+   ],
+   "n_authors": 3,
+   "is_referenced_by_count": 5,
+   "url": "https://doi.org/10.3386/w33892",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.3386/w34779": {
+   "status": "verified",
+   "title": "A.I. and Our Economic Future",
+   "container": "",
+   "short_container": "",
+   "year": 2026,
+   "volume": "",
+   "issue": "",
+   "page": "",
+   "article_number": "",
+   "publisher": "National Bureau of Economic Research",
+   "type": "report",
+   "authors": [
+    "Jones Charles"
+   ],
+   "n_authors": 1,
+   "is_referenced_by_count": 4,
+   "url": "https://doi.org/10.3386/w34779",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.3386/w34910": {
+   "status": "verified",
+   "title": "AI, Human Cognition and Knowledge Collapse",
+   "container": "",
+   "short_container": "",
+   "year": 2026,
+   "volume": "",
+   "issue": "",
+   "page": "",
+   "article_number": "",
+   "publisher": "National Bureau of Economic Research",
+   "type": "report",
+   "authors": [
+    "Acemoglu Daron",
+    "Kong Dingwen",
+    "Ozdaglar Asuman"
+   ],
+   "n_authors": 3,
+   "is_referenced_by_count": 19,
+   "url": "https://doi.org/10.3386/w34910",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.3389/fdgth.2025.1523070": {
+   "status": "verified",
+   "title": "Artificial intelligence-based tools for patient support to enhance medication adherence: a focused review",
+   "container": "Frontiers in Digital Health",
+   "short_container": "Front. Digit. Health",
+   "year": 2025,
+   "volume": "7",
+   "issue": "",
+   "page": "",
+   "article_number": "1523070",
+   "publisher": "Frontiers Media SA",
+   "type": "journal-article",
+   "authors": [
+    "Reis Zilma Silveira Nogueira",
+    "Pereira Gl\u00e1ucia Miranda Varella",
+    "Dias Cristiane dos Santos",
+    "Lage Eura Martins",
+    "de Oliveira Isaias Jos\u00e9 Ramos",
+    "Pagano Adriana Silvina"
+   ],
+   "n_authors": 6,
+   "is_referenced_by_count": 35,
+   "url": "https://doi.org/10.3389/fdgth.2025.1523070",
+   "sources": [
+    "research_pharma.md"
+   ]
+  },
+  "10.3389/fdgth.2025.1584883": {
+   "status": "verified",
+   "title": "Perspective: advancing public health education by embedding AI literacy",
+   "container": "Frontiers in Digital Health",
+   "short_container": "Front. Digit. Health",
+   "year": 2025,
+   "volume": "7",
+   "issue": "",
+   "page": "",
+   "article_number": "1584883",
+   "publisher": "Frontiers Media SA",
+   "type": "journal-article",
+   "authors": [
+    "Acosta Jose A."
+   ],
+   "n_authors": 1,
+   "is_referenced_by_count": 23,
+   "url": "https://doi.org/10.3389/fdgth.2025.1584883",
+   "sources": [
+    "research_trends.md"
+   ]
+  },
+  "10.3389/fphar.2025.1454245": {
+   "status": "verified",
+   "title": "How much can we save by applying artificial intelligence in evidence synthesis? Results from a pragmatic review to quantify workload efficiencies and cost savings",
+   "container": "Frontiers in Pharmacology",
+   "short_container": "Front. Pharmacol.",
+   "year": 2025,
+   "volume": "16",
+   "issue": "",
+   "page": "",
+   "article_number": "1454245",
+   "publisher": "Frontiers Media SA",
+   "type": "journal-article",
+   "authors": [
+    "Abogunrin Seye",
+    "Muir Jeffrey M.",
+    "Zerbini Clarissa",
+    "Sarri Grammati"
+   ],
+   "n_authors": 4,
+   "is_referenced_by_count": 26,
+   "url": "https://doi.org/10.3389/fphar.2025.1454245",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.3389/fpubh.2026.1951054": {
+   "status": "not_found",
+   "http": 404,
+   "registry": "DataCite",
+   "sources": [
+    "research_trends.md"
+   ]
+  },
+  "10.4300/jgme-d-25-00009.1": {
+   "status": "verified",
+   "title": "A Framework for Artificial Intelligence in Medical Education: Could I, Would I, Should I?",
+   "container": "Journal of Graduate Medical Education",
+   "short_container": "",
+   "year": 2025,
+   "volume": "17",
+   "issue": "4",
+   "page": "430-433",
+   "article_number": "",
+   "publisher": "Journal of Graduate Medical Education",
+   "type": "journal-article",
+   "authors": [
+    "Wolthusen Rick Peter Fritz",
+    "El-tohami Mountasir",
+    "Hendler Reuben Abraham",
+    "Riordan Paul Allen",
+    "Stoklosa Joseph Brian"
+   ],
+   "n_authors": 5,
+   "is_referenced_by_count": 7,
+   "url": "https://doi.org/10.4300/jgme-d-25-00009.1",
+   "sources": [
+    "research_trends.md"
+   ]
+  },
+  "10.48550/arxiv.2302.06590": {
+   "status": "verified",
+   "registry": "DataCite",
+   "title": "The Impact of AI on Developer Productivity: Evidence from GitHub Copilot",
+   "container": "arXiv",
+   "short_container": "",
+   "year": 2023,
+   "volume": "",
+   "issue": "",
+   "page": "",
+   "article_number": "",
+   "publisher": "arXiv",
+   "type": "Preprint",
+   "authors": [
+    "Peng, Sida",
+    "Kalliamvakou, Eirini",
+    "Cihon, Peter",
+    "Demirer, Mert"
+   ],
+   "n_authors": 4,
+   "is_referenced_by_count": null,
+   "url": "https://arxiv.org/abs/2302.06590",
+   "sources": [
+    "research_economics.md",
+    "research_trends.md"
+   ]
+  },
+  "10.48550/arxiv.2307.08974": {
+   "status": "verified",
+   "registry": "DataCite",
+   "title": "Development of the ChatGPT, Generative Artificial Intelligence and Natural Large Language Models for Accountable Reporting and Use (CANGARU) Guidelines",
+   "container": "arXiv",
+   "short_container": "",
+   "year": 2023,
+   "volume": "",
+   "issue": "",
+   "page": "",
+   "article_number": "",
+   "publisher": "arXiv",
+   "type": "Preprint",
+   "authors": [
+    "Cacciamani, Giovanni E.",
+    "Eppler, Michael B.",
+    "Ganjavi, Conner",
+    "Pekan, Asli",
+    "Biedermann, Brett",
+    "Collins, Gary S.",
+    "Gill, Inderbir S."
+   ],
+   "n_authors": 7,
+   "is_referenced_by_count": null,
+   "url": "https://arxiv.org/abs/2307.08974",
+   "sources": [
+    "research_regulatory.md"
+   ]
+  },
+  "10.48550/arxiv.2407.11054": {
+   "status": "verified",
+   "registry": "DataCite",
+   "title": "Generative AI for Health Technology Assessment: Opportunities, Challenges, and Policy Considerations",
+   "container": "arXiv",
+   "short_container": "",
+   "year": 2024,
+   "volume": "",
+   "issue": "",
+   "page": "",
+   "article_number": "",
+   "publisher": "arXiv",
+   "type": "Preprint",
+   "authors": [
+    "Fleurence, Rachael",
+    "Bian, Jiang",
+    "Wang, Xiaoyan",
+    "Xu, Hua",
+    "Dawoud, Dalia",
+    "Higashi, Mitch",
+    "Chhatwal, Jagpreet"
+   ],
+   "n_authors": 7,
+   "is_referenced_by_count": null,
+   "url": "https://arxiv.org/abs/2407.11054",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.48550/arxiv.2508.04325": {
+   "status": "verified",
+   "registry": "DataCite",
+   "title": "Beyond the Leaderboard: Rethinking Medical Benchmarks for Large Language Models",
+   "container": "arXiv",
+   "short_container": "",
+   "year": 2025,
+   "volume": "",
+   "issue": "",
+   "page": "",
+   "article_number": "",
+   "publisher": "arXiv",
+   "type": "Preprint",
+   "authors": [
+    "Chen, Wenting",
+    "Yu, Guo",
+    "Cheung, Yiu-Fai",
+    "Ding, Meidan",
+    "Liu, Jie",
+    "Ma, Zizhan",
+    "Wang, Wenxuan",
+    "Shen, Linlin"
+   ],
+   "n_authors": 8,
+   "is_referenced_by_count": null,
+   "url": "https://arxiv.org/abs/2508.04325",
+   "sources": [
+    "research_economics.md"
+   ]
+  },
+  "10.51731/cjht.2024.1004": {
+   "status": "verified",
+   "title": "Development of an Evaluation Instrument on Artificial Intelligence Search Tools for Evidence Synthesis",
+   "container": "Canadian Journal of Health Technologies",
+   "short_container": "cjht",
+   "year": 2024,
+   "volume": "4",
+   "issue": "10",
+   "page": "",
+   "article_number": "",
+   "publisher": "Canadian Journal of Health Technologies, CADTH",
+   "type": "journal-article",
+   "authors": [
+    "CDA-AMC"
+   ],
+   "n_authors": 1,
+   "is_referenced_by_count": 1,
+   "url": "https://doi.org/10.51731/cjht.2024.1004",
+   "sources": [
+    "research_regulatory.md"
+   ]
+  },
+  "10.57264/cer-2023-0154": {
+   "status": "verified",
+   "title": "Institute for Clinical and Economic Review \u2013\u00a0Peterson Health Technology Institute value assessment framework for digital health technologies",
+   "container": "Journal of Comparative Effectiveness Research",
+   "short_container": "J. Comp. Eff. Res.",
+   "year": 2023,
+   "volume": "12",
+   "issue": "12",
+   "page": "",
+   "article_number": "e230154",
+   "publisher": "Becaris Publishing Limited",
+   "type": "journal-article",
+   "authors": [
+    "Pearson Steven D",
+    "Singh Prabhjot",
+    "Beaudoin Francesca",
+    "Campbell Jon",
+    "Schapiro Lindsey",
+    "Emond Sarah K",
+    "Pearson Caroline"
+   ],
+   "n_authors": 7,
+   "is_referenced_by_count": 9,
+   "url": "https://doi.org/10.57264/cer-2023-0154",
+   "sources": [
+    "research_regulatory.md"
+   ]
+  },
+  "10.60584/general-methods_v8.0": {
+   "status": "verified",
+   "registry": "DataCite",
+   "title": "General Methods; Version 8.0 ",
+   "container": "IQWiG",
+   "short_container": "",
+   "year": 2026,
+   "volume": "",
+   "issue": "",
+   "page": "",
+   "article_number": "",
+   "publisher": "IQWiG",
+   "type": "Report",
+   "authors": [
+    "Institute for Quality and Efficiency in Health Care"
+   ],
+   "n_authors": 1,
+   "is_referenced_by_count": null,
+   "url": "https://www.iqwig.de/en/methods/methods-paper/",
+   "sources": [
+    "research_regulatory.md"
+   ]
+  },
+  "10.7326/m23-3389": {
+   "status": "verified",
+   "title": "Sensitivity and Specificity of Using GPT-3.5 Turbo Models for Title and Abstract Screening in Systematic Reviews and Meta-analyses",
+   "container": "Annals of Internal Medicine",
+   "short_container": "Ann Intern Med",
+   "year": 2024,
+   "volume": "177",
+   "issue": "6",
+   "page": "791-799",
+   "article_number": "",
+   "publisher": "American College of Physicians",
+   "type": "journal-article",
+   "authors": [
+    "Tran Viet-Thi",
+    "Gartlehner Gerald",
+    "Yaacoub Sally",
+    "Boutron Isabelle",
+    "Schwingshackl Lukas",
+    "Stadelmaier Julia",
+    "Sommer Isolde",
+    "Alebouyeh Farzaneh",
+    "Afach Sivem",
+    "Meerpohl Joerg",
+    "Ravaud Philippe"
+   ],
+   "n_authors": 11,
+   "is_referenced_by_count": 66,
+   "url": "https://doi.org/10.7326/m23-3389",
+   "sources": [
+    "research_methods.md"
+   ]
+  },
+  "10.7326/m24-0877": {
+   "status": "verified",
+   "title": "The Heap, the Hype, the Reality: Generative Pretrained Transformer for Systematic Reviews",
+   "container": "Annals of Internal Medicine",
+   "short_container": "Ann Intern Med",
+   "year": 2024,
+   "volume": "177",
+   "issue": "6",
+   "page": "828-829",
+   "article_number": "",
+   "publisher": "American College of Physicians",
+   "type": "journal-article",
+   "authors": [
+    "Li Tianjing",
+    "Chang Stephanie"
+   ],
+   "n_authors": 2,
+   "is_referenced_by_count": 0,
+   "url": "https://doi.org/10.7326/m24-0877",
+   "sources": [
+    "research_methods.md"
+   ]
+  }
+ }
+}

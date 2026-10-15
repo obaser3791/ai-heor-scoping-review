@@ -1,0 +1,16 @@
+label_type,key,label,n,pct_of_included
+domain,economic_evaluation,Economic evaluation,1559,62.96
+domain,rwd_causal,Real-world data and causal inference,496,20.03
+domain,governance_reporting,"Governance, reporting, and validity",494,19.95
+domain,outcome_prediction,Outcome and cost prediction,393,15.87
+domain,evidence_synthesis,Evidence synthesis,283,11.43
+domain,hta_access,"HTA, payer, and market access",209,8.44
+domain,decision_modeling,Decision modeling and simulation,115,4.64
+domain,pro_preferences,Patient-reported outcomes and preferences,76,3.07
+method,ai_general,"Artificial intelligence, unspecified",682,27.54
+method,classical_ml,Classical machine learning,615,24.84
+method,deep_learning,Deep learning,445,17.97
+method,none,No AI method term identified,445,17.97
+method,generative_llm,Generative AI and large language models,159,6.42
+method,nlp,Natural language processing (pre-generative),130,5.25
+domain,unclassified,No domain term identified,278,11.23

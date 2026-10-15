@@ -1,0 +1,9 @@
+label,key,n_dictionary,n_independent,observed_agreement_pct,cohen_kappa,pabak,dict_precision_vs_independent_pct,dict_recall_vs_independent_pct,dict_f1_pct
+Economic evaluation,economic_evaluation,186,69,51.7,0.144,0.033,29.6,79.7,43.1
+Decision modeling and simulation,decision_modeling,16,30,94.0,0.579,0.88,87.5,46.7,60.9
+Evidence synthesis,evidence_synthesis,33,46,92.3,0.666,0.847,84.8,60.9,70.9
+Real-world data and causal inference,rwd_causal,64,75,90.3,0.729,0.807,85.9,73.3,79.1
+Outcome and cost prediction,outcome_prediction,43,50,85.7,0.453,0.713,58.1,50.0,53.8
+Patient-reported outcomes and preferences,pro_preferences,8,22,93.3,0.306,0.867,62.5,22.7,33.3
+"HTA, payer, and market access",hta_access,21,25,94.0,0.576,0.88,66.7,56.0,60.9
+"Governance, reporting, and validity",governance_reporting,65,68,84.3,0.546,0.687,66.2,63.2,64.7

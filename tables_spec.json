@@ -1,0 +1,5525 @@
+[
+ {
+  "id": "Table 1",
+  "title": "Characteristics of the included corpus of AI in HEOR publications, 2010 to 2025 (n = 2,476)",
+  "footnote": "Domain labels are non-exclusive, so column percentages sum to more than 100. Method categories are exclusive. Percentages are of the 2,476 included records. Cohen kappa is reproduced from the validation analysis in Table 2 so that the reliability of each domain count can be read alongside its magnitude. Publication types are as indexed in PubMed and a record may carry more than one.",
+  "headers": [
+   "Characteristic",
+   "Included records (n)",
+   "% of included",
+   "Classification reliability"
+  ],
+  "rows": [
+   [
+    "Publication year",
+    "",
+    "",
+    ""
+   ],
+   [
+    "  2010",
+    "29",
+    "1.17",
+    ""
+   ],
+   [
+    "  2011",
+    "28",
+    "1.13",
+    ""
+   ],
+   [
+    "  2012",
+    "47",
+    "1.90",
+    ""
+   ],
+   [
+    "  2013",
+    "31",
+    "1.25",
+    ""
+   ],
+   [
+    "  2014",
+    "34",
+    "1.37",
+    ""
+   ],
+   [
+    "  2015",
+    "24",
+    "0.97",
+    ""
+   ],
+   [
+    "  2016",
+    "23",
+    "0.93",
+    ""
+   ],
+   [
+    "  2017",
+    "36",
+    "1.45",
+    ""
+   ],
+   [
+    "  2018",
+    "48",
+    "1.94",
+    ""
+   ],
+   [
+    "  2019",
+    "91",
+    "3.68",
+    ""
+   ],
+   [
+    "  2020",
+    "130",
+    "5.25",
+    ""
+   ],
+   [
+    "  2021",
+    "163",
+    "6.58",
+    ""
+   ],
+   [
+    "  2022",
+    "232",
+    "9.37",
+    ""
+   ],
+   [
+    "  2023",
+    "270",
+    "10.90",
+    ""
+   ],
+   [
+    "  2024",
+    "438",
+    "17.69",
+    ""
+   ],
+   [
+    "  2025",
+    "852",
+    "34.41",
+    ""
+   ],
+   [
+    "Application domain (non-exclusive)",
+    "",
+    "",
+    "Cohen kappa vs blinded classifier"
+   ],
+   [
+    "  Economic evaluation",
+    "1,559",
+    "62.96",
+    "0.144"
+   ],
+   [
+    "  Real-world data and causal inference",
+    "496",
+    "20.03",
+    "0.729"
+   ],
+   [
+    "  Governance, reporting, and validity",
+    "494",
+    "19.95",
+    "0.546"
+   ],
+   [
+    "  Outcome and cost prediction",
+    "393",
+    "15.87",
+    "0.453"
+   ],
+   [
+    "  Evidence synthesis",
+    "283",
+    "11.43",
+    "0.666"
+   ],
+   [
+    "  HTA, payer, and market access",
+    "209",
+    "8.44",
+    "0.576"
+   ],
+   [
+    "  Decision modeling and simulation",
+    "115",
+    "4.64",
+    "0.579"
+   ],
+   [
+    "  Patient-reported outcomes and preferences",
+    "76",
+    "3.07",
+    "0.306"
+   ],
+   [
+    "  No domain term identified",
+    "278",
+    "11.23",
+    ""
+   ],
+   [
+    "Method category (most specific, exclusive)",
+    "",
+    "",
+    ""
+   ],
+   [
+    "  Artificial intelligence, unspecified",
+    "682",
+    "27.54",
+    "0.667 (6-category multiclass)"
+   ],
+   [
+    "  Classical machine learning",
+    "615",
+    "24.84",
+    ""
+   ],
+   [
+    "  Deep learning",
+    "445",
+    "17.97",
+    ""
+   ],
+   [
+    "  No AI method term identified",
+    "445",
+    "17.97",
+    ""
+   ],
+   [
+    "  Generative AI and large language models",
+    "159",
+    "6.42",
+    ""
+   ],
+   [
+    "  Natural language processing (pre-generative)",
+    "130",
+    "5.25",
+    ""
+   ],
+   [
+    "Leading journals",
+    "",
+    "",
+    ""
+   ],
+   [
+    "  Scientific reports",
+    "79",
+    "3.19",
+    ""
+   ],
+   [
+    "  Sensors (Basel, Switzerland)",
+    "60",
+    "2.42",
+    ""
+   ],
+   [
+    "  Cureus",
+    "43",
+    "1.74",
+    ""
+   ],
+   [
+    "  Journal of medical Internet research",
+    "41",
+    "1.66",
+    ""
+   ],
+   [
+    "  BMJ open",
+    "36",
+    "1.45",
+    ""
+   ],
+   [
+    "  PloS one",
+    "35",
+    "1.41",
+    ""
+   ],
+   [
+    "  Value in health : the journal of the International Society for Pharmacoeconomics and Outcomes Research",
+    "32",
+    "1.29",
+    ""
+   ],
+   [
+    "  Journal of clinical medicine",
+    "27",
+    "1.09",
+    ""
+   ],
+   [
+    "  NPJ digital medicine",
+    "26",
+    "1.05",
+    ""
+   ],
+   [
+    "  Frontiers in public health",
+    "20",
+    "0.81",
+    ""
+   ],
+   [
+    "Indexed publication type",
+    "",
+    "",
+    ""
+   ],
+   [
+    "  Journal Article",
+    "2,471",
+    "99.80",
+    ""
+   ],
+   [
+    "  Review",
+    "674",
+    "27.22",
+    ""
+   ],
+   [
+    "  Research Support, Non-U.S. Gov't",
+    "492",
+    "19.87",
+    ""
+   ],
+   [
+    "  Systematic Review",
+    "121",
+    "4.89",
+    ""
+   ],
+   [
+    "  Research Support, N.I.H., Extramural",
+    "105",
+    "4.24",
+    ""
+   ],
+   [
+    "  Comparative Study",
+    "91",
+    "3.68",
+    ""
+   ],
+   [
+    "  Multicenter Study",
+    "54",
+    "2.18",
+    ""
+   ],
+   [
+    "  Scoping Review",
+    "42",
+    "1.70",
+    ""
+   ],
+   [
+    "  Randomized Controlled Trial",
+    "38",
+    "1.53",
+    ""
+   ],
+   [
+    "  Research Support, U.S. Gov't, Non-P.H.S.",
+    "37",
+    "1.49",
+    ""
+   ],
+   [
+    "  Clinical Trial Protocol",
+    "31",
+    "1.25",
+    ""
+   ],
+   [
+    "  Meta-Analysis",
+    "27",
+    "1.09",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "Table 2",
+  "title": "Validation of the term dictionary against blinded independent classification of 300 randomly sampled included records",
+  "footnote": "The independent classifier received only the title and abstract and was blinded to all dictionary output. It is treated as a reference standard, not as truth. PABAK is the prevalence-adjusted bias-adjusted kappa, reported because Cohen kappa is unstable at extreme prevalence. Precision, recall, and F1 describe the dictionary against the blinded reference. Confidence intervals are exact binomial (Clopper-Pearson). The precision-adjusted corpus size applies the observed search precision and its interval to the 2,476 included records.",
+  "headers": [
+   "Label",
+   "Assigned by dictionary (n)",
+   "Assigned by blinded classifier (n)",
+   "Observed agreement (%)",
+   "Cohen kappa",
+   "PABAK",
+   "Precision (%)",
+   "Recall (%)",
+   "F1 (%)"
+  ],
+  "rows": [
+   [
+    "Economic evaluation",
+    "186",
+    "69",
+    "51.7",
+    "0.144",
+    "0.033",
+    "29.6",
+    "79.7",
+    "43.1"
+   ],
+   [
+    "Decision modeling and simulation",
+    "16",
+    "30",
+    "94.0",
+    "0.579",
+    "0.880",
+    "87.5",
+    "46.7",
+    "60.9"
+   ],
+   [
+    "Evidence synthesis",
+    "33",
+    "46",
+    "92.3",
+    "0.666",
+    "0.847",
+    "84.8",
+    "60.9",
+    "70.9"
+   ],
+   [
+    "Real-world data and causal inference",
+    "64",
+    "75",
+    "90.3",
+    "0.729",
+    "0.807",
+    "85.9",
+    "73.3",
+    "79.1"
+   ],
+   [
+    "Outcome and cost prediction",
+    "43",
+    "50",
+    "85.7",
+    "0.453",
+    "0.713",
+    "58.1",
+    "50.0",
+    "53.8"
+   ],
+   [
+    "Patient-reported outcomes and preferences",
+    "8",
+    "22",
+    "93.3",
+    "0.306",
+    "0.867",
+    "62.5",
+    "22.7",
+    "33.3"
+   ],
+   [
+    "HTA, payer, and market access",
+    "21",
+    "25",
+    "94.0",
+    "0.576",
+    "0.880",
+    "66.7",
+    "56.0",
+    "60.9"
+   ],
+   [
+    "Governance, reporting, and validity",
+    "65",
+    "68",
+    "84.3",
+    "0.546",
+    "0.687",
+    "66.2",
+    "63.2",
+    "64.7"
+   ],
+   [
+    "Method category (6-category multiclass)",
+    "300",
+    "300",
+    "73.7",
+    "0.667",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Generative AI or LLM flag",
+    "",
+    "",
+    "97.0",
+    "0.674",
+    "0.940",
+    "",
+    "",
+    ""
+   ],
+   [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Search precision",
+    "n sampled",
+    "n judged HEOR relevant",
+    "Precision (%)",
+    "95% CI lower",
+    "95% CI upper",
+    "",
+    "",
+    ""
+   ],
+   [
+    "All included records",
+    "300",
+    "154",
+    "51.3",
+    "45.7",
+    "56.9",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Dictionary assigned at least one HEOR domain",
+    "271",
+    "142",
+    "52.4",
+    "46.5",
+    "58.3",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Dictionary assigned no HEOR domain",
+    "29",
+    "12",
+    "41.4",
+    "25.5",
+    "59.3",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Precision-adjusted corpus size",
+    "2,476 included",
+    "1,271",
+    "",
+    "1,131",
+    "1,410",
+    "",
+    "",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "Table 3",
+  "title": "Regulatory and health technology assessment instruments governing artificial intelligence in evidence generation",
+  "footnote": "Status is as of 9 September 2026. Quoted text is verbatim from the cited instrument. Full citations with uniform resource locators appear in the reference list.",
+  "headers": [
+   "Issuing body",
+   "Instrument",
+   "Date",
+   "Status",
+   "Operative requirement"
+  ],
+  "rows": [
+   [
+    "US FDA",
+    "Considerations for the Use of Artificial Intelligence to Support Regulatory Decision-Making for Drug and Biological Products (docket FDA-2024-D-4689)",
+    "January 2025",
+    "Draft as of September 2026; comments closed 7 April 2025",
+    "Seven step risk based credibility assessment framework. Model risk is defined as the combination of model influence and decision consequence. Explicitly excludes AI used in drug discovery and in operational efficiencies."
+   ],
+   [
+    "US FDA",
+    "Artificial Intelligence-Enabled Device Software Functions: Lifecycle Management and Marketing Submission Recommendations (FDA-2024-D-4488)",
+    "January 2025",
+    "Draft",
+    "Recommends performance validation at at least three geographically diverse US clinical sites, with two sided 95% confidence intervals reported."
+   ],
+   [
+    "US FDA",
+    "AI-Enabled Medical Device List",
+    "Current 4 September 2026",
+    "Published list",
+    "1,614 authorizations. Radiology 1,230 (76.2%), cardiovascular 154 (9.5%), neurology 73 (4.5%). Rose from 18 authorizations in 2016 to 335 in 2025."
+   ],
+   [
+    "US FDA",
+    "Considerations for the Use of Real-World Data and Real-World Evidence, electronic health records and medical claims (FDA-2020-D-2307)",
+    "2024",
+    "Final guidance",
+    "States that FDA does not endorse any specific AI technology for real-world data curation."
+   ],
+   [
+    "US FDA and EMA",
+    "Guiding Principles of Good Artificial Intelligence Practice in Drug Development",
+    "January 2026",
+    "Joint guiding principles",
+    "Ten principles including human-centric by design, risk based approach, clear context of use, data governance and documentation, risk based performance assessment, and life cycle management."
+   ],
+   [
+    "US FDA",
+    "Digital Health Advisory Committee on generative AI-enabled devices",
+    "20 to 21 November 2024",
+    "Advisory committee meeting",
+    "First dedicated advisory committee consideration of generative AI in regulated devices."
+   ],
+   [
+    "EMA",
+    "Reflection paper on the use of artificial intelligence in the medicinal product lifecycle (EMA/CHMP/CVMP/83833/2023)",
+    "9 September 2024",
+    "Final reflection paper",
+    "States that the use of transparent models is preferred. Applies a risk based approach across the product lifecycle."
+   ],
+   [
+    "EMA CHMP",
+    "Qualification opinion on prognostic covariate adjustment (PROCOVA)",
+    "2022",
+    "Qualification opinion",
+    "Qualified for use, while stating that excluding dropout data would not be acceptable for regulatory purposes."
+   ],
+   [
+    "European Union",
+    "Regulation (EU) 2024/1689, the AI Act",
+    "In force 1 August 2024",
+    "In force; general purpose AI obligations apply from 2 August 2026",
+    "Risk tiered obligations. EFPIA has argued that AI used solely for medicines research and development is exempt under Recital 25 and Articles 2.6 and 2.8."
+   ],
+   [
+    "European Union",
+    "Regulation (EU) 2021/2282 on health technology assessment",
+    "In force 11 January 2022",
+    "Applies from 12 January 2025 for oncology and ATMPs; 13 January 2028 for orphans; 13 January 2030 for all others in scope",
+    "Joint clinical assessment. Approximately 50 assessments of medicines and 5 of devices estimated for 2026, with 12 ongoing and 14 countries involved."
+   ],
+   [
+    "NICE",
+    "Use of AI in evidence generation: NICE position statement (ECD11)",
+    "15 August 2024",
+    "Final position statement",
+    "AI should only be used when there is demonstrable value from doing so. Where more explainable methods are potentially robust, those should be presented in the first instance. Directs submitters to the PALISADE checklist."
+   ],
+   [
+    "Canada's Drug Agency (CDA-AMC)",
+    "Guidance on Reporting the Use of AI in Evidence Generation",
+    "April 2025",
+    "Final guidance",
+    "Built on the principle of augmentation, not replacement. Permits AI generated search strategies, screening, extraction, meta-analysis code, and synthetic or external controls subject to transparent reporting."
+   ],
+   [
+    "IQWiG",
+    "General Methods, version 8.0",
+    "2025",
+    "Final methods manual",
+    "German reference methods manual, incorporating requirements applicable to AI derived evidence."
+   ],
+   [
+    "ICER and Peterson Health Technology Institute",
+    "Assessment framework for digital health technologies",
+    "2024",
+    "Published framework",
+    "Extends value assessment methods to digital and algorithm based technologies."
+   ],
+   [
+    "CMS",
+    "HPMS memorandum on Medicare Advantage utilization management (CMS-4201-F)",
+    "6 February 2024",
+    "Final rule guidance",
+    "Algorithms or artificial intelligence alone cannot be used as the basis to deny admission."
+   ],
+   [
+    "State of California",
+    "Senate Bill 1120, Chapter 879, Statutes of 2024",
+    "2024",
+    "Enacted statute",
+    "Requires licensed physician review of medical necessity determinations rather than reliance on an algorithm alone."
+   ],
+   [
+    "WHO",
+    "Ethics and governance of AI for health: guidance on large multi-modal models",
+    "2024",
+    "Guidance",
+    "Notes hallucination rates of at least 3 percent and as high as 27 percent."
+   ],
+   [
+    "ISPOR",
+    "Generative AI taxonomy, ELEVATE-GenAI reporting guideline, and Working Group report for HTA",
+    "2024 to 2025",
+    "Published society guidance",
+    "First HEOR specific reporting instruments for generative AI. AI ranked first among HEOR trends for 2026 to 2027."
+   ]
+  ]
+ },
+ {
+  "id": "Table 4",
+  "title": "Reported performance and efficiency of artificial intelligence across HEOR workflows, with the provenance of every claim",
+  "footnote": "Provenance is classified as peer reviewed, preprint, conference abstract, or company communication. Company communication denotes a figure reported by the organization deploying or selling the tool, without independent replication or a concurrent control. Every company reported efficiency figure in this table falls into that category. Where no primary source with a measured figure could be located, the cell records that absence rather than an estimate. AUC denotes area under the curve, AUROC area under the receiver operating characteristic curve, HR hazard ratio, ICER incremental cost effectiveness ratio, ORR objective response rate, and rwPFS real-world progression free survival.",
+  "headers": [
+   "HEOR workflow",
+   "Task",
+   "Reported result",
+   "Comparator",
+   "Provenance"
+  ],
+  "rows": [
+   [
+    "Evidence synthesis",
+    "Title and abstract screening",
+    "Sensitivity 0.962, specificity 0.996; approximately 110 records per minute at US$59",
+    "Human reviewer decisions in 1,381 and 3,146 record sets",
+    "Peer reviewed"
+   ],
+   [
+    "Evidence synthesis",
+    "Title and abstract screening",
+    "Sensitivity 81.1% to 96.5%, specificity 25.8% to 80.4%; 10,279 false positives in the worst configuration",
+    "Human reviewers across 22,665 citations",
+    "Peer reviewed"
+   ],
+   [
+    "Evidence synthesis",
+    "Title and abstract screening",
+    "Sensitivity 0.85, specificity 0.98, with a median specificity gap of 0.48 across reviews",
+    "Human reviewers across 16,669 citations",
+    "Peer reviewed"
+   ],
+   [
+    "Evidence synthesis",
+    "Title and abstract screening",
+    "Sensitivity 0.42, kappa 0.34 against human reviewer kappa 0.77",
+    "Two human reviewers",
+    "Peer reviewed"
+   ],
+   [
+    "Evidence synthesis",
+    "Screening prioritisation",
+    "Work saved over sampling 0.55; approximately 75% of screening effort saved at recall above 95%",
+    "Exhaustive human screening of 11,984 records",
+    "Peer reviewed"
+   ],
+   [
+    "Evidence synthesis",
+    "Agentic screening and extraction, human in the loop",
+    "Screening F1 0.917 to 0.977, kappa 0.844 to 0.906; extraction F 0.96 to 0.998",
+    "Human reviewers",
+    "Peer reviewed"
+   ],
+   [
+    "Evidence synthesis",
+    "Data extraction",
+    "96.3% accuracy across 160 extracted items",
+    "Human extraction",
+    "Peer reviewed"
+   ],
+   [
+    "Evidence synthesis",
+    "Data extraction",
+    "94.8% accuracy at 88 seconds per randomized trial",
+    "Human extraction",
+    "Peer reviewed"
+   ],
+   [
+    "Evidence synthesis",
+    "Data extraction",
+    "Model 96.2%, human 95.3%, human assisted by model 97.9%; time 86.9 to 14.7 minutes",
+    "Human extraction across 12,814 extractions in 107 trials",
+    "Peer reviewed"
+   ],
+   [
+    "Evidence synthesis",
+    "Time and cost",
+    "17 of 25 studies reported time reductions above 50%, range 36.0% to more than 99.0%",
+    "Unaided human workflow",
+    "Peer reviewed"
+   ],
+   [
+    "Evidence synthesis",
+    "Time and motion, hybrid vs autonomous",
+    "Hybrid 97.0% accuracy, 80.6% recall, 51.4% time saved; autonomous 81.1% time saved but 48.4% recall; unaided humans 90.1% accuracy, 88.7% recall",
+    "Unaided human workflow across 234 publications",
+    "Conference abstract"
+   ],
+   [
+    "Economic modeling",
+    "Automated model coding in R",
+    "14 of 15 scripts error free in the lung cancer set; every error free script reproduced the published ICER to within 1%",
+    "Published cost effectiveness results",
+    "Peer reviewed"
+   ],
+   [
+    "Economic modeling",
+    "Network meta-analysis input extraction",
+    "Greater than 99% extraction accuracy",
+    "Human extraction",
+    "Peer reviewed"
+   ],
+   [
+    "Economic modeling",
+    "Expected value of partial perfect information by metamodeling",
+    "12.5 million model runs reduced from more than 1,000 days to approximately 2 days, a roughly 500 fold reduction",
+    "Brute force nested simulation",
+    "Peer reviewed"
+   ],
+   [
+    "Economic modeling",
+    "Generative AI in health economic evaluation, evidence base composition",
+    "25 studies included from 2,322 screened; 92% conference abstracts, 92% published 2024, 96% company authored",
+    "Not applicable",
+    "Preprint"
+   ],
+   [
+    "RWD and causal inference",
+    "High dimensional propensity score",
+    "Estimated relative risk moved from 1.09 crude to 0.94 with 15 investigator specified covariates to 0.88 with 500 algorithmically selected covariates",
+    "Investigator specified propensity score",
+    "Peer reviewed"
+   ],
+   [
+    "RWD and causal inference",
+    "High dimensional propensity score weighting, simulation",
+    "Bias 0.094 with 23.6% confidence interval coverage, against 0.018 bias and 91.4% coverage for a modified procedure",
+    "Known simulated truth",
+    "Peer reviewed"
+   ],
+   [
+    "RWD and causal inference",
+    "Trial emulation, PARADIGM-HF",
+    "Logistic propensity model AUC 0.79 gave HR 0.93; gradient boosted model AUC 0.95 gave HR 0.61",
+    "Randomized trial HR 0.81 (95% CI 0.61 to 1.06)",
+    "Preprint"
+   ],
+   [
+    "Unstructured data",
+    "Social and behavioral determinants from notes",
+    "Prevalence recorded rose from 0.03% to 8.3% in claims to 1.40% to 36.3% with notes; lack of social support text only in 99.8% of cases",
+    "Structured claims and Z codes",
+    "Peer reviewed"
+   ],
+   [
+    "Unstructured data",
+    "ECOG performance status extraction",
+    "AUROC 0.95 across 79,698 patients and 495,862 notes; imputed poor performance status HR 11.9",
+    "Documented performance status",
+    "Peer reviewed"
+   ],
+   [
+    "Unstructured data",
+    "Oncology variable extraction",
+    "Stage value precision 98.8% and recall 92%, but histology linked to neoplasm recall 79%",
+    "Human abstraction of 200 patients",
+    "Peer reviewed"
+   ],
+   [
+    "Unstructured data",
+    "Cancer registry staging extraction",
+    "T stage F1 0.89, M stage F1 0.24",
+    "Registry abstraction",
+    "Peer reviewed"
+   ],
+   [
+    "Unstructured data",
+    "Real-world progression free survival derivation",
+    "Sentence level accuracy 98.2%; patient level within 30 days 88%; median rwPFS 20 months (95% CI 18 to 25) computationally vs 25 months (15 to 35) manually; 30 months from radiology reports vs 23 months from clinical notes",
+    "Manual curation in a 100 patient subset",
+    "Peer reviewed"
+   ],
+   [
+    "Unstructured data",
+    "Human abstracted real-world response, the reference standard",
+    "Inter-abstractor agreement 0.94 (0.92 to 0.96) on assessment presence and 0.82 (0.78 to 0.86) on best response; 15.0 minutes per patient line; Spearman 0.99 vs trial ORR",
+    "Second human abstractor",
+    "Peer reviewed"
+   ],
+   [
+    "Unstructured data",
+    "Scaled machine learning real-world response",
+    "r = 0.86 against human abstraction in a test subset of 4,047",
+    "Human abstraction",
+    "Conference abstract"
+   ],
+   [
+    "Unstructured data",
+    "AI augmented vs traditional real-world data",
+    "Recall 49.9% to 93.2%, precision 73.6% to 93.5%, completeness 46.1% (38.2 to 54.0) to 96.6% (85.8 to 107.4)",
+    "Traditional structured approach",
+    "Peer reviewed"
+   ],
+   [
+    "Unstructured data",
+    "Vendor accuracy claim",
+    "Greater than 92% accuracy",
+    "Not stated",
+    "Company communication"
+   ],
+   [
+    "Synthetic data",
+    "Control arm simulation, generator comparison",
+    "CART based generation recovered the real median PFS inside the 95% CI in 88.8% to 98.1% of replicates, against 6.5% to 37.8% for a conditional tabular GAN",
+    "Real trial control arm",
+    "Peer reviewed"
+   ],
+   [
+    "Synthetic data",
+    "Synthetic control arm in myelodysplastic syndromes",
+    "Clinical fidelity 93%, genomic fidelity 90%, 7,133 patients, 187 matched synthetic controls",
+    "Real patient records",
+    "Peer reviewed"
+   ],
+   [
+    "Synthetic data",
+    "Reporting completeness",
+    "70 of 73 studies (95%) evaluated utility; 31 of 67 (46%) claiming privacy purpose evaluated privacy; 8 of 73 (11%) used a differentially private generator",
+    "Not applicable",
+    "Peer reviewed"
+   ],
+   [
+    "Regulatory writing",
+    "Clinical study report first draft",
+    "40% faster first draft; manuscript submission timeline 15% shorter",
+    "Historical internal process",
+    "Company communication"
+   ],
+   [
+    "Regulatory writing",
+    "Clinical study report first draft",
+    "180 hours to 80 hours per fully human reviewed draft; errors reduced 50%; first draft in as little as five minutes",
+    "Historical internal process",
+    "Company communication"
+   ],
+   [
+    "Regulatory writing",
+    "Clinical study documentation",
+    "More than ten weeks to ten minutes; 90% reduction in CSR writing time; review cycles halved; 95% reduction for device verification protocols",
+    "Historical internal process, baseline 2.3 CSRs per writer per year",
+    "Company communication"
+   ],
+   [
+    "Regulatory writing",
+    "Analysis and tabulation process",
+    "20 week process projected to be cut approximately in half",
+    "Historical internal process",
+    "Company communication"
+   ],
+   [
+    "Regulatory writing",
+    "IND document generation",
+    "Approximately 100 hours to 3.7 hours for 18,870 pages across 61 documents; to 2.6 hours for 11,425 pages across 58 documents",
+    "Historical estimate, no concurrent control, n = 2 INDs",
+    "Preprint"
+   ],
+   [
+    "Regulatory writing",
+    "Industry baseline",
+    "Approximately 120 hours of regulatory writing over four weeks; 83 days from database lock to approved CSR",
+    "Not applicable, baseline only",
+    "Company communication"
+   ],
+   [
+    "Clinical development",
+    "Site selection for a 14,000 patient cardiovascular outcomes trial",
+    "Four to six weeks reduced to a two hour meeting; enrolment closed 13 patients above target",
+    "Historical internal process",
+    "Company communication"
+   ],
+   [
+    "Clinical development",
+    "Late stage study cost",
+    "Approximately GBP 8 million saved; all trials targeted 15% faster",
+    "Historical internal process",
+    "Company communication"
+   ],
+   [
+    "Market access",
+    "Payer dossier drafting per AMCP Format v5.0",
+    "Draft approximately 90% complete; approximately 80% less development time; 70% to 75% lower cost; authors noted repetition in all sections",
+    "Single team, no comparator, 110 source documents",
+    "Conference abstract"
+   ],
+   [
+    "Market access",
+    "Payer policy monitoring",
+    "Policy and formulary alerts within 24 to 48 hours; analysis in minutes rather than days or weeks",
+    "Not stated",
+    "Company communication"
+   ],
+   [
+    "Market access",
+    "Pricing, gross to net, contracting, and international reference pricing analytics",
+    "No primary source with a measured, attributable efficiency or accuracy figure was located",
+    "Not applicable",
+    "Not available"
+   ],
+   [
+    "Drug discovery",
+    "AI discovered molecule phase success",
+    "Phase 1 success 80% to 90%; phase 2 success approximately 40%",
+    "Historical benchmarks of 13.8% phase 1 to approval overall and 3.4% in oncology",
+    "Peer reviewed"
+   ],
+   [
+    "Drug discovery",
+    "AI discovered assets in clinical development",
+    "31 assets across eight companies; 117 assets across 63 companies, with 60 of 117 (51.3%) completing phase 1 and 8 of 117 (6.8%) completing phase 2",
+    "Total clinical pipeline of several thousand",
+    "Peer reviewed"
+   ]
+  ]
+ },
+ {
+  "id": "Table 5",
+  "title": "TRACE-HEOR: proposed ten item standard for Transparent Reporting of Artificial intelligence Components in health Economics and Outcomes Research",
+  "footnote": "TRACE-HEOR is designed as an extension to CHEERS 2022 and PALISADE rather than as a replacement, and is aligned to the FDA credibility assessment framework and to ELEVATE-GenAI. Items 1, 2, 6, 9, and 10 constitute the minimum set. Item 6 is the item no current instrument requires and the item a reimbursement committee needs most. Every item is stated so that it can be verified by a reviewer with access only to the submission.",
+  "headers": [
+   "Item",
+   "Short name",
+   "Requirement",
+   "Empirical basis",
+   "Reviewer verifiable"
+  ],
+  "rows": [
+   [
+    "1",
+    "Function, not tool",
+    "Declare, for each AI component, which function it performed: evidence identification or screening, data extraction, cohort or exposure definition, outcome or endpoint derivation, covariate or confounder selection, effect estimation, parameter derivation, model code generation, synthetic data or external control generation, or narrative drafting. Name the model, version, vendor, and dates of use.",
+    "Disclosure instruments currently ask whether AI wrote the text. Disclosed AI use was 3 of 1,391 HTA documents (0.2%) and 0.6% of Lancet submissions, against self reported use of 25% to 69%.",
+    "Yes"
+   ],
+   [
+    "2",
+    "Context of use and model risk",
+    "State the question of interest, the context of use, and the model risk using the two factor definition of model influence and decision consequence, and name the decision the model influences.",
+    "Adopts the FDA credibility assessment framework verbatim so that a single characterisation serves both regulatory and HTA review.",
+    "Yes"
+   ],
+   [
+    "3",
+    "Calibration, not only discrimination",
+    "Report calibration in the deployment population and time period, not only discrimination. Where the estimate depends on absolute risk or absolute cost, discrimination alone is insufficient.",
+    "Across four deployed clinical AI systems, calibration degraded earlier and more consistently than discrimination. Cost effectiveness results depend on calibration.",
+    "Yes"
+   ],
+   [
+    "4",
+    "Reliability of the human reference",
+    "Where AI output is validated against human abstraction, report the reliability of that human reference, including inter-abstractor agreement.",
+    "The reference standard for scaled machine learning response abstraction itself had agreement of 0.94 on assessment presence and 0.82 on best response category.",
+    "Yes"
+   ],
+   [
+    "5",
+    "Disaggregated, variable level performance",
+    "Report performance separately for each variable the analysis depends on. Aggregate F1 or accuracy is not sufficient.",
+    "Stage value reached 98.8% precision while histology linkage reached 79% recall in the same model; T stage reached F1 0.89 while M stage reached 0.24.",
+    "Yes"
+   ],
+   [
+    "6",
+    "Decision reversal analysis",
+    "Re-estimate the primary result with the AI component replaced by the pre-AI alternative or by a plausible worst case, and state whether the incremental cost effectiveness ratio crosses the relevant threshold or whether the recommendation changes.",
+    "No existing instrument requires this. Deriving real-world progression from radiology reports rather than clinical notes moved median survival by seven months, which is decision relevant.",
+    "Yes"
+   ],
+   [
+    "7",
+    "Bias and subgroup performance",
+    "Report performance for the subgroups the decision affects, and report the demographic composition of any training or synthetic population.",
+    "A commercial risk algorithm applied to approximately 200 million people identified 17.7% of Black patients for extra help where a corrected target identified 46.5%.",
+    "Yes"
+   ],
+   [
+    "8",
+    "Synthetic data and external controls",
+    "Report generator family, fidelity against the real target quantity rather than against summary statistics, and a privacy evaluation.",
+    "Generator choice alone moved recovery of the true median progression free survival from 6.5% to 98.1% of replicates. Only 11% of studies used a differentially private generator.",
+    "Yes"
+   ],
+   [
+    "9",
+    "Human oversight actually performed",
+    "Report quantitatively what fraction of AI output was reviewed, by whom, with what qualifications, and what the disagreement rate was.",
+    "A biased AI lowered clinician diagnostic accuracy by 11.3 percentage points and explanations did not protect; experienced radiologists fell from 82.3% to 45.5% with an incorrect suggestion.",
+    "Yes"
+   ],
+   [
+    "10",
+    "Archive prompts, code, and versions",
+    "Deposit prompts, code, model versions, random seeds, and intermediate outputs in a citable archive at the time of submission.",
+    "Five percent of health economic evaluations mention code availability. An AI assisted analysis is not auditable without the prompts.",
+    "Yes"
+   ]
+  ]
+ },
+ {
+  "id": "eTable 1",
+  "title": "Complete PubMed search strings",
+  "footnote": "All searches were executed on 9 September 2026 through the PubMed E-utilities interface. The primary review search is the ai_heor string restricted to publication years 2010 through 2025. The remaining strings are the denominator series reported in eTable 5.",
+  "headers": [
+   "Series",
+   "PubMed query string"
+  ],
+  "rows": [
+   [
+    "all_pubmed",
+    "all[sb]"
+   ],
+   [
+    "ai_all_medicine",
+    "(\"artificial intelligence\"[tiab] OR \"machine learning\"[tiab] OR \"deep learning\"[tiab] OR \"neural network\"[tiab] OR \"neural networks\"[tiab] OR \"large language model\"[tiab] OR \"large language models\"[tiab] OR \"natural language processing\"[tiab] OR \"generative AI\"[tiab] OR \"Artificial Intelligence\"[Mesh])"
+   ],
+   [
+    "heor_all",
+    "(\"health economics\"[tiab] OR \"outcomes research\"[tiab] OR \"pharmacoeconomics\"[tiab] OR \"cost-effectiveness\"[tiab] OR \"cost effectiveness\"[tiab] OR \"cost-utility\"[tiab] OR \"budget impact\"[tiab] OR \"health technology assessment\"[tiab] OR \"economic evaluation\"[tiab] OR \"quality-adjusted life\"[tiab] OR \"real-world evidence\"[tiab] OR \"real world evidence\"[tiab] OR \"Cost-Benefit Analysis\"[Mesh] OR \"Economics, Pharmaceutical\"[Mesh] OR \"Technology Assessment, Biomedical\"[Mesh])"
+   ],
+   [
+    "ai_heor",
+    "(\"artificial intelligence\"[tiab] OR \"machine learning\"[tiab] OR \"deep learning\"[tiab] OR \"neural network\"[tiab] OR \"neural networks\"[tiab] OR \"large language model\"[tiab] OR \"large language models\"[tiab] OR \"natural language processing\"[tiab] OR \"generative AI\"[tiab] OR \"Artificial Intelligence\"[Mesh]) AND (\"health economics\"[tiab] OR \"outcomes research\"[tiab] OR \"pharmacoeconomics\"[tiab] OR \"cost-effectiveness\"[tiab] OR \"cost effectiveness\"[tiab] OR \"cost-utility\"[tiab] OR \"budget impact\"[tiab] OR \"health technology assessment\"[tiab] OR \"economic evaluation\"[tiab] OR \"quality-adjusted life\"[tiab] OR \"real-world evidence\"[tiab] OR \"real world evidence\"[tiab] OR \"Cost-Benefit Analysis\"[Mesh] OR \"Economics, Pharmaceutical\"[Mesh] OR \"Technology Assessment, Biomedical\"[Mesh])"
+   ],
+   [
+    "ai_economic_evaluation",
+    "(\"artificial intelligence\"[tiab] OR \"machine learning\"[tiab] OR \"deep learning\"[tiab] OR \"neural network\"[tiab] OR \"neural networks\"[tiab] OR \"large language model\"[tiab] OR \"large language models\"[tiab] OR \"natural language processing\"[tiab] OR \"generative AI\"[tiab] OR \"Artificial Intelligence\"[Mesh]) AND (\"cost-effectiveness\"[tiab] OR \"cost effectiveness\"[tiab] OR \"cost-utility\"[tiab] OR \"economic evaluation\"[tiab] OR \"Cost-Benefit Analysis\"[Mesh])"
+   ],
+   [
+    "ai_hta",
+    "(\"artificial intelligence\"[tiab] OR \"machine learning\"[tiab] OR \"deep learning\"[tiab] OR \"neural network\"[tiab] OR \"neural networks\"[tiab] OR \"large language model\"[tiab] OR \"large language models\"[tiab] OR \"natural language processing\"[tiab] OR \"generative AI\"[tiab] OR \"Artificial Intelligence\"[Mesh]) AND (\"health technology assessment\"[tiab] OR \"Technology Assessment, Biomedical\"[Mesh] OR \"reimbursement\"[tiab] OR \"payer\"[tiab] OR \"market access\"[tiab])"
+   ],
+   [
+    "ai_rwe",
+    "(\"artificial intelligence\"[tiab] OR \"machine learning\"[tiab] OR \"deep learning\"[tiab] OR \"neural network\"[tiab] OR \"neural networks\"[tiab] OR \"large language model\"[tiab] OR \"large language models\"[tiab] OR \"natural language processing\"[tiab] OR \"generative AI\"[tiab] OR \"Artificial Intelligence\"[Mesh]) AND (\"real-world evidence\"[tiab] OR \"real world evidence\"[tiab] OR \"real-world data\"[tiab] OR \"claims data\"[tiab] OR \"administrative claims\"[tiab] OR \"electronic health record\"[tiab] OR \"Electronic Health Records\"[Mesh])"
+   ],
+   [
+    "ai_evidence_synthesis",
+    "(\"artificial intelligence\"[tiab] OR \"machine learning\"[tiab] OR \"deep learning\"[tiab] OR \"neural network\"[tiab] OR \"neural networks\"[tiab] OR \"large language model\"[tiab] OR \"large language models\"[tiab] OR \"natural language processing\"[tiab] OR \"generative AI\"[tiab] OR \"Artificial Intelligence\"[Mesh]) AND (\"systematic review\"[tiab] OR \"evidence synthesis\"[tiab] OR \"meta-analysis\"[tiab] OR \"literature screening\"[tiab] OR \"abstract screening\"[tiab] OR \"data extraction\"[tiab])"
+   ],
+   [
+    "ai_causal_inference",
+    "(\"artificial intelligence\"[tiab] OR \"machine learning\"[tiab] OR \"deep learning\"[tiab] OR \"neural network\"[tiab] OR \"neural networks\"[tiab] OR \"large language model\"[tiab] OR \"large language models\"[tiab] OR \"natural language processing\"[tiab] OR \"generative AI\"[tiab] OR \"Artificial Intelligence\"[Mesh]) AND (\"causal inference\"[tiab] OR \"propensity score\"[tiab] OR \"confounding\"[tiab] OR \"target trial\"[tiab] OR \"treatment effect\"[tiab] OR \"causal forest\"[tiab] OR \"targeted maximum likelihood\"[tiab] OR \"double machine learning\"[tiab])"
+   ],
+   [
+    "ai_decision_modeling",
+    "(\"artificial intelligence\"[tiab] OR \"machine learning\"[tiab] OR \"deep learning\"[tiab] OR \"neural network\"[tiab] OR \"neural networks\"[tiab] OR \"large language model\"[tiab] OR \"large language models\"[tiab] OR \"natural language processing\"[tiab] OR \"generative AI\"[tiab] OR \"Artificial Intelligence\"[Mesh]) AND (\"microsimulation\"[tiab] OR \"decision model\"[tiab] OR \"Markov model\"[tiab] OR \"discrete event simulation\"[tiab] OR \"decision-analytic\"[tiab] OR \"simulation model\"[tiab])"
+   ],
+   [
+    "ai_patient_reported",
+    "(\"artificial intelligence\"[tiab] OR \"machine learning\"[tiab] OR \"deep learning\"[tiab] OR \"neural network\"[tiab] OR \"neural networks\"[tiab] OR \"large language model\"[tiab] OR \"large language models\"[tiab] OR \"natural language processing\"[tiab] OR \"generative AI\"[tiab] OR \"Artificial Intelligence\"[Mesh]) AND (\"patient-reported outcome\"[tiab] OR \"patient reported outcome\"[tiab] OR \"health-related quality of life\"[tiab] OR \"utility elicitation\"[tiab] OR \"EQ-5D\"[tiab])"
+   ],
+   [
+    "ai_reporting_governance",
+    "(\"artificial intelligence\"[tiab] OR \"machine learning\"[tiab] OR \"deep learning\"[tiab] OR \"neural network\"[tiab] OR \"neural networks\"[tiab] OR \"large language model\"[tiab] OR \"large language models\"[tiab] OR \"natural language processing\"[tiab] OR \"generative AI\"[tiab] OR \"Artificial Intelligence\"[Mesh]) AND (\"reporting guideline\"[tiab] OR \"reporting standard\"[tiab] OR \"transparency\"[tiab] OR \"reproducibility\"[tiab] OR \"governance\"[tiab] OR \"algorithmic bias\"[tiab] OR \"risk of bias\"[tiab])"
+   ],
+   [
+    "llm_heor",
+    "(\"large language model\"[tiab] OR \"large language models\"[tiab] OR \"GPT-4\"[tiab] OR \"GPT-3\"[tiab] OR \"ChatGPT\"[tiab] OR \"generative AI\"[tiab] OR \"generative artificial intelligence\"[tiab]) AND (\"health economics\"[tiab] OR \"outcomes research\"[tiab] OR \"pharmacoeconomics\"[tiab] OR \"cost-effectiveness\"[tiab] OR \"cost effectiveness\"[tiab] OR \"cost-utility\"[tiab] OR \"budget impact\"[tiab] OR \"health technology assessment\"[tiab] OR \"economic evaluation\"[tiab] OR \"quality-adjusted life\"[tiab] OR \"real-world evidence\"[tiab] OR \"real world evidence\"[tiab] OR \"Cost-Benefit Analysis\"[Mesh] OR \"Economics, Pharmaceutical\"[Mesh] OR \"Technology Assessment, Biomedical\"[Mesh])"
+   ]
+  ]
+ },
+ {
+  "id": "eTable 2",
+  "title": "Complete classification dictionary",
+  "footnote": "Terms are regular expressions applied case insensitively to the concatenated title, abstract, and MeSH terms. Domain labels are non-exclusive. Method categories are evaluated in the order shown and the first match is assigned, so that generative AI takes precedence over classical machine learning and unspecified AI is assigned only when no more specific term is present. The measured error rates of this dictionary are reported in Table 2 and eTable 8.",
+  "headers": [
+   "Label",
+   "Label type",
+   "Key",
+   "Terms and patterns"
+  ],
+  "rows": [
+   [
+    "Economic evaluation",
+    "Application domain",
+    "economic_evaluation",
+    "cost[- ]effectiveness; cost[- ]utility; cost[- ]benefit; incremental cost; \\bICER\\b; quality[- ]adjusted life; \\bQALY; budget impact; economic evaluation; cost[- ]consequence; willingness[- ]to[- ]pay threshold; net monetary benefit; health economic model"
+   ],
+   [
+    "Decision modeling and simulation",
+    "Application domain",
+    "decision_modeling",
+    "microsimulation; markov model; discrete event simulation; decision[- ]analytic; decision tree model; state[- ]transition model; simulation model; agent[- ]based model; metamodel; emulator; probabilistic sensitivity analysis; value of information"
+   ],
+   [
+    "Evidence synthesis",
+    "Application domain",
+    "evidence_synthesis",
+    "systematic review; scoping review; meta[- ]analys; evidence synthesis; literature screening; abstract screening; title and abstract; data extraction; rapid review; umbrella review; living review; network meta"
+   ],
+   [
+    "Real-world data and causal inference",
+    "Application domain",
+    "rwd_causal",
+    "real[- ]world evidence; real[- ]world data; claims data; administrative claims; administrative data; electronic health record; \\bEHR\\b; registry data; causal inference; propensity score; confound; target trial; instrumental variable; difference[- ]in[- ]difference; treatment effect heterogeneity; causal forest; targeted maximum likelihood; double machine learning; external control arm; synthetic control"
+   ],
+   [
+    "Outcome and cost prediction",
+    "Application domain",
+    "outcome_prediction",
+    "prognostic model; prediction model; predictive model; risk prediction; risk stratification; readmission; mortality prediction; predicting (?:cost|expenditure|utilization|length of stay); length of stay; resource utilization prediction; clinical deterioration; \\bAUC\\b; \\bAUROC\\b; c[- ]statistic; discrimination and calibration"
+   ],
+   [
+    "Patient-reported outcomes and preferences",
+    "Application domain",
+    "pro_preferences",
+    "patient[- ]reported outcome; \\bPROM\\b; \\bPROs\\b; health[- ]related quality of life; \\bHRQoL\\b; \\bEQ[- ]5D\\b; \\bSF[- ]36\\b; utility (?:value|elicitation|score); discrete choice experiment; stated preference; conjoint analysis; patient preference"
+   ],
+   [
+    "HTA, payer, and market access",
+    "Application domain",
+    "hta_access",
+    "health technology assessment; \\bHTA\\b; reimburse; market access; formulary; payer; coverage decision; pricing; value dossier; \\bNICE\\b; \\bIQWiG\\b; \\bCADTH\\b; \\bICER (?:report|review); joint clinical assessment; managed entry agreement; value[- ]based"
+   ],
+   [
+    "Governance, reporting, and validity",
+    "Application domain",
+    "governance_reporting",
+    "reporting guideline; reporting standard; transparen; reproducib; replicab; algorithmic bias; algorithmic fairness; risk of bias; \\bTRIPOD\\b; \\bPROBAST\\b; \\bCHEERS\\b; \\bCONSORT\\b; \\bSPIRIT\\b; \\bDECIDE[- ]AI\\b; \\bPRISMA\\b; regulatory (?:approval|submission|guidance|acceptance); governance; ethic; explainab; interpretab; accountab; hallucinat; fabricat"
+   ],
+   [
+    "Generative AI and large language models",
+    "Method category (evaluated in order of specificity)",
+    "generative_llm",
+    "large language model; \\bLLM\\b; \\bLLMs\\b; \\bGPT-?[345]\\b; ChatGPT; generative (?:AI|artificial intelligence|pre[- ]?trained); \\bBERT\\b; transformer; foundation model; Claude; Gemini; \\bLlama\\b; prompt engineering; retrieval[- ]augmented; \\bGPT\\b"
+   ],
+   [
+    "Natural language processing (pre-generative)",
+    "Method category (evaluated in order of specificity)",
+    "nlp",
+    "natural language processing; \\bNLP\\b; text mining; named entity recognition; clinical notes; unstructured text; free[- ]text; topic model; word embedding"
+   ],
+   [
+    "Deep learning",
+    "Method category (evaluated in order of specificity)",
+    "deep_learning",
+    "deep learning; neural network; convolutional; recurrent neural; \\bCNN\\b; \\bLSTM\\b; deep neural; autoencoder; generative adversarial; \\bGAN\\b"
+   ],
+   [
+    "Classical machine learning",
+    "Method category (evaluated in order of specificity)",
+    "classical_ml",
+    "machine learning; random forest; gradient boosting; \\bXGBoost\\b; support vector; \\bLASSO\\b; elastic net; decision tree; \\bk[- ]means\\b; clustering; ensemble learning; supervised learning; unsupervised learning; reinforcement learning"
+   ],
+   [
+    "Artificial intelligence, unspecified",
+    "Method category (evaluated in order of specificity)",
+    "ai_general",
+    "artificial intelligence; \\bAI\\b"
+   ]
+  ]
+ },
+ {
+  "id": "eTable 3",
+  "title": "PRISMA-ScR flow with itemized exclusion reasons",
+  "footnote": "Exclusions were applied programmatically in the order listed and each record is counted once, under the first applicable reason. The precision-adjusted estimate applies the search precision measured in Table 2 to the included count and is reported for interpretation, not as a screening result.",
+  "headers": [
+   "Stage or reason",
+   "Records (n)"
+  ],
+  "rows": [
+   [
+    "Records identified in PubMed",
+    "2642"
+   ],
+   [
+    "Duplicate records removed",
+    "14"
+   ],
+   [
+    "Records screened",
+    "2628"
+   ],
+   [
+    "Records excluded, total",
+    "152"
+   ],
+   [
+    "  no abstract available for classification",
+    "70"
+   ],
+   [
+    "  not published in English",
+    "38"
+   ],
+   [
+    "  excluded publication type (Editorial)",
+    "19"
+   ],
+   [
+    "  excluded publication type (Preprint)",
+    "10"
+   ],
+   [
+    "  excluded publication type (Letter)",
+    "7"
+   ],
+   [
+    "  outside publication window 2010-2025",
+    "4"
+   ],
+   [
+    "  excluded publication type (Retracted Publication)",
+    "4"
+   ],
+   [
+    "Records included",
+    "2476"
+   ],
+   [
+    "Precision-adjusted included records (point estimate)",
+    "1271"
+   ],
+   [
+    "Precision-adjusted included records (95% CI)",
+    "1131 to 1410"
+   ]
+  ]
+ },
+ {
+  "id": "eTable 4",
+  "title": "Included records per year by application domain and method category, 2010 to 2025",
+  "footnote": "Domain columns are non-exclusive and do not sum to the included total. Method columns are exclusive and sum to the included total. Column abbreviations, in order: Econ eval, economic evaluation; RWD causal, real-world data and causal inference; Governance, governance, reporting, and validity; Prediction, outcome and cost prediction; Evidence synth, evidence synthesis; HTA access, HTA, payer, and market access; Decision model, decision modeling and simulation; PRO pref, patient-reported outcomes and preferences; No domain, records to which the dictionary assigned no domain label; AI unspec, artificial intelligence unspecified; Classical ML, classical machine learning; Deep learn, deep learning; No method, no AI method term identified; Generative, generative AI and large language models; NLP, natural language processing before the generative era.",
+  "headers": [
+   "Year",
+   "Total",
+   "Econ eval",
+   "RWD causal",
+   "Governance",
+   "Prediction",
+   "Evidence synth",
+   "HTA access",
+   "Decision model",
+   "PRO pref",
+   "No domain",
+   "AI unspec",
+   "Classical ML",
+   "Deep learn",
+   "No method",
+   "Generative",
+   "NLP"
+  ],
+  "rows": [
+   [
+    "2010",
+    "29",
+    "9",
+    "0",
+    "5",
+    "2",
+    "1",
+    "4",
+    "1",
+    "0",
+    "24",
+    "0",
+    "4",
+    "1",
+    "24",
+    "0",
+    "0"
+   ],
+   [
+    "2011",
+    "28",
+    "16",
+    "0",
+    "1",
+    "2",
+    "3",
+    "2",
+    "0",
+    "1",
+    "25",
+    "0",
+    "2",
+    "1",
+    "25",
+    "0",
+    "0"
+   ],
+   [
+    "2012",
+    "47",
+    "23",
+    "3",
+    "3",
+    "8",
+    "5",
+    "1",
+    "2",
+    "1",
+    "37",
+    "0",
+    "4",
+    "4",
+    "37",
+    "0",
+    "2"
+   ],
+   [
+    "2013",
+    "31",
+    "20",
+    "1",
+    "4",
+    "2",
+    "8",
+    "2",
+    "0",
+    "1",
+    "29",
+    "0",
+    "0",
+    "1",
+    "29",
+    "0",
+    "1"
+   ],
+   [
+    "2014",
+    "34",
+    "21",
+    "2",
+    "0",
+    "3",
+    "5",
+    "3",
+    "1",
+    "1",
+    "31",
+    "0",
+    "1",
+    "2",
+    "31",
+    "0",
+    "0"
+   ],
+   [
+    "2015",
+    "24",
+    "6",
+    "3",
+    "1",
+    "4",
+    "0",
+    "2",
+    "0",
+    "0",
+    "12",
+    "1",
+    "8",
+    "1",
+    "12",
+    "0",
+    "2"
+   ],
+   [
+    "2016",
+    "23",
+    "13",
+    "3",
+    "2",
+    "2",
+    "5",
+    "1",
+    "1",
+    "2",
+    "13",
+    "0",
+    "5",
+    "3",
+    "13",
+    "0",
+    "2"
+   ],
+   [
+    "2017",
+    "36",
+    "16",
+    "4",
+    "2",
+    "6",
+    "4",
+    "1",
+    "0",
+    "1",
+    "14",
+    "2",
+    "10",
+    "9",
+    "14",
+    "0",
+    "1"
+   ],
+   [
+    "2018",
+    "48",
+    "25",
+    "11",
+    "6",
+    "7",
+    "3",
+    "2",
+    "3",
+    "1",
+    "12",
+    "10",
+    "17",
+    "6",
+    "12",
+    "0",
+    "3"
+   ],
+   [
+    "2019",
+    "91",
+    "37",
+    "22",
+    "11",
+    "19",
+    "8",
+    "7",
+    "2",
+    "2",
+    "26",
+    "12",
+    "26",
+    "17",
+    "26",
+    "0",
+    "10"
+   ],
+   [
+    "2020",
+    "130",
+    "63",
+    "25",
+    "15",
+    "22",
+    "9",
+    "7",
+    "7",
+    "2",
+    "20",
+    "20",
+    "43",
+    "36",
+    "20",
+    "0",
+    "11"
+   ],
+   [
+    "2021",
+    "163",
+    "90",
+    "42",
+    "28",
+    "23",
+    "17",
+    "17",
+    "8",
+    "5",
+    "17",
+    "46",
+    "47",
+    "36",
+    "17",
+    "1",
+    "16"
+   ],
+   [
+    "2022",
+    "232",
+    "151",
+    "47",
+    "39",
+    "47",
+    "28",
+    "28",
+    "18",
+    "8",
+    "43",
+    "56",
+    "67",
+    "52",
+    "43",
+    "4",
+    "10"
+   ],
+   [
+    "2023",
+    "270",
+    "173",
+    "62",
+    "58",
+    "43",
+    "25",
+    "25",
+    "18",
+    "11",
+    "42",
+    "75",
+    "73",
+    "44",
+    "42",
+    "13",
+    "23"
+   ],
+   [
+    "2024",
+    "438",
+    "308",
+    "93",
+    "82",
+    "72",
+    "41",
+    "41",
+    "22",
+    "7",
+    "36",
+    "133",
+    "118",
+    "89",
+    "36",
+    "38",
+    "24"
+   ],
+   [
+    "2025",
+    "852",
+    "588",
+    "178",
+    "237",
+    "131",
+    "121",
+    "66",
+    "32",
+    "33",
+    "64",
+    "327",
+    "190",
+    "143",
+    "64",
+    "103",
+    "25"
+   ]
+  ]
+ },
+ {
+  "id": "eTable 5",
+  "title": "Annual PubMed denominator series, 2010 to 2025",
+  "footnote": "All series retrieved 9 September 2026. Query strings are given in eTable 1. The range form of the ai_heor query returned 2,656 records where the sum of the sixteen per year queries was 2,929, a difference of 273 records. The most likely explanation is records with a MedlineDate spanning two calendar years, which are counted in both per year queries. The per year series was used for trend estimation and the range query for the PRISMA flow.",
+  "headers": [
+   "Series",
+   "2010",
+   "2011",
+   "2012",
+   "2013",
+   "2014",
+   "2015",
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024",
+   "2025"
+  ],
+  "rows": [
+   [
+    "ai_all_medicine",
+    "5540",
+    "6462",
+    "6896",
+    "8451",
+    "8585",
+    "8908",
+    "9712",
+    "11891",
+    "16558",
+    "23575",
+    "33021",
+    "46324",
+    "58612",
+    "65233",
+    "80590",
+    "110494"
+   ],
+   [
+    "ai_causal_inference",
+    "14",
+    "20",
+    "25",
+    "41",
+    "40",
+    "45",
+    "79",
+    "72",
+    "108",
+    "128",
+    "198",
+    "322",
+    "474",
+    "492",
+    "614",
+    "977"
+   ],
+   [
+    "ai_decision_modeling",
+    "24",
+    "24",
+    "20",
+    "39",
+    "33",
+    "43",
+    "51",
+    "50",
+    "59",
+    "92",
+    "80",
+    "114",
+    "167",
+    "157",
+    "164",
+    "194"
+   ],
+   [
+    "ai_economic_evaluation",
+    "21",
+    "29",
+    "47",
+    "41",
+    "45",
+    "25",
+    "25",
+    "31",
+    "40",
+    "65",
+    "104",
+    "119",
+    "191",
+    "223",
+    "376",
+    "685"
+   ],
+   [
+    "ai_evidence_synthesis",
+    "41",
+    "49",
+    "89",
+    "110",
+    "101",
+    "93",
+    "116",
+    "154",
+    "202",
+    "329",
+    "487",
+    "867",
+    "1221",
+    "1511",
+    "2023",
+    "3509"
+   ],
+   [
+    "ai_heor",
+    "39",
+    "39",
+    "56",
+    "51",
+    "49",
+    "38",
+    "31",
+    "46",
+    "61",
+    "116",
+    "167",
+    "190",
+    "275",
+    "315",
+    "511",
+    "945"
+   ],
+   [
+    "ai_hta",
+    "24",
+    "16",
+    "21",
+    "15",
+    "11",
+    "13",
+    "10",
+    "17",
+    "20",
+    "29",
+    "40",
+    "64",
+    "82",
+    "72",
+    "108",
+    "208"
+   ],
+   [
+    "ai_patient_reported",
+    "3",
+    "10",
+    "12",
+    "5",
+    "10",
+    "3",
+    "7",
+    "11",
+    "15",
+    "31",
+    "53",
+    "77",
+    "96",
+    "109",
+    "119",
+    "195"
+   ],
+   [
+    "ai_reporting_governance",
+    "41",
+    "49",
+    "67",
+    "66",
+    "58",
+    "74",
+    "76",
+    "104",
+    "194",
+    "321",
+    "513",
+    "788",
+    "1087",
+    "1376",
+    "2243",
+    "5136"
+   ],
+   [
+    "ai_rwe",
+    "66",
+    "89",
+    "125",
+    "204",
+    "214",
+    "302",
+    "226",
+    "309",
+    "418",
+    "654",
+    "713",
+    "917",
+    "951",
+    "1097",
+    "1648",
+    "2398"
+   ],
+   [
+    "all_pubmed",
+    "942369",
+    "1020845",
+    "1090505",
+    "1150126",
+    "1205918",
+    "1258163",
+    "1285527",
+    "1304378",
+    "1351710",
+    "1418998",
+    "1641241",
+    "1787582",
+    "1783561",
+    "1697844",
+    "1739776",
+    "1881997"
+   ],
+   [
+    "heor_all",
+    "5083",
+    "5307",
+    "5918",
+    "6534",
+    "7730",
+    "7946",
+    "8196",
+    "8691",
+    "8699",
+    "9244",
+    "9958",
+    "10591",
+    "10522",
+    "10323",
+    "12265",
+    "15641"
+   ],
+   [
+    "llm_heor",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "6",
+    "34",
+    "105"
+   ]
+  ]
+ },
+ {
+  "id": "eTable 6",
+  "title": "Forty most frequent publication venues among included records",
+  "footnote": "Journal names are as indexed in PubMed. The 2,476 included records appeared in more than 900 distinct venues, so the concentration shown here is low by design.",
+  "headers": [
+   "Journal",
+   "Included records (n)",
+   "% of included"
+  ],
+  "rows": [
+   [
+    "Scientific reports",
+    "79",
+    "3.19"
+   ],
+   [
+    "Sensors (Basel, Switzerland)",
+    "60",
+    "2.42"
+   ],
+   [
+    "Cureus",
+    "43",
+    "1.74"
+   ],
+   [
+    "Journal of medical Internet research",
+    "41",
+    "1.66"
+   ],
+   [
+    "BMJ open",
+    "36",
+    "1.45"
+   ],
+   [
+    "PloS one",
+    "35",
+    "1.41"
+   ],
+   [
+    "Value in health : the journal of the International Society for Pharmacoeconomics and Outcomes Research",
+    "32",
+    "1.29"
+   ],
+   [
+    "Journal of clinical medicine",
+    "27",
+    "1.09"
+   ],
+   [
+    "NPJ digital medicine",
+    "26",
+    "1.05"
+   ],
+   [
+    "Frontiers in public health",
+    "20",
+    "0.81"
+   ],
+   [
+    "Studies in health technology and informatics",
+    "19",
+    "0.77"
+   ],
+   [
+    "Diagnostics (Basel, Switzerland)",
+    "19",
+    "0.77"
+   ],
+   [
+    "Frontiers in pharmacology",
+    "19",
+    "0.77"
+   ],
+   [
+    "JMIR medical informatics",
+    "18",
+    "0.73"
+   ],
+   [
+    "Cancers",
+    "17",
+    "0.69"
+   ],
+   [
+    "BMC medical informatics and decision making",
+    "16",
+    "0.65"
+   ],
+   [
+    "Journal of the American Medical Informatics Association : JAMIA",
+    "16",
+    "0.65"
+   ],
+   [
+    "Digital health",
+    "15",
+    "0.61"
+   ],
+   [
+    "Heliyon",
+    "15",
+    "0.61"
+   ],
+   [
+    "European radiology",
+    "14",
+    "0.57"
+   ],
+   [
+    "JMIR research protocols",
+    "14",
+    "0.57"
+   ],
+   [
+    "Computers in biology and medicine",
+    "14",
+    "0.57"
+   ],
+   [
+    "Journal of robotic surgery",
+    "13",
+    "0.53"
+   ],
+   [
+    "International journal of technology assessment in health care",
+    "13",
+    "0.53"
+   ],
+   [
+    "Trials",
+    "12",
+    "0.48"
+   ],
+   [
+    "International journal of environmental research and public health",
+    "12",
+    "0.48"
+   ],
+   [
+    "Medical decision making : an international journal of the Society for Medical Decision Making",
+    "11",
+    "0.44"
+   ],
+   [
+    "Surgical endoscopy",
+    "11",
+    "0.44"
+   ],
+   [
+    "Journal of comparative effectiveness research",
+    "10",
+    "0.40"
+   ],
+   [
+    "International journal of medical informatics",
+    "10",
+    "0.40"
+   ],
+   [
+    "Journal of environmental management",
+    "10",
+    "0.40"
+   ],
+   [
+    "Artificial intelligence in medicine",
+    "10",
+    "0.40"
+   ],
+   [
+    "Journal of medical economics",
+    "10",
+    "0.40"
+   ],
+   [
+    "Frontiers in artificial intelligence",
+    "9",
+    "0.36"
+   ],
+   [
+    "Health technology assessment (Winchester, England)",
+    "9",
+    "0.36"
+   ],
+   [
+    "BJU international",
+    "9",
+    "0.36"
+   ],
+   [
+    "Expert review of medical devices",
+    "8",
+    "0.32"
+   ],
+   [
+    "JCO clinical cancer informatics",
+    "8",
+    "0.32"
+   ],
+   [
+    "Journal of biomedical informatics",
+    "8",
+    "0.32"
+   ],
+   [
+    "Healthcare (Basel, Switzerland)",
+    "8",
+    "0.32"
+   ]
+  ]
+ },
+ {
+  "id": "eTable 7",
+  "title": "Indexed publication types among included records",
+  "footnote": "Publication types are as indexed in PubMed and a record may carry more than one, so counts sum to more than 2,476. Randomized controlled trials account for 38 records (1.5%) and validation studies for 17 (0.7%).",
+  "headers": [
+   "Publication type",
+   "Included records (n)",
+   "% of included"
+  ],
+  "rows": [
+   [
+    "Journal Article",
+    "2,471",
+    "99.80"
+   ],
+   [
+    "Review",
+    "674",
+    "27.22"
+   ],
+   [
+    "Research Support, Non-U.S. Gov't",
+    "492",
+    "19.87"
+   ],
+   [
+    "Systematic Review",
+    "121",
+    "4.89"
+   ],
+   [
+    "Research Support, N.I.H., Extramural",
+    "105",
+    "4.24"
+   ],
+   [
+    "Comparative Study",
+    "91",
+    "3.68"
+   ],
+   [
+    "Multicenter Study",
+    "54",
+    "2.18"
+   ],
+   [
+    "Scoping Review",
+    "42",
+    "1.70"
+   ],
+   [
+    "Randomized Controlled Trial",
+    "38",
+    "1.53"
+   ],
+   [
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "37",
+    "1.49"
+   ],
+   [
+    "Clinical Trial Protocol",
+    "31",
+    "1.25"
+   ],
+   [
+    "Meta-Analysis",
+    "27",
+    "1.09"
+   ],
+   [
+    "Validation Study",
+    "17",
+    "0.69"
+   ],
+   [
+    "Observational Study",
+    "17",
+    "0.69"
+   ],
+   [
+    "Evaluation Study",
+    "14",
+    "0.57"
+   ],
+   [
+    "Consensus Statement",
+    "12",
+    "0.48"
+   ],
+   [
+    "Research Support, U.S. Gov't, P.H.S.",
+    "11",
+    "0.44"
+   ],
+   [
+    "Case Reports",
+    "7",
+    "0.28"
+   ],
+   [
+    "Clinical Trial",
+    "6",
+    "0.24"
+   ],
+   [
+    "Conference Proceedings",
+    "4",
+    "0.16"
+   ],
+   [
+    "Video-Audio Media",
+    "3",
+    "0.12"
+   ],
+   [
+    "Comment",
+    "3",
+    "0.12"
+   ],
+   [
+    "Research Support, N.I.H., Intramural",
+    "3",
+    "0.12"
+   ],
+   [
+    "Pragmatic Clinical Trial",
+    "3",
+    "0.12"
+   ],
+   [
+    "Equivalence Trial",
+    "2",
+    "0.08"
+   ],
+   [
+    "Practice Guideline",
+    "2",
+    "0.08"
+   ],
+   [
+    "Adaptive Clinical Trial",
+    "2",
+    "0.08"
+   ],
+   [
+    "Controlled Clinical Trial",
+    "2",
+    "0.08"
+   ],
+   [
+    "Historical Article",
+    "1",
+    "0.04"
+   ],
+   [
+    "Clinical Trial, Phase IV",
+    "1",
+    "0.04"
+   ],
+   [
+    "Dataset",
+    "1",
+    "0.04"
+   ],
+   [
+    "Randomized Controlled Trial, Veterinary",
+    "1",
+    "0.04"
+   ],
+   [
+    "Introductory Journal Article",
+    "1",
+    "0.04"
+   ]
+  ]
+ },
+ {
+  "id": "eTable 8",
+  "title": "Full agreement statistics for the validation analysis",
+  "footnote": "Paired records: 300. Cohen kappa below 0.20 indicates slight agreement, 0.21 to 0.40 fair, 0.41 to 0.60 moderate, 0.61 to 0.80 substantial. The final row reports the mean domain kappa and the median observed agreement across the eight domains.",
+  "headers": [
+   "Label",
+   "Dictionary (n)",
+   "Blinded classifier (n)",
+   "Observed agreement (%)",
+   "Cohen kappa",
+   "PABAK",
+   "Precision (%)",
+   "Recall (%)",
+   "F1 (%)"
+  ],
+  "rows": [
+   [
+    "Economic evaluation",
+    "186",
+    "69",
+    "51.7",
+    "0.144",
+    "0.033",
+    "29.6",
+    "79.7",
+    "43.1"
+   ],
+   [
+    "Decision modeling and simulation",
+    "16",
+    "30",
+    "94.0",
+    "0.579",
+    "0.880",
+    "87.5",
+    "46.7",
+    "60.9"
+   ],
+   [
+    "Evidence synthesis",
+    "33",
+    "46",
+    "92.3",
+    "0.666",
+    "0.847",
+    "84.8",
+    "60.9",
+    "70.9"
+   ],
+   [
+    "Real-world data and causal inference",
+    "64",
+    "75",
+    "90.3",
+    "0.729",
+    "0.807",
+    "85.9",
+    "73.3",
+    "79.1"
+   ],
+   [
+    "Outcome and cost prediction",
+    "43",
+    "50",
+    "85.7",
+    "0.453",
+    "0.713",
+    "58.1",
+    "50.0",
+    "53.8"
+   ],
+   [
+    "Patient-reported outcomes and preferences",
+    "8",
+    "22",
+    "93.3",
+    "0.306",
+    "0.867",
+    "62.5",
+    "22.7",
+    "33.3"
+   ],
+   [
+    "HTA, payer, and market access",
+    "21",
+    "25",
+    "94.0",
+    "0.576",
+    "0.880",
+    "66.7",
+    "56.0",
+    "60.9"
+   ],
+   [
+    "Governance, reporting, and validity",
+    "65",
+    "68",
+    "84.3",
+    "0.546",
+    "0.687",
+    "66.2",
+    "63.2",
+    "64.7"
+   ],
+   [
+    "Method category, 6-category multiclass",
+    "300",
+    "300",
+    "73.7",
+    "0.667",
+    "",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Generative AI or LLM flag",
+    "",
+    "",
+    "97.0",
+    "0.674",
+    "0.940",
+    "",
+    "",
+    ""
+   ],
+   [
+    "Mean domain kappa (median observed agreement)",
+    "",
+    "",
+    "92.3",
+    "0.500",
+    "",
+    "",
+    "",
+    ""
+   ]
+  ]
+ },
+ {
+  "id": "eTable 9",
+  "title": "Search precision, overall and stratified by dictionary domain assignment",
+  "footnote": "Precision is the proportion of sampled records judged genuinely relevant to health economics and outcomes research by the blinded independent classifier. Confidence intervals are exact binomial (Clopper-Pearson). The stratification shows that the dictionary carries signal, since precision is higher among records to which it assigned at least one domain, but not enough of it.",
+  "headers": [
+   "Stratum",
+   "n sampled",
+   "n judged HEOR relevant",
+   "Precision (%)",
+   "95% CI lower",
+   "95% CI upper"
+  ],
+  "rows": [
+   [
+    "All included records",
+    "300",
+    "154",
+    "51.3",
+    "45.7",
+    "56.9"
+   ],
+   [
+    "Dictionary assigned at least one HEOR domain",
+    "271",
+    "142",
+    "52.4",
+    "46.5",
+    "58.3"
+   ],
+   [
+    "Dictionary assigned no HEOR domain",
+    "29",
+    "12",
+    "41.4",
+    "25.5",
+    "59.3"
+   ]
+  ]
+ },
+ {
+  "id": "eTable 10",
+  "title": "Primary studies of large language model performance in study screening",
+  "footnote": "Sensitivity is the proportion of truly eligible records retained. Specificity is the proportion of truly ineligible records correctly excluded. Where a range is given, it spans models or reviews within the same study. The consistent pattern is acceptable sensitivity with unstable specificity, and between-review variance exceeding between-model variance.",
+  "headers": [
+   "Study focus",
+   "Records screened",
+   "Model",
+   "Sensitivity",
+   "Specificity or agreement",
+   "Reported efficiency",
+   "Provenance"
+  ],
+  "rows": [
+   [
+    "Two systematic review data sets",
+    "1,381 and 3,146",
+    "GPT-4, adjusted prompting",
+    "0.962",
+    "0.996",
+    "Approximately 110 records per minute at US$59",
+    "Peer reviewed"
+   ],
+   [
+    "Multiple reviews",
+    "22,665 citations",
+    "Multiple LLMs",
+    "0.811 to 0.965",
+    "0.258 to 0.804",
+    "10,279 false positives in the worst configuration",
+    "Peer reviewed"
+   ],
+   [
+    "Multiple reviews",
+    "16,669 citations",
+    "GPT-4",
+    "0.85",
+    "0.98, with a median specificity gap of 0.48 across reviews",
+    "Not reported",
+    "Peer reviewed"
+   ],
+   [
+    "Human versus LLM screening",
+    "Not applicable",
+    "GPT-4",
+    "0.42",
+    "Kappa 0.34 vs human kappa 0.77",
+    "Not reported",
+    "Peer reviewed"
+   ],
+   [
+    "Environmental and health evidence",
+    "11,984 records",
+    "LLM prioritisation",
+    "Recall above 95% target",
+    "Work saved over sampling 0.55",
+    "Approximately 75% of screening effort saved",
+    "Peer reviewed"
+   ],
+   [
+    "Agentic HEOR literature review",
+    "Not stated",
+    "Multi-agent, human in the loop",
+    "F1 0.917 to 0.977",
+    "Kappa 0.844 to 0.906 vs human",
+    "Not reported separately",
+    "Peer reviewed"
+   ],
+   [
+    "Time and motion, hybrid vs autonomous",
+    "234 publications",
+    "Not stated",
+    "Hybrid recall 80.6%; autonomous recall 48.4%; unaided human recall 88.7%",
+    "Hybrid accuracy 97.0%; unaided human accuracy 90.1%",
+    "Hybrid 51.4% time saved; autonomous 81.1% time saved",
+    "Conference abstract"
+   ]
+  ]
+ },
+ {
+  "id": "eTable 11",
+  "title": "Primary studies of large language model performance in data extraction and downstream analysis",
+  "footnote": "Where both a model and a human arm are reported, the comparison of interest is the combination arm rather than either alone.",
+  "headers": [
+   "Task",
+   "Scale",
+   "Model",
+   "Result",
+   "Human comparator",
+   "Provenance"
+  ],
+  "rows": [
+   [
+    "Extraction of 160 predefined items",
+    "Not stated",
+    "Claude 2",
+    "96.3% accuracy",
+    "Human extraction",
+    "Peer reviewed"
+   ],
+   [
+    "Randomized trial extraction",
+    "Not stated",
+    "Not stated",
+    "94.8% accuracy at 88 seconds per trial",
+    "Human extraction",
+    "Peer reviewed"
+   ],
+   [
+    "Extraction across 107 randomized trials",
+    "12,814 extractions",
+    "Claude 3.5",
+    "96.2% accuracy; time 86.9 to 14.7 minutes",
+    "Human 95.3%; human assisted by model 97.9%",
+    "Peer reviewed"
+   ],
+   [
+    "Automated cost effectiveness model coding in R",
+    "30 scripts",
+    "GPT-4",
+    "14 of 15 error free in the lung cancer set; every error free script within 1% of the published ICER",
+    "Published model results",
+    "Peer reviewed"
+   ],
+   [
+    "Network meta-analysis input extraction",
+    "Not stated",
+    "GPT-4",
+    "Greater than 99% extraction accuracy",
+    "Human extraction",
+    "Peer reviewed"
+   ],
+   [
+    "Expected value of partial perfect information",
+    "12.5 million model runs",
+    "Metamodel",
+    "More than 1,000 days reduced to approximately 2 days",
+    "Brute force nested simulation",
+    "Peer reviewed"
+   ],
+   [
+    "Reference generation, a cautionary comparison",
+    "471 references",
+    "GPT-3.5, GPT-4, Bard",
+    "Hallucination 39.6%, 28.6%, 91.4%; DOI correct in 16% and 20%",
+    "Verified bibliographic records",
+    "Peer reviewed"
+   ],
+   [
+    "Reference generation, a cautionary comparison",
+    "636 citations",
+    "GPT-3.5, GPT-4",
+    "55% and 18% fabricated, rising to 70% for book chapters",
+    "Verified bibliographic records",
+    "Peer reviewed"
+   ]
+  ]
+ },
+ {
+  "id": "eTable 12",
+  "title": "Machine learning methods for causal inference and their translation into HEOR",
+  "footnote": "The recurring finding is that predictive performance and evidentiary performance are separable. Optimizing discrimination in a propensity model can degrade the covariate balance that identification requires.",
+  "headers": [
+   "Method or study",
+   "Contribution",
+   "Key quantitative finding"
+  ],
+  "rows": [
+   [
+    "High dimensional propensity score",
+    "Algorithmic covariate selection from claims",
+    "Relative risk moved from 1.09 crude to 0.94 with 15 investigator covariates to 0.88 with 500 selected covariates in 49,653 users; a conventional estimate of 0.84 (0.56 to 1.26) became 0.62 (0.43 to 0.91)"
+   ],
+   [
+    "Performance under unmeasured confounding",
+    "Empirical assessment of hdPS robustness",
+    "Characterises the conditions under which the approach reduces or fails to reduce bias"
+   ],
+   [
+    "Targeted maximum likelihood estimation",
+    "Doubly robust semiparametric estimation",
+    "Foundational method, with pharmacoepidemiologic translation"
+   ],
+   [
+    "Super learning",
+    "Ensemble selection by cross validation",
+    "Foundational method underlying doubly robust implementations"
+   ],
+   [
+    "Causal forests",
+    "Heterogeneous treatment effect estimation with valid inference",
+    "Foundational method; applied to heterogeneity in cost effectiveness analysis"
+   ],
+   [
+    "Double or debiased machine learning",
+    "Orthogonalised estimation of treatment effects",
+    "Foundational method for high dimensional nuisance parameters"
+   ],
+   [
+    "hdPS weighting failure mode",
+    "Simulation of estimator behaviour",
+    "Bias 0.094 with 23.6% confidence interval coverage, against 0.018 and 91.4% for a modified procedure"
+   ],
+   [
+    "Trial emulation, PARADIGM-HF",
+    "Comparison of propensity model classes against a trial benchmark",
+    "AUC 0.79 gave HR 0.93; AUC 0.95 gave HR 0.61; trial HR 0.81 (0.61 to 1.06)"
+   ],
+   [
+    "Heterogeneous treatment effects with real-world data",
+    "Scoping review",
+    "1,743 records screened, 74 studies included"
+   ],
+   [
+    "Transportability and generalisability",
+    "Methods for moving estimates between populations",
+    "Reviewed methods for target population extrapolation in HEOR contexts"
+   ],
+   [
+    "Target trial framework",
+    "Design discipline for real-world evidence",
+    "Recommended as the organizing framework for observational comparative effectiveness"
+   ],
+   [
+    "PALISADE checklist",
+    "Credibility instrument for real-world data studies",
+    "Written for precisely the failure modes above and referenced by NICE"
+   ]
+  ]
+ },
+ {
+  "id": "eTable 13",
+  "title": "Natural language processing performance for HEOR relevant variable extraction from unstructured data",
+  "footnote": "Approximately 80% of clinical data is unstructured. The pattern across studies is that the variable a cohort definition or an endpoint depends on is frequently the variable extracted worst, which is why item 5 of TRACE-HEOR requires disaggregated reporting.",
+  "headers": [
+   "Variable or task",
+   "Scale",
+   "Reported performance",
+   "Reference standard",
+   "Provenance"
+  ],
+  "rows": [
+   [
+    "Social and behavioral determinants",
+    "Not stated",
+    "Recorded prevalence rose from 0.03% to 8.3% in claims to 1.40% to 36.3% with notes; walking difficulty 10.7% to 38.0%; lack of social support text only in 99.8% of cases",
+    "Structured claims",
+    "Peer reviewed"
+   ],
+   [
+    "Adverse social determinants in oncology",
+    "48 patients with documented determinants",
+    "44 of 48 (91.7%) had no corresponding Z code; fewer than 2% of inpatient hospitalizations carried any Z coded diagnosis",
+    "Structured coding",
+    "Peer reviewed"
+   ],
+   [
+    "ECOG performance status",
+    "79,698 patients, 495,862 notes",
+    "AUROC 0.95; imputed poor performance status HR 11.9",
+    "Documented performance status",
+    "Peer reviewed"
+   ],
+   [
+    "Performance status, Veterans Affairs implementation",
+    "Not stated",
+    "98.5% accuracy",
+    "Manual review",
+    "Peer reviewed"
+   ],
+   [
+    "PD-L1 status",
+    "Not stated",
+    "Micro F1 0.925",
+    "Manual abstraction",
+    "Peer reviewed"
+   ],
+   [
+    "Oncology staging and histology",
+    "200 patients drawn from more than 27 million",
+    "Lung neoplasm 100% precision and 100% recall; NSCLC histology 99% and 88%; histology linked to neoplasm 98% and 79%; stage value 98.8% and 92%; metastasis site 97% and 89%",
+    "Human abstraction",
+    "Peer reviewed"
+   ],
+   [
+    "Cancer registry TNM staging",
+    "Not stated",
+    "T stage F1 0.89; M stage F1 0.24",
+    "Registry abstraction",
+    "Peer reviewed"
+   ],
+   [
+    "Real-world progression free survival",
+    "316 metastatic breast cancer patients",
+    "Sentence level 98.2%; patient level within 30 days 88%; median rwPFS 20 months (18 to 25) computational, 22 months (15 to 35) in the validation subset, 25 months (15 to 35) manual; 30 months from radiology reports vs 23 months from clinical notes",
+    "Manual curation of 100 patients",
+    "Peer reviewed"
+   ],
+   [
+    "Human abstracted real-world response, reference standard",
+    "3,248 patients, 85.4% with at least one radiographic assessment",
+    "Inter-abstractor agreement 0.94 (0.92 to 0.96) and 0.82 (0.78 to 0.86); 15.0 minutes per patient line (IQR 7.8 to 28.1); Spearman 0.99 vs trial ORR",
+    "Second human abstractor",
+    "Peer reviewed"
+   ],
+   [
+    "Scaled machine learning real-world response",
+    "Test subset of 4,047",
+    "r = 0.86 against human abstraction",
+    "Human abstraction",
+    "Conference abstract"
+   ],
+   [
+    "Cross tumor LLM extraction",
+    "14 cancer types",
+    "F1 similar to expert human abstractors; numerical values not disclosed",
+    "Expert abstraction",
+    "Conference abstract"
+   ],
+   [
+    "AI augmented real-world data",
+    "Not stated",
+    "Recall 49.9% to 93.2%; precision 73.6% to 93.5%; completeness 46.1% (38.2 to 54.0) to 96.6% (85.8 to 107.4)",
+    "Traditional structured approach",
+    "Peer reviewed"
+   ],
+   [
+    "Vendor accuracy claim",
+    "Not stated",
+    "Greater than 92% accuracy",
+    "Not stated",
+    "Company communication"
+   ],
+   [
+    "AI derived HEOR variables, second vendor",
+    "Not applicable",
+    "No published validation located",
+    "Not applicable",
+    "Not available"
+   ]
+  ]
+ },
+ {
+  "id": "eTable 14",
+  "title": "Synthetic data, digital twins, and model based external control arms",
+  "footnote": "The regulatory record on external controls is more restrictive than the synthetic data literature acknowledges, and generator choice dominates whether the target quantity is recovered at all.",
+  "headers": [
+   "Study or instrument",
+   "Setting",
+   "Key quantitative finding"
+  ],
+  "rows": [
+   [
+    "Generator comparison for control arm simulation",
+    "Oncology control arms",
+    "CART based generation recovered the real median progression free survival inside the 95% CI in 88.8% to 98.1% of replicates, against 6.5% to 37.8% for a conditional tabular GAN"
+   ],
+   [
+    "Synthetic control arm in myelodysplastic syndromes",
+    "7,133 patients",
+    "Clinical fidelity 93%, genomic fidelity 90%; 187 luspatercept matched synthetic controls"
+   ],
+   [
+    "Synthetic data as external controls in scarce single arm trials",
+    "Rare disease",
+    "Evaluates feasibility and the conditions for acceptable inference"
+   ],
+   [
+    "AI generated digital twins",
+    "6,736 subjects in Alzheimer disease",
+    "6,236 of 6,728 subjects with recorded race were White and 152 were Black, which bounds what the synthetic population can be used to claim"
+   ],
+   [
+    "Training on synthetic electronic health records",
+    "Not stated",
+    "Model trained on synthetic records performed 0.026 lower in AUC than one trained on real records"
+   ],
+   [
+    "Reporting practices in synthetic health data",
+    "73 studies",
+    "70 (95%) evaluated utility; 31 of 67 (46%) claiming a privacy purpose evaluated privacy; 8 of 73 (11%) used a differentially private generator"
+   ],
+   [
+    "FDA approvals accepting external control data",
+    "45 approvals, 2000 to 2019",
+    "36 of 45 (80%) in rare disease; none used prospectively collected natural history controls"
+   ],
+   [
+    "Statistical limits of external controls for regulatory use",
+    "Methodological analysis",
+    "Characterises the bias and inference constraints for regulatory acceptance"
+   ],
+   [
+    "EMA qualification opinion on prognostic covariate adjustment",
+    "Regulatory opinion",
+    "Qualified, while stating that excluding dropout data would not be acceptable for regulatory purposes"
+   ]
+  ]
+ },
+ {
+  "id": "eTable 15",
+  "title": "Published economic evaluations of artificial intelligence in health care",
+  "footnote": "A systematic review identified 19 economic evaluations of AI in health care published between 2020 and 2024, with CHEERS scores between 21 and 27 of 28, against 1,614 FDA authorized AI enabled devices. The examples below illustrate why the price of the algorithm is frequently the wrong parameter to negotiate.",
+  "headers": [
+   "Study or intervention",
+   "Setting",
+   "Result",
+   "Interpretation"
+  ],
+  "rows": [
+   [
+    "Systematic review of economic evaluations of AI",
+    "2020 to 2024",
+    "19 economic evaluations identified; CHEERS scores 21 to 27 of 28",
+    "One published economic evaluation for approximately every 85 authorized devices"
+   ],
+   [
+    "AI versus polygenic risk scores for breast cancer risk stratification",
+    "United States",
+    "ICER US$23,755 per QALY in 2020 US dollars; AI cost threshold US$318 per mammogram",
+    "Cost effective within conventional thresholds under the modelled assumptions"
+   ],
+   [
+    "AI intervention, dual perspective analysis",
+    "Not stated",
+    "US$1,107.63 per QALY health system perspective; US$10,347.12 per QALY societal perspective",
+    "Perspective choice moved the ratio by roughly an order of magnitude"
+   ],
+   [
+    "AI in the UK national breast screening programme",
+    "United Kingdom",
+    "A scenario was identified in which no price per scan made the technology cost effective",
+    "Cost effectiveness was determined by the downstream care pathway rather than by algorithm price"
+   ],
+   [
+    "Risk based breast cancer screening model",
+    "United States",
+    "Deep learning risk model enabling risk stratified screening intervals",
+    "Provides the clinical basis that the economic evaluations above assess"
+   ],
+   [
+    "Framework for valuing clinical decision support",
+    "Methodological",
+    "Sets out how decision support value accrues through changes in downstream care",
+    "Explains the mechanism behind the UK screening result"
+   ],
+   [
+    "Reinforcement learning for tuberculosis screening",
+    "Not stated",
+    "Illustrates the sequential decision variant of the evaluation problem",
+    "Extends the framework to adaptive interventions"
+   ]
+  ]
+ },
+ {
+  "id": "eTable 16",
+  "title": "FDA authorized AI-enabled medical devices by review panel and year of final decision",
+  "footnote": "Retrieved from the FDA AI-Enabled Medical Device List, current as of 4 September 2026, and tabulated in full: 1,614 authorizations. The 2026 count covers decisions through the retrieval date only. Three quarters of authorized AI in United States medicine operates in a single specialty, which bounds how far the cost effectiveness literature reviewed in eTable 15 can generalize. Decisions before 2016 are collapsed into a single column.",
+  "headers": [
+   "Review panel (lead)",
+   "Authorizations (n)",
+   "% of all",
+   "Before 2016",
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024",
+   "2025",
+   "2026"
+  ],
+  "rows": [
+   [
+    "Radiology",
+    "1,230",
+    "76.2",
+    "15",
+    "11",
+    "16",
+    "40",
+    "51",
+    "99",
+    "110",
+    "138",
+    "178",
+    "183",
+    "254",
+    "135"
+   ],
+   [
+    "Cardiovascular",
+    "154",
+    "9.5",
+    "4",
+    "4",
+    "7",
+    "10",
+    "15",
+    "8",
+    "11",
+    "14",
+    "21",
+    "15",
+    "30",
+    "15"
+   ],
+   [
+    "Neurology",
+    "73",
+    "4.5",
+    "2",
+    "1",
+    "0",
+    "6",
+    "5",
+    "1",
+    "3",
+    "2",
+    "11",
+    "15",
+    "19",
+    "8"
+   ],
+   [
+    "Anesthesiology",
+    "30",
+    "1.9",
+    "3",
+    "0",
+    "1",
+    "0",
+    "1",
+    "1",
+    "0",
+    "2",
+    "5",
+    "5",
+    "8",
+    "4"
+   ],
+   [
+    "Gastroenterology-Urology",
+    "27",
+    "1.7",
+    "0",
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "3",
+    "1",
+    "5",
+    "5",
+    "8",
+    "4"
+   ],
+   [
+    "Hematology",
+    "22",
+    "1.4",
+    "6",
+    "0",
+    "1",
+    "2",
+    "1",
+    "3",
+    "0",
+    "2",
+    "1",
+    "1",
+    "3",
+    "2"
+   ],
+   [
+    "Pathology",
+    "10",
+    "0.6",
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "0",
+    "1",
+    "1",
+    "4",
+    "1"
+   ],
+   [
+    "Ophthalmic",
+    "10",
+    "0.6",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1",
+    "1",
+    "1",
+    "2",
+    "1",
+    "2",
+    "1",
+    "0"
+   ],
+   [
+    "General and Plastic Surgery",
+    "9",
+    "0.6",
+    "2",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "2",
+    "2",
+    "2"
+   ],
+   [
+    "Clinical Chemistry",
+    "9",
+    "0.6",
+    "1",
+    "1",
+    "0",
+    "2",
+    "2",
+    "0",
+    "0",
+    "1",
+    "2",
+    "0",
+    "0",
+    "0"
+   ],
+   [
+    "Orthopedic",
+    "8",
+    "0.5",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1",
+    "3",
+    "3"
+   ],
+   [
+    "Dental",
+    "7",
+    "0.4",
+    "0",
+    "0",
+    "0",
+    "2",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "3",
+    "0",
+    "2"
+   ],
+   [
+    "Microbiology",
+    "7",
+    "0.4",
+    "2",
+    "0",
+    "0",
+    "0",
+    "2",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1",
+    "1"
+   ],
+   [
+    "General Hospital",
+    "6",
+    "0.4",
+    "0",
+    "1",
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "2",
+    "0",
+    "2"
+   ],
+   [
+    "Obstetrics and Gynecology",
+    "5",
+    "0.3",
+    "1",
+    "0",
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "2",
+    "1"
+   ],
+   [
+    "Clinical Toxcicology",
+    "5",
+    "0.3",
+    "4",
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   [
+    "Ear Nose & Throat",
+    "1",
+    "0.1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "1"
+   ],
+   [
+    "Immunology",
+    "1",
+    "0.1",
+    "0",
+    "0",
+    "1",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0",
+    "0"
+   ],
+   [
+    "All panels",
+    "1,614",
+    "100.0",
+    "42",
+    "18",
+    "27",
+    "65",
+    "80",
+    "114",
+    "129",
+    "162",
+    "226",
+    "235",
+    "335",
+    "181"
+   ]
+  ]
+ },
+ {
+  "id": "eTable 17",
+  "title": "Industry reported artificial intelligence deployment in pharmaceutical evidence generation, with provenance",
+  "footnote": "Every efficiency figure in this table is reported by the organization deploying or selling the tool. None has been independently replicated, and none is accompanied by a concurrent control. The most methodologically explicit, the IND document generation preprint, compares against a historical estimate with n = 2. Provenance labels are as in Table 4.",
+  "headers": [
+   "Organization or partnership",
+   "Application",
+   "Reported figure",
+   "Baseline or comparator",
+   "Provenance"
+  ],
+  "rows": [
+   [
+    "Pfizer",
+    "Clinical study report and manuscript authoring",
+    "First draft CSR 40% faster; manuscript submission timeline 15% shorter; enrollment target plus 20%",
+    "Historical internal process",
+    "Company communication"
+   ],
+   [
+    "Merck",
+    "Clinical study report authoring",
+    "180 hours to 80 hours per fully human reviewed first draft; errors reduced 50%; first draft in as little as five minutes; team of more than 80 across three continents",
+    "Historical internal process",
+    "Company communication"
+   ],
+   [
+    "Merck and Google Cloud",
+    "Enterprise AI platform",
+    "Agreement valued at up to US$1 billion over multiple years, announced 22 April 2026, covering 75,000 employees",
+    "Not applicable",
+    "Company communication"
+   ],
+   [
+    "Novo Nordisk, NovoScribe",
+    "Clinical study documentation",
+    "More than ten weeks to ten minutes; 95% reduction for device verification protocols; CSR writing time cut 90%; review cycles halved; baseline 2.3 CSRs per writer per year with a team of 11",
+    "Historical internal process",
+    "Company communication"
+   ],
+   [
+    "Takeda",
+    "Analysis and tabulation, document summarisation",
+    "A 20 week process projected to be cut approximately in half; 70 pages summarised in two sentences",
+    "Historical internal process",
+    "Company communication"
+   ],
+   [
+    "Takeda and Weave Bio",
+    "IND document generation",
+    "Approximately 100 hours to 3.7 hours for 18,870 pages across 61 documents in IND-1; to 2.6 hours for 11,425 pages across 58 documents in IND-2",
+    "Historical estimate, no concurrent control, n = 2 INDs, vendor co-authored",
+    "Preprint"
+   ],
+   [
+    "Certara, CoAuthor",
+    "Regulatory writing",
+    "Baseline of approximately 120 hours over four weeks and 83 days from database lock to approved CSR; no time saving reported for the product itself",
+    "Not applicable, baseline only",
+    "Company communication"
+   ],
+   [
+    "Novartis",
+    "Site selection for a 14,000 patient cardiovascular outcomes trial",
+    "Four to six weeks reduced to a two hour meeting; enrolment closed 13 patients above target",
+    "Historical internal process",
+    "Company communication"
+   ],
+   [
+    "Novartis",
+    "Responsible AI programme",
+    "More than 100 use cases; adverse events reported within 24 hours; targets of two years faster development and US$1 billion to US$2 billion cost reduction",
+    "Historical internal process",
+    "Company communication"
+   ],
+   [
+    "GSK",
+    "Late stage study efficiency",
+    "Approximately GBP 8 million (US$10.87 million) saved in late stage asthma studies; all trials targeted 15% faster",
+    "Historical internal process",
+    "Company communication"
+   ],
+   [
+    "Eli Lilly and NVIDIA",
+    "Compute infrastructure",
+    "More than 1,000 B300 graphics processing units, announced 28 October 2025",
+    "Not applicable",
+    "Company communication"
+   ],
+   [
+    "Tempus, AstraZeneca, and Pathos",
+    "Multimodal oncology foundation model",
+    "US$200 million in data licensing and model development fees, announced 23 April 2025",
+    "Not applicable",
+    "Company communication"
+   ],
+   [
+    "Moderna and OpenAI",
+    "Enterprise generative AI adoption",
+    "750 custom assistants deployed in two months; internal assistant adoption above 80%",
+    "Not applicable",
+    "Company communication"
+   ],
+   [
+    "Pharmacoevidence",
+    "AMCP Format v5.0 payer dossier drafting",
+    "Draft approximately 90% complete; approximately 80% less development time; 70% to 75% lower cost; authors noted repetition in all sections and only somewhat complete SME agreement",
+    "Single team, no comparator, 110 source documents",
+    "Conference abstract"
+   ],
+   [
+    "Norstella",
+    "Payer policy and formulary monitoring",
+    "Alerts within 24 to 48 hours; analysis in minutes rather than days or weeks",
+    "Not stated",
+    "Company communication"
+   ],
+   [
+    "IQVIA",
+    "Market access analytics",
+    "No quantitative figure reported on the product materials",
+    "Not applicable",
+    "Not available"
+   ],
+   [
+    "Exscientia and Sumitomo, DSP-1181",
+    "AI designed candidate",
+    "Entered the clinic January 2020, abandoned January 2022 for failing to meet study criteria",
+    "Not applicable",
+    "Peer reviewed"
+   ],
+   [
+    "Exscientia, EXS-21546",
+    "AI designed candidate",
+    "Discontinued after modelling suggested a suitable therapeutic index would be difficult to reach",
+    "Not applicable",
+    "Peer reviewed"
+   ],
+   [
+    "Exscientia, BenevolentAI, and Recursion",
+    "AI discovery platforms",
+    "Combined accumulated deficit above US$1.5 billion; equity values down at least 75%",
+    "Not applicable",
+    "Peer reviewed"
+   ],
+   [
+    "Recursion, REC-994",
+    "Phase 2 in cerebral cavernous malformation",
+    "62 patients; trend toward reduced lesion volume on imaging but no improvement on patient reported outcomes or physician led measures at 12 months",
+    "Placebo controlled",
+    "Company communication"
+   ],
+   [
+    "AI discovered molecules, independent analysis",
+    "Phase transition success",
+    "Phase 1 success 80% to 90%; phase 2 success approximately 40%",
+    "Historical 13.8% phase 1 to approval overall; 3.4% in oncology",
+    "Peer reviewed"
+   ],
+   [
+    "AI enabled assets, industry wide analysis",
+    "Clinical pipeline",
+    "117 assets across 63 companies; 60 of 117 (51.3%) completed phase 1; 8 of 117 (6.8%) completed phase 2",
+    "Total clinical pipeline of several thousand",
+    "Peer reviewed"
+   ]
+  ]
+ },
+ {
+  "id": "eTable 18",
+  "title": "Journal, publisher, and society policies on the disclosure of artificial intelligence use",
+  "footnote": "Observed disclosure runs far below reported use. The Lancet editors checked every submission received in February 2024 and found 0.6% declaring ChatGPT, 0.6% Grammarly, and 1.8% AI as a research tool, against 3.6% reporting a medical writer. The common structural gap is that these instruments govern authorship of text rather than the analytic functions that move an estimate.",
+  "headers": [
+   "Body",
+   "Requirement",
+   "Notable provision"
+  ],
+  "rows": [
+   [
+    "ICMJE",
+    "Disclosure at submission; AI cannot be an author",
+    "Authors are accountable for all content, including AI generated portions"
+   ],
+   [
+    "COPE",
+    "AI tools cannot be listed as authors",
+    "Authors must be able to assert the presence or absence of AI generated content"
+   ],
+   [
+    "NEJM AI",
+    "Disclosure of authoring tools; reviewer disclosure",
+    "Reviewers must disclose AI use and protect manuscript confidentiality"
+   ],
+   [
+    "JAMA Network",
+    "Disclosure of model name, version, manufacturer, and dates of use",
+    "The most specific technical disclosure requirement among general medical journals"
+   ],
+   [
+    "Health Affairs",
+    "Disclosure in the cover letter and in Methods or Acknowledgements",
+    "Requires disclosure in the manuscript body, not only to editors"
+   ],
+   [
+    "The Lancet",
+    "Disclosure required; AI peer review prohibited",
+    "States that use of AI for peer reviewing is not currently permitted"
+   ],
+   [
+    "Elsevier",
+    "Named declaration section required",
+    "Separates permitted language improvement from reportable analytic use"
+   ],
+   [
+    "Springer Nature",
+    "Documentation in Methods; copy editing exempt",
+    "Large language models do not satisfy authorship criteria"
+   ],
+   [
+    "ISPOR and Value in Health",
+    "Disclosure of AI generated content; AI may not be cited as a reference",
+    "States that authors may not attempt to hide or disguise their use of AI"
+   ]
+  ]
+ },
+ {
+  "id": "eTable 19",
+  "title": "Adoption, workforce, and transparency surveys bearing on AI in HEOR",
+  "footnote": "Self reported use ranges from 25% to 81% depending on population and year, against disclosed use of 0.2% in HTA documents and 0.6% in journal submissions. Within HEOR specifically, proficiency is low and team level adoption lags individual use.",
+  "headers": [
+   "Source and population",
+   "Field date",
+   "n",
+   "Key finding"
+  ],
+  "rows": [
+   [
+    "HEOR leaders at 72 companies",
+    "2025 to 2026",
+    "100 leaders, 58 to 59 AI items",
+    "69% personally use AI; 80% say the employer supports it; 29% expect AI to replace HEOR staff within two years against 47% who disagree; 59% report the team does not use AI for any listed workflow"
+   ],
+   [
+    "HEOR, real-world data, and medical affairs professionals",
+    "April 2026",
+    "133",
+    "Expert 4%, advanced 11%, moderate 24%, basic 52%, very limited 9%, so 61% basic or very limited"
+   ],
+   [
+    "Physicians, AMA augmented intelligence survey",
+    "2023, 2024, 2026",
+    "1,081; 1,183; 1,692",
+    "38% using in 2023; 66% in 2024; 81% aware or using in 2026, with average use cases rising from 1.1 to 2.3; 88% concerned about skill loss; 88% want safety and efficacy validation"
+   ],
+   [
+    "US healthcare leaders, generative AI implementation",
+    "Q4 2023 to Q4 2025",
+    "150",
+    "25% to 47% to 50% implemented; agentic AI implemented 19% with 51% in proof of concept; 82% expect positive return but only 45% have quantified it"
+   ],
+   [
+    "Medical affairs professionals",
+    "2026",
+    "Not stated",
+    "86% confident AI improves efficiency; leading edge 20%, cautious 41%, fast followers 33%, wait and see 6%; top barrier validation and accuracy 47%; 49% use full manual SME review of every AI generated piece"
+   ],
+   [
+    "Life sciences generative AI budgets",
+    "2024 to 2025",
+    "82",
+    "Budgets of at least US$5 million rose from 20% to 32%"
+   ],
+   [
+    "Life sciences executives",
+    "January 2026",
+    "200",
+    "74% rate AI crucial or very important; 60% expect budget increases overall and 71% in human pharma; 82% concerned about intellectual property liability"
+   ],
+   [
+    "ISPOR and ISPE conference abstracts",
+    "1 January 2020 to 6 December 2024",
+    "28,184 abstracts",
+    "1,153 AI related; 89% of applications in systematic literature review automation and 9% in economic modeling; CRO 44%, academia 40%, pharmaceutical 16%"
+   ],
+   [
+    "HTA agency practice and submissions",
+    "2023 to 2025",
+    "1,309 screened, 37 included",
+    "Seven agencies adopting AI internally; NICE recorded 49 AI initiatives across 25 HTAs"
+   ],
+   [
+    "HTA dossier disclosure audit",
+    "2023 to 2025",
+    "1,391 documents",
+    "3 documents (0.2%) disclosed AI or machine learning, all at NICE (TA1154, TA1071, TA962); no explicit reporting in CDA or IQWiG dossiers"
+   ],
+   [
+    "Journal submission disclosure audit",
+    "February 2024",
+    "All submissions in one month",
+    "0.6% declared ChatGPT, 0.6% Grammarly, 1.8% AI as a research tool, against 3.6% reporting a medical writer"
+   ],
+   [
+    "Researchers, Nature survey",
+    "2025",
+    "5,229",
+    "Divided on acceptability, with roughly a quarter reporting use of AI to edit papers"
+   ],
+   [
+    "Academics on AI in peer review",
+    "2025",
+    "Approximately 1,600 across 111 countries",
+    "More than half reported having used AI in peer review"
+   ],
+   [
+    "Health economic evaluation transparency",
+    "2019 sample",
+    "200 evaluations in 147 journals",
+    "10 (5%) mentioned access to raw data and analytic code; 112 (56%) reported data to recreate the base case ICER; 31 (16%) reported working from a protocol"
+   ],
+   [
+    "Discrete event simulation model sharing",
+    "2019 to 2022",
+    "564 studies",
+    "47 (8.3%) cited an openly available model, rising from 4.0% to 9.0%"
+   ],
+   [
+    "Open source health economic models",
+    "Not stated",
+    "8,664 screened, 182 models",
+    "74% hosted on GitHub, 64% written in R, 49% Markov structure"
+   ],
+   [
+    "US digital health venture funding",
+    "2019 to 2025",
+    "482 deals in 2025",
+    "AI enabled companies took 37% of funding across 191 deals in 2024, rising to 54% of funding and 50% of deals in 2025, with a deal size premium of approximately 19%"
+   ]
+  ]
+ },
+ {
+  "id": "eTable 20",
+  "title": "Reference verification log",
+  "footnote": "Every DOI cited in this manuscript was resolved programmatically against the Crossref REST application programming interface, with a DataCite fallback for preprint and dataset identifiers, and the returned metadata was used to construct the reference list. Of 173 candidate DOIs, 172 resolved. One failed to resolve and one resolved to an unrelated work; both were removed rather than cited, and both are recorded here. Grey literature without a DOI was retrieved at the cited uniform resource locator. Crossref returns lowercased DOIs.",
+  "headers": [
+   "Identifier or key",
+   "Verification status",
+   "Journal",
+   "Year",
+   "Verified reference"
+  ],
+  "rows": [
+   [
+    "10.1001/jama.2020.1166",
+    "DOI, Crossref verified",
+    "JAMA",
+    "2020",
+    "Wouters OJ, McKee M, Luyten J. Estimated Research and Development Investment Needed to Bring a New Medicine to Market, 2009-2018. JAMA 2020;323(9):844. DOI: 10.1001/jama.2020.1166."
+   ],
+   [
+    "10.1001/jama.2022.14317",
+    "DOI, Crossref verified",
+    "JAMA",
+    "2022",
+    "Wouters OJ, McKee M, Luyten J. Errors in Source Data for Study of Drug Development Costs. JAMA 2022;328(11):1110. DOI: 10.1001/jama.2022.14317."
+   ],
+   [
+    "10.1001/jama.2022.14733",
+    "DOI, Crossref verified",
+    "JAMA",
+    "2022",
+    "Error in Data in Study of Estimated Cost of Bringing a Drug to Market. JAMA 2022;328(11):1111. DOI: 10.1001/jama.2022.14733."
+   ],
+   [
+    "10.1001/jama.2023.22295",
+    "DOI, Crossref verified",
+    "JAMA",
+    "2023",
+    "Jabbour S, Fouhey D, Shepard S, Valley TS, Kazerooni EA, Banovic N, et al. Measuring the Impact of AI in the Diagnosis of Hospitalized Patients. JAMA 2023;330(23):2275. DOI: 10.1001/jama.2023.22295."
+   ],
+   [
+    "10.1001/jamainternmed.2021.2626",
+    "DOI, Crossref verified",
+    "JAMA Intern Med",
+    "2021",
+    "Wong A, Otles E, Donnelly JP, Krumm A, McCullough J, DeTroyer-Cooley O, et al. External Validation of a Widely Implemented Proprietary Sepsis Prediction Model in Hospitalized Patients. JAMA Intern Med 2021;181(8):1065. DOI: 10.1001/jamainternmed.2021.2626."
+   ],
+   [
+    "10.1001/jamanetworkopen.2024.40969",
+    "DOI, Crossref verified",
+    "JAMA Netw Open",
+    "2024",
+    "Goh E, Gallo R, Hom J, Strong E, Weng Y, Kerman H, et al. Large Language Model Influence on Diagnostic Reasoning. JAMA Netw Open 2024;7(10):e2440969. DOI: 10.1001/jamanetworkopen.2024.40969."
+   ],
+   [
+    "10.1001/jamanetworkopen.2025.0128",
+    "DOI, Crossref verified",
+    "JAMA Netw Open",
+    "2025",
+    "Riskin DJ, Monda KL, Gagne JJ, Reynolds R, Garan AR, Dreyer N, et al. Implementing Accuracy, Completeness, and Traceability for Data Reliability. JAMA Netw Open 2025;8(3):e250128. DOI: 10.1001/jamanetworkopen.2025.0128."
+   ],
+   [
+    "10.1002/cpt.2668",
+    "DOI, Crossref verified",
+    "Clin Pharma and Therapeutics",
+    "2022",
+    "Liu Q, Huang R, Hsieh J, Zhu H, Tiwari M, Liu G, et al. Landscape Analysis of the Application of Artificial Intelligence and Machine Learning in Regulatory Submissions for Drug Development From 2016 to 2021. Clin Pharma and Therapeutics 2022;113(4):771-774. DOI: 10.1002/cpt.2668."
+   ],
+   [
+    "10.1002/cpt.3152",
+    "DOI, Crossref verified",
+    "Clin Pharma and Therapeutics",
+    "2024",
+    "Naik K, Goyal RK, Foschini L, Chak CW, Thielscher C, Zhu H, et al. Current Status and Future Directions: The Application of Artificial Intelligence/Machine Learning for Precision Medicine. Clin Pharma and Therapeutics 2024;115(4):673-686. DOI: 10.1002/cpt.3152."
+   ],
+   [
+    "10.1002/cpt.3542",
+    "DOI, Crossref verified",
+    "Clin Pharma and Therapeutics",
+    "2024",
+    "Wilczok D, Zhavoronkov A. Progress, Pitfalls, and Impact of AI-Driven Clinical Trials. Clin Pharma and Therapeutics 2024;117(4):887-890. DOI: 10.1002/cpt.3542."
+   ],
+   [
+    "10.1002/hec.4263",
+    "DOI, Crossref verified",
+    "Health Economics",
+    "2021",
+    "Bonander C, Svensson M. Using causal forests to assess heterogeneity in cost-effectiveness analysis. Health Economics 2021;30(8):1818-1832. DOI: 10.1002/hec.4263."
+   ],
+   [
+    "10.1002/hec.4834",
+    "DOI, Crossref verified",
+    "Health Economics",
+    "2024",
+    "Glynn D, Giardina J, Hatamyar J, Pandya A, Soares M, Kreif N. Integrating decision modeling and machine learning to inform treatment stratification. Health Economics 2024;33(8):1772-1792. DOI: 10.1002/hec.4834."
+   ],
+   [
+    "10.1002/hsr2.72066",
+    "DOI, Crossref verified",
+    "Health Science Reports",
+    "2026",
+    "Semi MMA, Das S, Utsho MR, Hossain A, Kamal MB, Sizan AA, et al. Artificial Intelligence in Public Health Education: A Scoping Review of Workforce Competency Development. Health Science Reports 2026;9(3):e72066. DOI: 10.1002/hsr2.72066."
+   ],
+   [
+    "10.1002/jrsm.1537",
+    "DOI, Crossref verified",
+    "Research Synthesis Methods",
+    "2021",
+    "Stansfield C, Stokes G, Thomas J. Applying machine classifiers to update searches: Analysis from two case studies. Research Synthesis Methods 2021;13(1):121-133. DOI: 10.1002/jrsm.1537."
+   ],
+   [
+    "10.1002/jrsm.1589",
+    "DOI, Crossref verified",
+    "Research Synthesis Methods",
+    "2022",
+    "Kebede MM, Le CC, Fortner RT. In-depth evaluation of machine learning methods for semi-automating article screening in a systematic review of mechanistic literature. Research Synthesis Methods 2022;14(2):156-172. DOI: 10.1002/jrsm.1589."
+   ],
+   [
+    "10.1002/jrsm.1710",
+    "DOI, Crossref verified",
+    "Research Synthesis Methods",
+    "2024",
+    "Gartlehner G, Kahwati L, Hilscher R, Thomas I, Kugley S, Crotty K, et al. Data extraction for evidence synthesis using a large language model: A proof-of-concept study. Research Synthesis Methods 2024;15(4):576-589. DOI: 10.1002/jrsm.1710."
+   ],
+   [
+    "10.1002/jrsm.1715",
+    "DOI, Crossref verified",
+    "Research Synthesis Methods",
+    "2024",
+    "Khraisha Q, Put S, Kappenberg J, Warraitch A, Hadfield K. Can large language models replace humans in systematic reviews? Evaluating GPT-4's efficacy in screening and extracting data from peer-reviewed and grey literature in multiple languages. Research Synthesis Methods 2024;15(4):616-626. DOI: 10.1002/jrsm.1715."
+   ],
+   [
+    "10.1002/pds.5403",
+    "DOI, Crossref verified",
+    "Pharmacoepidemiology and Drug",
+    "2022",
+    "Benasseur I, Talbot D, Durand M, Holbrook A, Matteau A, Potter BJ, et al. A comparison of confounder selection and adjustment methods for estimating causal effects using large healthcare databases. Pharmacoepidemiology and Drug 2022;31(4):424-433. DOI: 10.1002/pds.5403."
+   ],
+   [
+    "10.1002/trc2.70181",
+    "DOI, Crossref verified",
+    "A&D Transl Res & Clin Interv",
+    "2025",
+    "Wang D, Florian H, Lynch S, Robieson W, Zhuang R, Kusiak C, et al. Using AI-generated digital twins to boost clinical trial efficiency in Alzheimer's disease. A&D Transl Res & Clin Interv 2025;11(4):e70181. DOI: 10.1002/trc2.70181."
+   ],
+   [
+    "10.1007/s00228-016-2118-x",
+    "DOI, Crossref verified",
+    "Eur J Clin Pharmacol",
+    "2016",
+    "Guertin JR, Rahme E, LeLorier J. Performance of the high-dimensional propensity score in adjusting for unmeasured confounders. Eur J Clin Pharmacol 2016;72(12):1497-1505. DOI: 10.1007/s00228-016-2118-x."
+   ],
+   [
+    "10.1007/s10654-025-01217-w",
+    "DOI, Crossref verified",
+    "Eur J Epidemiol",
+    "2025",
+    "Manke-Reimers F, Brugger V, B\u00e4rnighausen T, Kohler S. When, why and how are estimated effects transported between populations? A scoping review of studies applying transportability methods. Eur J Epidemiol 2025;40(3):255-273. DOI: 10.1007/s10654-025-01217-w."
+   ],
+   [
+    "10.1007/s12325-021-01659-0",
+    "DOI, Crossref verified",
+    "Adv Ther",
+    "2021",
+    "Ma X, Bellomo L, Magee K, Bennette CS, Tymejczyk O, Samant M, et al. Characterization of a Real-World Response Variable and Comparison with RECIST-Based Response Rates from Clinical Trials in Advanced NSCLC. Adv Ther 2021;38(4):1843-1859. DOI: 10.1007/s12325-021-01659-0."
+   ],
+   [
+    "10.1007/s12325-025-03273-w",
+    "DOI, Crossref verified",
+    "Adv Ther",
+    "2025",
+    "Srivastava T, Irfan H, Babiy V, Swami S. Integration of Generative AI with Human Expertise in HEOR: A Hybrid Intelligence Framework. Adv Ther 2025;42(9):4103-4130. DOI: 10.1007/s12325-025-03273-w."
+   ],
+   [
+    "10.1007/s40273-017-0553-x",
+    "DOI, Crossref verified",
+    "PharmacoEconomics",
+    "2017",
+    "Bermejo I, Tappenden P, Youn J. Replicating Health Economic Models: Firm Foundations or a House of Cards? PharmacoEconomics 2017;35(11):1113-1121. DOI: 10.1007/s40273-017-0553-x."
+   ],
+   [
+    "10.1007/s40273-021-01008-7",
+    "DOI, Crossref verified",
+    "PharmacoEconomics",
+    "2021",
+    "Schwander B, Nuijten M, Evers S, Hiligsmann M. Replication of Published Health Economic Obesity Models: Assessment of Facilitators, Hurdles and Reproduction Success. PharmacoEconomics 2021;39(4):433-446. DOI: 10.1007/s40273-021-01008-7."
+   ],
+   [
+    "10.1007/s40273-023-01242-1",
+    "DOI, Crossref verified",
+    "PharmacoEconomics",
+    "2023",
+    "Otten TM, Grimm SE, Ramaekers B, Joore MA. Comprehensive Review of Methods to Assess Uncertainty in Health Economic Evaluations. PharmacoEconomics 2023;41(6):619-632. DOI: 10.1007/s40273-023-01242-1."
+   ],
+   [
+    "10.1007/s40273-023-01323-1",
+    "DOI, Crossref verified",
+    "PharmacoEconomics",
+    "2023",
+    "Turner AJ, Sammon C, Latimer N, Adamson B, Beal B, Subbiah V, et al. Transporting Comparative Effectiveness Evidence Between Countries: Considerations for Health Technology Assessments. PharmacoEconomics 2023;42(2):165-176. DOI: 10.1007/s40273-023-01323-1."
+   ],
+   [
+    "10.1007/s41669-024-00476-9",
+    "DOI, Crossref verified",
+    "PharmacoEconomics Open",
+    "2024",
+    "Reason T, Benbow E, Langham J, Gimblett A, Klijn SL, Malcolm B. Artificial Intelligence to Automate Network Meta-Analyses: Four Case Studies to Evaluate the Potential Application of Large Language Models. PharmacoEconomics Open 2024;8(2):205-220. DOI: 10.1007/s41669-024-00476-9."
+   ],
+   [
+    "10.1007/s41669-024-00477-8",
+    "DOI, Crossref verified",
+    "PharmacoEconomics Open",
+    "2024",
+    "Reason T, Rawlinson W, Langham J, Gimblett A, Malcolm B, Klijn S. Artificial Intelligence to Automate Health Economic Modelling: A Case Study to Evaluate the Potential Application of Large Language Models. PharmacoEconomics Open 2024;8(2):191-203. DOI: 10.1007/s41669-024-00477-8."
+   ],
+   [
+    "10.1007/s43441-021-00302-y",
+    "DOI, Crossref verified",
+    "Ther Innov Regul Sci",
+    "2021",
+    "Jahanshahi M, Gregg K, Davis G, Ndu A, Miller V, Vockley J, et al. The Use of External Controls in FDA Regulatory Decision Making. Ther Innov Regul Sci 2021;55(5):1019-1035. DOI: 10.1007/s43441-021-00302-y."
+   ],
+   [
+    "10.1016/j.conctc.2019.100443",
+    "DOI, Crossref verified",
+    "Contemporary Clinical Trials Communications",
+    "2019",
+    "Michelson M, Reuter K. The significant cost of systematic reviews and meta-analyses: A call for greater involvement of machine learning to assess the promise of clinical trials. Contemporary Clinical Trials Communications 2019;16:100443. DOI: 10.1016/j.conctc.2019.100443."
+   ],
+   [
+    "10.1016/j.drudis.2024.104009",
+    "DOI, Crossref verified",
+    "Drug Discovery Today",
+    "2024",
+    "KP JM, Ayers M, Bruens L, Jayanth D, Meier C. How successful are AI-discovered drugs in clinical trials? A first analysis and emerging lessons. Drug Discovery Today 2024;29(6):104009. DOI: 10.1016/j.drudis.2024.104009."
+   ],
+   [
+    "10.1016/j.fhj.2024.100182",
+    "DOI, Crossref verified",
+    "Future Healthcare Journal",
+    "2024",
+    "Senthil R, Anand T, Somala CS, Saravanan KM. Bibliometric analysis of artificial intelligence in healthcare research: Trends and future directions. Future Healthcare Journal 2024;11(3):100182. DOI: 10.1016/j.fhj.2024.100182."
+   ],
+   [
+    "10.1016/j.ijmedinf.2025.106103",
+    "DOI, Crossref verified",
+    "International Journal of Medical Informatics",
+    "2026",
+    "von GH, Helenius M, H\u00f6rhammer I, Moen H, Peltonen L. Scoping review on the economic aspects of machine learning applications in healthcare. International Journal of Medical Informatics 2026;205:106103. DOI: 10.1016/j.ijmedinf.2025.106103."
+   ],
+   [
+    "10.1016/j.ijtb.2025.11.019",
+    "DOI, Crossref verified",
+    "Indian Journal of Tuberculosis",
+    "2025",
+    "Kalavadekar PN, Khandarkar KR, Dhotre DR, Chincholkar A, Swarnkar SK, Joshi HJ. Reinforcement learning to optimize tuberculosis screening strategies in resource-limited settings. Indian Journal of Tuberculosis 2025;72:S159-S167. DOI: 10.1016/j.ijtb.2025.11.019."
+   ],
+   [
+    "10.1016/j.jclinepi.2017.12.018",
+    "DOI, Crossref verified",
+    "Journal of Clinical Epidemiology",
+    "2018",
+    "Speich B, von NB, Schur N, Hemkens LG, F\u00fcrst T, Bhatnagar N, et al. Systematic review on costs and resource use of randomized clinical trials shows a lack of transparent and comprehensive data. Journal of Clinical Epidemiology 2018;96:1-11. DOI: 10.1016/j.jclinepi.2017.12.018."
+   ],
+   [
+    "10.1016/j.jclinepi.2018.06.011",
+    "DOI, Crossref verified",
+    "Journal of Clinical Epidemiology",
+    "2018",
+    "Pham B, Bagheri E, Rios P, Pourmasoumi A, Robson RC, Hwee J, et al. Improving the conduct of systematic reviews: a process mining perspective. Journal of Clinical Epidemiology 2018;103:101-111. DOI: 10.1016/j.jclinepi.2018.06.011."
+   ],
+   [
+    "10.1016/j.jclinepi.2021.01.010",
+    "DOI, Crossref verified",
+    "Journal of Clinical Epidemiology",
+    "2021",
+    "Qin X, Liu J, Wang Y, Liu Y, Deng K, Ma Y, et al. Natural language processing was effective in assisting rapid title and abstract screening when updating systematic reviews. Journal of Clinical Epidemiology 2021;133:121-129. DOI: 10.1016/j.jclinepi.2021.01.010."
+   ],
+   [
+    "10.1016/j.jclinepi.2023.10.024",
+    "DOI, Crossref verified",
+    "Journal of Clinical Epidemiology",
+    "2024",
+    "Catal\u00e1-L\u00f3pez F, Ridao M, Tejedor-Romero L, Caulley L, Hutton B, Husereau D, et al. Transparency, openness, and reproducible research practices are frequently underused in health economic evaluations. Journal of Clinical Epidemiology 2024;165:111208. DOI: 10.1016/j.jclinepi.2023.10.024."
+   ],
+   [
+    "10.1016/j.jhealeco.2016.01.012",
+    "DOI, Crossref verified",
+    "Journal of Health Economics",
+    "2016",
+    "DiMasi JA, Grabowski HG, Hansen RW. Innovation in the pharmaceutical industry: New estimates of R&D costs. Journal of Health Economics 2016;47:20-33. DOI: 10.1016/j.jhealeco.2016.01.012."
+   ],
+   [
+    "10.1016/j.jval.2020.01.001",
+    "DOI, Crossref verified",
+    "Value in Health",
+    "2020",
+    "Fenwick E, Steuten L, Knies S, Ghabri S, Basu A, Murray JF, et al. Value of Information Analysis for Research Decisions: An Introduction: Report 1 of the ISPOR Value of Information Analysis Emerging Good Practices Task Force. Value in Health 2020;23(2):139-150. DOI: 10.1016/j.jval.2020.01.001."
+   ],
+   [
+    "10.1016/j.jval.2020.01.004",
+    "DOI, Crossref verified",
+    "Value in Health",
+    "2020",
+    "Rothery C, Strong M, Koffijberg H, Basu A, Ghabri S, Knies S, et al. Value of Information Analytical Methods: Report 2 of the ISPOR Value of Information Analysis Emerging Good Practices Task Force. Value in Health 2020;23(3):277-286. DOI: 10.1016/j.jval.2020.01.004."
+   ],
+   [
+    "10.1016/j.jval.2020.04.1834",
+    "DOI, Crossref verified",
+    "Value in Health",
+    "2020",
+    "Pizzi LT, Onukwugha E, Corey R, Albarmawi H, Murray J. Competencies for Professionals in Health Economics and Outcomes Research: The ISPOR Health Economics and Outcomes Research Competencies Framework. Value in Health 2020;23(9):1120-1127. DOI: 10.1016/j.jval.2020.04.1834."
+   ],
+   [
+    "10.1016/j.jval.2021.08.015",
+    "DOI, Crossref verified",
+    "Value in Health",
+    "2022",
+    "Hendrix N, Veenstra DL, Cheng M, Anderson NC, Verguet S. Assessing the Economic Value of Clinical Artificial Intelligence: Challenges and Opportunities. Value in Health 2022;25(3):331-339. DOI: 10.1016/j.jval.2021.08.015."
+   ],
+   [
+    "10.1016/j.jval.2021.11.1351",
+    "DOI, Crossref verified",
+    "Value in Health",
+    "2022",
+    "Husereau D, Drummond M, Augustovski F, de BE, Briggs AH, Carswell C, et al. Consolidated Health Economic Evaluation Reporting Standards 2022 (CHEERS 2022) Statement: Updated Reporting Guidance for Health Economic Evaluations. Value in Health 2022;25(1):3-9. DOI: 10.1016/j.jval.2021.11.1351."
+   ],
+   [
+    "10.1016/j.jval.2022.03.022",
+    "DOI, Crossref verified",
+    "Value in Health",
+    "2022",
+    "Padula WV, Kreif N, Vanness DJ, Adamson B, Rueda J, Felizzi F, et al. Machine Learning Methods in Health Economics and Outcomes Research: The PALISADE Checklist: A Good Practices Report of an ISPOR Task Force. Value in Health 2022;25(7):1063-1080. DOI: 10.1016/j.jval.2022.03.022."
+   ],
+   [
+    "10.1016/j.jval.2022.07.011",
+    "DOI, Crossref verified",
+    "Value in Health",
+    "2022",
+    "Lee W, Schwartz N, Bansal A, Khor S, Hammarlund N, Basu A, et al. A Scoping Review of the Use of Machine Learning in Health Economics and Outcomes Research: Part 2: Data From Nonwearables. Value in Health 2022;25(12):2053-2061. DOI: 10.1016/j.jval.2022.07.011."
+   ],
+   [
+    "10.1016/j.jval.2022.08.005",
+    "DOI, Crossref verified",
+    "Value in Health",
+    "2023",
+    "Lee W, Schwartz N, Bansal A, Khor S, Hammarlund N, Basu A, et al. A Scoping Review of the Use of Machine Learning in Health Economics and Outcomes Research: Part 1: Data From Wearable Devices. Value in Health 2023;26(2):292-299. DOI: 10.1016/j.jval.2022.08.005."
+   ],
+   [
+    "10.1016/j.jval.2024.10.3846",
+    "DOI, Crossref verified",
+    "Value in Health",
+    "2025",
+    "Fleurence RL, Bian J, Wang X, Xu H, Dawoud D, Higashi M, et al. Generative Artificial Intelligence for Health Technology Assessment: Opportunities, Challenges, and Policy Considerations: An ISPOR Working Group Report. Value in Health 2025;28(2):175-183. DOI: 10.1016/j.jval.2024.10.3846."
+   ],
+   [
+    "10.1016/j.jval.2025.01.019",
+    "DOI, Crossref verified",
+    "Value in Health",
+    "2025",
+    "Henderson RH, Sampson C, Pouwels XG, Harvard S, Handels R, Feenstra T, et al. Mapping the Landscape of Open Source Health Economic Models: A Systematic Database Review and Analysis: An ISPOR Special Interest Group Report. Value in Health 2025;28(6):813-820. DOI: 10.1016/j.jval.2025.01.019."
+   ],
+   [
+    "10.1016/j.jval.2025.04.2167",
+    "DOI, Crossref verified",
+    "Value in Health",
+    "2025",
+    "Fleurence RL, Wang X, Bian J, Higashi MK, Ayer T, Xu H, et al. A Taxonomy of Generative Artificial Intelligence in Health Economics and Outcomes Research: An ISPOR Working Group Report. Value in Health 2025;28(11):1601-1610. DOI: 10.1016/j.jval.2025.04.2167."
+   ],
+   [
+    "10.1016/j.jval.2025.06.018",
+    "DOI, Crossref verified",
+    "Value in Health",
+    "2025",
+    "Fleurence RL, Dawoud D, Bian J, Higashi MK, Wang X, Xu H, et al. ELEVATE-GenAI: Reporting Guidelines for the Use of Large Language Models in Health Economics and Outcomes Research: An ISPOR Working Group Report. Value in Health 2025;28(11):1611-1625. DOI: 10.1016/j.jval.2025.06.018."
+   ],
+   [
+    "10.1016/j.jval.2025.08.002",
+    "DOI, Crossref verified",
+    "Value in Health",
+    "2025",
+    "Lee K, Paek H, Ofoegbu N, Rube S, Higashi MK, Dawoud D, et al. A4SLR: An Agentic Artificial Intelligence-Assisted Systematic Literature Review Framework to Augment Evidence Synthesis for Health Economics and Outcomes Research and Health Technology Assessment. Value in Health 2025;28(11):1655-1664. DOI: 10.1016/j.jval.2025.08.002."
+   ],
+   [
+    "10.1016/j.jval.2026.01.013",
+    "DOI, Crossref verified",
+    "Value in Health",
+    "2026",
+    "M\u00f6ller M, Wild E, Tan W, Schrey\u00f6gg J. Estimating Heterogeneous Treatment Effects With Real-World Health Data: A Scoping Review of Machine Learning Methods. Value in Health 2026;29(5):905-913. DOI: 10.1016/j.jval.2026.01.013."
+   ],
+   [
+    "10.1016/s2468-1253(25)00133-5",
+    "DOI, Crossref verified",
+    "The Lancet Gastroenterology & Hepatology",
+    "2025",
+    "Budzy\u0144 K, Roma\u0144czyk M, Kitala D, Ko\u0142odziej P, Bugajski M, Adami HO, et al. Endoscopist deskilling risk after exposure to artificial intelligence in colonoscopy: a multicentre, observational study. The Lancet Gastroenterology & Hepatology 2025;10(10):896-903. DOI: 10.1016/s2468-1253(25)00133-5."
+   ],
+   [
+    "10.1016/s2468-1253(25)00324-3",
+    "DOI, Crossref verified",
+    "The Lancet Gastroenterology & Hepatology",
+    "2025",
+    "Budzy\u0144 K, Roma\u0144czyk M, Mori Y. Endoscopist deskilling risk after exposure to artificial intelligence in colonoscopy: Authors' reply. The Lancet Gastroenterology & Hepatology 2025;10(12):1062. DOI: 10.1016/s2468-1253(25)00324-3."
+   ],
+   [
+    "10.1038/d41586-025-01463-8",
+    "DOI, Crossref verified",
+    "Nature",
+    "2025",
+    "Kwon D. Is it OK for AI to write science papers? Nature survey shows researchers are split. Nature 2025;641(8063):574-578. DOI: 10.1038/d41586-025-01463-8."
+   ],
+   [
+    "10.1038/d41586-025-04066-5",
+    "DOI, Crossref verified",
+    "Nature",
+    "2025",
+    "Naddaf M. More than half of researchers now use AI for peer review, often against guidance. Nature 2025;649(8096):273-274. DOI: 10.1038/d41586-025-04066-5."
+   ],
+   [
+    "10.1038/s41467-023-41754-0",
+    "DOI, Crossref verified",
+    "Nat Commun",
+    "2023",
+    "Vargas-Palacios A, Sharma N, Sagoo GS. Cost-effectiveness requirements for implementing artificial intelligence technology in the Women\u2019s UK Breast Cancer Screening service. Nat Commun 2023;14(1):6110. DOI: 10.1038/s41467-023-41754-0."
+   ],
+   [
+    "10.1038/s41562-025-02173-x",
+    "DOI, Crossref verified",
+    "Nat Hum Behav",
+    "2025",
+    "Meincke L, Nave G, Terwiesch C. ChatGPT decreases idea diversity in brainstorming. Nat Hum Behav 2025;9(6):1107-1109. DOI: 10.1038/s41562-025-02173-x."
+   ],
+   [
+    "10.1038/s41591-020-1034-x",
+    "DOI, Crossref verified",
+    "Nat Med",
+    "2020",
+    "Liu X, Cruz RS, Moher D, Calvert MJ, Denniston AK, The SACWG, et al. Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI extension. Nat Med 2020;26(9):1364-1374. DOI: 10.1038/s41591-020-1034-x."
+   ],
+   [
+    "10.1038/s41591-020-1037-7",
+    "DOI, Crossref verified",
+    "Nat Med",
+    "2020",
+    "Cruz RS, Liu X, Chan A, Denniston AK, Calvert MJ, The SACWG, et al. Guidelines for clinical trial protocols for interventions involving artificial intelligence: the SPIRIT-AI extension. Nat Med 2020;26(9):1351-1363. DOI: 10.1038/s41591-020-1037-7."
+   ],
+   [
+    "10.1038/s41591-021-01599-w",
+    "DOI, Crossref verified",
+    "Nat Med",
+    "2022",
+    "Yala A, Mikhael PG, Lehman C, Lin G, Strand F, Wan Y, et al. Optimizing risk-based breast cancer screening policies with reinforcement learning. Nat Med 2022;28(1):136-143. DOI: 10.1038/s41591-021-01599-w."
+   ],
+   [
+    "10.1038/s41591-022-01772-9",
+    "DOI, Crossref verified",
+    "Nat Med",
+    "2022",
+    "Vasey B, Nagendran M, Campbell B, Clifton DA, Collins GS, Denaxas S, et al. Reporting guideline for the early-stage clinical evaluation of decision support systems driven by artificial intelligence: DECIDE-AI. Nat Med 2022;28(5):924-933. DOI: 10.1038/s41591-022-01772-9."
+   ],
+   [
+    "10.1038/s41591-024-03425-5",
+    "DOI, Crossref verified",
+    "Nat Med",
+    "2025",
+    "Gallifant J, Afshar M, Ameen S, Aphinyanaphongs Y, Chen S, Cacciamani G, et al. The TRIPOD-LLM reporting guideline for studies using large language models. Nat Med 2025;31(1):60-69. DOI: 10.1038/s41591-024-03425-5."
+   ],
+   [
+    "10.1038/s41598-023-41032-5",
+    "DOI, Crossref verified",
+    "Sci Rep",
+    "2023",
+    "Walters WH, Wilder EI. Fabrication and errors in the bibliographic citations generated by ChatGPT. Sci Rep 2023;13(1):14045. DOI: 10.1038/s41598-023-41032-5."
+   ],
+   [
+    "10.1038/s41746-023-00970-0",
+    "DOI, Crossref verified",
+    "npj Digit. Med.",
+    "2024",
+    "Guevara M, Chen S, Thomas S, Chaunzwa TL, Franco I, Kann BH, et al. Large language models to identify social determinants of health in electronic health records. npj Digit. Med. 2024;7(1):6. DOI: 10.1038/s41746-023-00970-0."
+   ],
+   [
+    "10.1038/s41746-024-01359-3",
+    "DOI, Crossref verified",
+    "npj Digit. Med.",
+    "2025",
+    "Kaabachi B, Despraz J, Meurers T, Otte K, Halilovic M, Kulynych B, et al. A scoping review of privacy and utility metrics in medical synthetic data. npj Digit. Med. 2025;8(1):60. DOI: 10.1038/s41746-024-01359-3."
+   ],
+   [
+    "10.1038/s41746-025-01457-w",
+    "DOI, Crossref verified",
+    "npj Digit. Med.",
+    "2025",
+    "Lai H, Liu J, Bai C, Liu H, Pan B, Luo X, et al. Language models for data extraction and risk of bias assessment in complementary medicine. npj Digit. Med. 2025;8(1):74. DOI: 10.1038/s41746-025-01457-w."
+   ],
+   [
+    "10.1038/s41746-025-01722-y",
+    "DOI, Crossref verified",
+    "npj Digit. Med.",
+    "2025",
+    "El ARA, Al MOA. Systematic review of cost effectiveness and budget impact of artificial intelligence in healthcare. npj Digit. Med. 2025;8(1):548. DOI: 10.1038/s41746-025-01722-y."
+   ],
+   [
+    "10.1038/s44271-026-00428-5",
+    "DOI, Crossref verified",
+    "Commun Psychol",
+    "2026",
+    "Traberg CS, Roozenbeek J, van DLS. AI is turning research into a scientific monoculture. Commun Psychol 2026;4(1):37. DOI: 10.1038/s44271-026-00428-5."
+   ],
+   [
+    "10.1056/aipc2500801",
+    "DOI, Crossref verified",
+    "NEJM AI",
+    "2025",
+    "Poddar A, Samson M, Innes GK, Liu Q, Saha A, Hanger M, et al. Leveraging Artificial Intelligence in Drug and Biological Product Development: An FDA and Clinical Trial Transformation Initiative Workshop Report. NEJM AI 2025;2(12). DOI: 10.1056/aipc2500801."
+   ],
+   [
+    "10.1080/0142159x.2024.2314198",
+    "DOI, Crossref verified",
+    "Medical Teacher",
+    "2024",
+    "Gordon M, Daniel M, Ajiboye A, Uraiby H, Xu NY, Bartlett R, et al. A scoping review of artificial intelligence in medical education: BEME Guide No. 84. Medical Teacher 2024;46(4):446-470. DOI: 10.1080/0142159x.2024.2314198."
+   ],
+   [
+    "10.1080/01621459.2017.1319839",
+    "DOI, Crossref verified",
+    "Journal of the American Statistical Association",
+    "2018",
+    "Wager S, Athey S. Estimation and Inference of Heterogeneous Treatment Effects using Random Forests. Journal of the American Statistical Association 2018;113(523):1228-1242. DOI: 10.1080/01621459.2017.1319839."
+   ],
+   [
+    "10.1080/10543406.2021.2011901",
+    "DOI, Crossref verified",
+    "Journal of Biopharmaceutical Statistics",
+    "2022",
+    "Yin X, Mishra-Kalyan PS, Sridhara R, Stewart MD, Stuart EA, Davi RC. Exploring the Potential of External Control Arms created from Patient Level Data: A case study in non-small cell lung cancer. Journal of Biopharmaceutical Statistics 2022;32(1):204-218. DOI: 10.1080/10543406.2021.2011901."
+   ],
+   [
+    "10.1080/17477778.2023.2260772",
+    "DOI, Crossref verified",
+    "Journal of Simulation",
+    "2023",
+    "Monks T, Harper A. Computer model and code sharing practices in healthcare discrete-event simulation: a systematic scoping review. Journal of Simulation 2023;19(1):108-123. DOI: 10.1080/17477778.2023.2260772."
+   ],
+   [
+    "10.1086/705716",
+    "DOI, Crossref verified",
+    "Journal of Political Economy",
+    "2020",
+    "Acemoglu D, Restrepo P. Robots and Jobs: Evidence from US Labor Markets. Journal of Political Economy 2020;128(6):2188-2244. DOI: 10.1086/705716."
+   ],
+   [
+    "10.1093/biostatistics/kxx069",
+    "DOI, Crossref verified",
+    "Biostatistics",
+    "2018",
+    "Wong CH, Siah KW, Lo AW. Estimation of clinical trial success rates and related parameters. Biostatistics 2018;20(2):273-286. DOI: 10.1093/biostatistics/kxx069."
+   ],
+   [
+    "10.1093/biostatistics/kxy072",
+    "DOI, Crossref verified",
+    "Biostatistics",
+    "2018",
+    "Wong CH, Siah KW, Lo AW. Corrigendum: Estimation of clinical trial success rates and related parameters. Biostatistics 2018;20(2):366-366. DOI: 10.1093/biostatistics/kxy072."
+   ],
+   [
+    "10.1093/cjres/rsz022",
+    "DOI, Crossref verified",
+    "Cambridge Journal of Regions, Economy and Society",
+    "2019",
+    "Acemoglu D, Restrepo P. The wrong kind of AI? Artificial intelligence and the future of labour demand. Cambridge Journal of Regions, Economy and Society 2019;13(1):25-35. DOI: 10.1093/cjres/rsz022."
+   ],
+   [
+    "10.1093/epolic/eiae042",
+    "DOI, Crossref verified",
+    "Economic Policy",
+    "2024",
+    "Acemoglu D. The simple macroeconomics of AI. Economic Policy 2024;40(121):13-58. DOI: 10.1093/epolic/eiae042."
+   ],
+   [
+    "10.1093/jamia/ocab170",
+    "DOI, Crossref verified",
+    "Journal of the American Medical Informatics Association",
+    "2021",
+    "Patra BG, Sharma MM, Vekaria V, Adekkanattu P, Patterson OV, Glicksberg B, et al. Extracting social determinants of health from electronic health records using natural language processing: a systematic review. Journal of the American Medical Informatics Association 2021;28(12):2716-2727. DOI: 10.1093/jamia/ocab170."
+   ],
+   [
+    "10.1093/jamia/ocad118",
+    "DOI, Crossref verified",
+    "Journal of the American Medical Informatics Association",
+    "2023",
+    "Wang D, Ding J, Sun A, Liu S, Jiang D, Li N, et al. Artificial intelligence suppression as a strategy to mitigate artificial intelligence automation bias. Journal of the American Medical Informatics Association 2023;30(10):1684-1692. DOI: 10.1093/jamia/ocad118."
+   ],
+   [
+    "10.1093/qje/qjae044",
+    "DOI, Crossref verified",
+    "The Quarterly Journal of Economics",
+    "2025",
+    "Brynjolfsson E, Li D, Raymond L. Generative AI at Work. The Quarterly Journal of Economics 2025;140(2):889-942. DOI: 10.1093/qje/qjae044."
+   ],
+   [
+    "10.1097/ede.0000000000000487",
+    "DOI, Crossref verified",
+    "Epidemiology",
+    "2016",
+    "Pang M, Schuster T, Filion KB, Eberg M, Platt RW. Targeted Maximum Likelihood Estimation for Pharmacoepidemiologic Research. Epidemiology 2016;27(4):570-577. DOI: 10.1097/ede.0000000000000487."
+   ],
+   [
+    "10.1097/ede.0b013e3181a663cc",
+    "DOI, Crossref verified",
+    "Epidemiology",
+    "2009",
+    "Schneeweiss S, Rassen JA, Glynn RJ, Avorn J, Mogun H, Brookhart MA. High-dimensional Propensity Score Adjustment in Studies of Treatment Effects Using Health Care Claims Data. Epidemiology 2009;20(4):512-522. DOI: 10.1097/ede.0b013e3181a663cc."
+   ],
+   [
+    "10.1097/js9.0000000000002215",
+    "DOI, Crossref verified",
+    "International Journal of Surgery",
+    "2025",
+    "Liu J, Lai H, Zhao W, Huang J, Xia D, Liu H, et al. AI-driven evidence synthesis: data extraction of randomized controlled trials with large language models. International Journal of Surgery 2025;111(3):2722-2726. DOI: 10.1097/js9.0000000000002215."
+   ],
+   [
+    "10.1101/2022.06.06.22276062",
+    "DOI, Crossref verified",
+    "",
+    "2022",
+    "Rahmani K, Thapa R, Tsou P, Chetty SC, Barnes G, Lam C, et al. Assessing the effects of data drift on the performance of machine learning models used in clinical sepsis prediction. 2022. DOI: 10.1101/2022.06.06.22276062."
+   ],
+   [
+    "10.1101/2025.04.25.25326412",
+    "DOI, Crossref verified",
+    "",
+    "2025",
+    "Sharp S, Lokuge K, Elvidge J, Hudson T, Dawoud D. Systematic literature review of the use of generative AI in health economic evaluation. 2025. DOI: 10.1101/2025.04.25.25326412."
+   ],
+   [
+    "10.1101/2025.06.16.25329708",
+    "DOI, Crossref verified",
+    "",
+    "2025",
+    "Wang K, Rosman LA, Lu H. Machine Learning Versus Logistic Regression for Propensity Score Estimation: A Benchmark Trial Emulation Against the PARADIGM-HF Randomized Trial. 2025. DOI: 10.1101/2025.06.16.25329708."
+   ],
+   [
+    "10.1111/cts.70206",
+    "DOI, Crossref verified",
+    "Clinical Translational Sci",
+    "2025",
+    "Naylor NR, Hummel N, de MC, Kadambi A. Potential Meets Practicality: AI's Current Impact on the Evidence Generation and Synthesis Pipeline in Health Economics. Clinical Translational Sci 2025;18(4):e70206. DOI: 10.1111/cts.70206."
+   ],
+   [
+    "10.1111/ectj.12097",
+    "DOI, Crossref verified",
+    "The Econometrics Journal",
+    "2018",
+    "Chernozhukov V, Chetverikov D, Demirer M, Duflo E, Hansen C, Newey W, et al. Double/debiased machine learning for treatment and structural parameters. The Econometrics Journal 2018;21(1):C1-C68. DOI: 10.1111/ectj.12097."
+   ],
+   [
+    "10.1111/j.1524-4733.2005.00033.x",
+    "DOI, Crossref verified",
+    "Value in Health",
+    "2005",
+    "Sculpher M, Claxton K. Establishing the Cost-Effectiveness of New Pharmaceuticals under Conditions of Uncertainty: When Is There Sufficient Evidence? Value in Health 2005;8(4):433-446. DOI: 10.1111/j.1524-4733.2005.00033.x."
+   ],
+   [
+    "10.1111/j.1524-4733.2008.00502.x",
+    "DOI, Crossref verified",
+    "Value in Health",
+    "2009",
+    "Bojke L, Claxton K, Sculpher M, Palmer S. Characterizing Structural Uncertainty in Decision Analytic Models: A Review and Application of Methods. Value in Health 2009;12(5):739-749. DOI: 10.1111/j.1524-4733.2008.00502.x."
+   ],
+   [
+    "10.1111/jgs.15411",
+    "DOI, Crossref verified",
+    "J American Geriatrics Society",
+    "2018",
+    "Kharrazi H, Anzaldi LJ, Hernandez L, Davison A, Boyd CM, Leff B, et al. The Value of Unstructured Electronic Health Record Data in Geriatric Syndrome Case Identification. J American Geriatrics Society 2018;66(8):1499-1507. DOI: 10.1111/jgs.15411."
+   ],
+   [
+    "10.1126/sciadv.adn5290",
+    "DOI, Crossref verified",
+    "Sci. Adv.",
+    "2024",
+    "Doshi AR, Hauser OP. Generative AI enhances individual creativity but reduces the collective diversity of novel content. Sci. Adv. 2024;10(28):eadn5290. DOI: 10.1126/sciadv.adn5290."
+   ],
+   [
+    "10.1126/science.aax2342",
+    "DOI, Crossref verified",
+    "Science",
+    "2019",
+    "Obermeyer Z, Powers B, Vogeli C, Mullainathan S. Dissecting racial bias in an algorithm used to manage the health of populations. Science 2019;366(6464):447-453. DOI: 10.1126/science.aax2342."
+   ],
+   [
+    "10.1126/science.adh2586",
+    "DOI, Crossref verified",
+    "Science",
+    "2023",
+    "Noy S, Zhang W. Experimental evidence on the productivity effects of generative artificial intelligence. Science 2023;381(6654):187-192. DOI: 10.1126/science.adh2586."
+   ],
+   [
+    "10.1136/bmj-2023-078378",
+    "DOI, Crossref verified",
+    "BMJ",
+    "2024",
+    "Collins GS, Moons KGM, Dhiman P, Riley RD, Beam AL, Van CB, et al. TRIPOD+AI statement: updated guidance for reporting clinical prediction models that use regression or machine learning methods. BMJ 2024;385:e078378. DOI: 10.1136/bmj-2023-078378."
+   ],
+   [
+    "10.1136/bmj-2024-082505",
+    "DOI, Crossref verified",
+    "BMJ",
+    "2025",
+    "Moons KGM, Damen JAA, Kaul T, Hooft L, Andaur NC, Dhiman P, et al. PROBAST+AI: an updated quality, risk of bias, and applicability assessment tool for prediction models using regression or artificial intelligence methods. BMJ 2025;388:e082505. DOI: 10.1136/bmj-2024-082505."
+   ],
+   [
+    "10.1136/bmj.k400",
+    "DOI, Crossref verified",
+    "BMJ",
+    "2018",
+    "Naudet F, Sakarovitch C, Janiaud P, Cristea I, Fanelli D, Moher D, et al. Data sharing and reanalysis of randomized controlled trials in leading biomedical journals with a full data sharing policy: survey of studies published in The BMJ and PLOS Medicine. BMJ 2018:k400. DOI: 10.1136/bmj.k400."
+   ],
+   [
+    "10.1136/bmj.m1328",
+    "DOI, Crossref verified",
+    "BMJ",
+    "2020",
+    "Wynants L, Van CB, Collins GS, Riley RD, Heinze G, Schuit E, et al. Prediction models for diagnosis and prognosis of covid-19: systematic review and critical appraisal. BMJ 2020:m1328. DOI: 10.1136/bmj.m1328."
+   ],
+   [
+    "10.1136/bmj.n2281",
+    "DOI, Crossref verified",
+    "BMJ",
+    "2021",
+    "Andaur NCL, Damen JAA, Takada T, Nijman SWJ, Dhiman P, Ma J, et al. Risk of bias in studies on prediction models developed using supervised machine learning techniques: systematic review. BMJ 2021:n2281. DOI: 10.1136/bmj.n2281."
+   ],
+   [
+    "10.1136/bmjebm-2023-112597",
+    "DOI, Crossref verified",
+    "BMJ EBM",
+    "2024",
+    "Hasan B, Saadi S, Rajjoub NS, Hegazi M, Al-Kordi M, Fleti F, et al. Integrating large language models in systematic reviews: a framework and case study using ROBINS-I for risk of bias assessment. BMJ EBM 2024;29(6):394-398. DOI: 10.1136/bmjebm-2023-112597."
+   ],
+   [
+    "10.1136/bmjopen-2020-047709",
+    "DOI, Crossref verified",
+    "BMJ Open",
+    "2021",
+    "Sounderajah V, Ashrafian H, Golub RM, Shetty S, De FJ, Hooft L, et al. Developing a reporting guideline for artificial intelligence-centred diagnostic test accuracy studies: the STARD-AI protocol. BMJ Open 2021;11(6):e047709. DOI: 10.1136/bmjopen-2020-047709."
+   ],
+   [
+    "10.1146/annurev-economics-091823-025129",
+    "DOI, Crossref verified",
+    "Annual Review of Economics",
+    "2024",
+    "Acemoglu D, Johnson S. Learning From Ricardo and Thompson: Machinery and Labor in the Early Industrial Revolution and in the Age of Artificial Intelligence. Annual Review of Economics 2024;16(1):597-621. DOI: 10.1146/annurev-economics-091823-025129."
+   ],
+   [
+    "10.1148/radiol.222176",
+    "DOI, Crossref verified",
+    "Radiology",
+    "2023",
+    "Dratsch T, Chen X, Rezazade MM, Kloeckner R, M\u00e4hringer-Kunz A, P\u00fcsken M, et al. Automation Bias in Mammography: The Impact of Artificial Intelligence BI-RADS Suggestions on Reader Performance. Radiology 2023;307(4):e222176. DOI: 10.1148/radiol.222176."
+   ],
+   [
+    "10.1162/daed_a_01915",
+    "DOI, Crossref verified",
+    "Daedalus",
+    "2022",
+    "Brynjolfsson E. The Turing Trap: The Promise & Peril of Human-Like Artificial Intelligence. Daedalus 2022;151(2):272-287. DOI: 10.1162/daed_a_01915."
+   ],
+   [
+    "10.1177/0272989x07308751",
+    "DOI, Crossref verified",
+    "Med Decis Making",
+    "2007",
+    "Fenwick E, Claxton K, Sculpher M. The Value of Implementation and the Value of Information: Combined and Uneven Development. Med Decis Making 2007;28(1):21-32. DOI: 10.1177/0272989x07308751."
+   ],
+   [
+    "10.1177/0272989x20912233",
+    "DOI, Crossref verified",
+    "Med Decis Making",
+    "2020",
+    "Degeling K, IJzerman MJ, Lavieri MS, Strong M, Koffijberg H. Introduction to Metamodeling for Reducing Computational Burden of Advanced Analyses with Health Economic Models: A Structured Overview of Metamodeling Methods in a 6-Step Application Process. Med Decis Making 2020;40(3):348-363. DOI: 10.1177/0272989x20912233."
+   ],
+   [
+    "10.1177/0272989x241263356",
+    "DOI, Crossref verified",
+    "Med Decis Making",
+    "2024",
+    "Zhang Y, Kreif N, GC VS, Manca A. Machine Learning Methods to Estimate Individualized Treatment Effects for Use in Health Technology Assessment. Med Decis Making 2024;44(7):756-769. DOI: 10.1177/0272989x241263356."
+   ],
+   [
+    "10.1177/10732748241279518",
+    "DOI, Crossref verified",
+    "Cancer Control",
+    "2024",
+    "Maghsoudi A, Sada YH, Nowakowski S, Guffey D, Zhu H, Yarlagadda SR, et al. A Multi-Institutional Natural Language Processing Pipeline to Extract Performance Status From Electronic Health Records. Cancer Control 2024;31:10732748241279518. DOI: 10.1177/10732748241279518."
+   ],
+   [
+    "10.1177/14604582231198021",
+    "DOI, Crossref verified",
+    "Health Informatics J",
+    "2023",
+    "Lin E, Zwolinski R, Wu JT, La J, Goryachev S, Huhmann L, et al. Machine learning-based natural language processing to extract PD-L1 expression levels from clinical notes. Health Informatics J 2023;29(3):14604582231198021. DOI: 10.1177/14604582231198021."
+   ],
+   [
+    "10.1186/s12874-021-01354-2",
+    "DOI, Crossref verified",
+    "BMC Med Res Methodol",
+    "2021",
+    "Gates A, Gates M, Sim S, Elliott SA, Pillay J, Hartling L. Creating efficiencies in the extraction of data from randomized trials: a prospective evaluation of a machine learning and text mining tool. BMC Med Res Methodol 2021;21(1):169. DOI: 10.1186/s12874-021-01354-2."
+   ],
+   [
+    "10.1186/s12874-022-01536-6",
+    "DOI, Crossref verified",
+    "BMC Med Res Methodol",
+    "2022",
+    "Weise A, B\u00fcchter RB, Pieper D, Mathes T. Assessing transferability in systematic reviews of health economic evaluations, a review of methodological guidance. BMC Med Res Methodol 2022;22(1):52. DOI: 10.1186/s12874-022-01536-6."
+   ],
+   [
+    "10.1186/s12874-023-01998-2",
+    "DOI, Crossref verified",
+    "BMC Med Res Methodol",
+    "2023",
+    "Gruber S, Phillips RV, Lee H, Concato J, van DLM. Evaluating and improving real-world evidence with Targeted Learning. BMC Med Res Methodol 2023;23(1):178. DOI: 10.1186/s12874-023-01998-2."
+   ],
+   [
+    "10.1186/s12885-022-09613-1",
+    "DOI, Crossref verified",
+    "BMC Cancer",
+    "2022",
+    "Mital S, Nguyen HV. Cost-effectiveness of using artificial intelligence versus polygenic risk score to guide breast cancer screening. BMC Cancer 2022;22(1):501. DOI: 10.1186/s12885-022-09613-1."
+   ],
+   [
+    "10.1186/s12913-022-07655-6",
+    "DOI, Crossref verified",
+    "BMC Health Serv Res",
+    "2022",
+    "Huang X, Yang B, Zheng W, Liu Q, Xiao F, Ouyang P, et al. Cost-effectiveness of artificial intelligence screening for diabetic retinopathy in rural China. BMC Health Serv Res 2022;22(1):260. DOI: 10.1186/s12913-022-07655-6."
+   ],
+   [
+    "10.1186/s13643-020-01520-5",
+    "DOI, Crossref verified",
+    "Syst Rev",
+    "2020",
+    "Popoff E, Besada M, Jansen JP, Cope S, Kanters S. Aligning text mining and machine learning algorithms with best practices for study selection in systematic literature reviews. Syst Rev 2020;9(1):293. DOI: 10.1186/s13643-020-01520-5."
+   ],
+   [
+    "10.1186/s13643-023-02243-z",
+    "DOI, Crossref verified",
+    "Syst Rev",
+    "2023",
+    "Qureshi R, Shaughnessy D, Gill KAR, Robinson KA, Li T, Agai E. Are ChatGPT and large language models \u201cthe answer\u201d to bringing us closer to systematic review automation? Syst Rev 2023;12(1):72. DOI: 10.1186/s13643-023-02243-z."
+   ],
+   [
+    "10.1186/s13750-025-00360-x",
+    "DOI, Crossref verified",
+    "Environ Evid",
+    "2025",
+    "Nykvist B, Macura B, Xylia M, Olsson E. Testing the utility of GPT for title and abstract screening in environmental systematic evidence synthesis. Environ Evid 2025;14(1):7. DOI: 10.1186/s13750-025-00360-x."
+   ],
+   [
+    "10.1186/s13750-025-00374-5",
+    "DOI, Crossref verified",
+    "Environ Evid",
+    "2025",
+    "Flemyng E, Noel-Storr A, Macura B, Gartlehner G, Thomas J, Meerpohl JJ, et al. Position statement on artificial intelligence (AI) use in evidence synthesis across Cochrane, the Campbell Collaboration, JBI and the Collaboration for Environmental Evidence 2025. Environ Evid 2025;14(1):20. DOI: 10.1186/s13750-025-00374-5."
+   ],
+   [
+    "10.1200/cci-25-00215",
+    "DOI, Crossref verified",
+    "JCO Clin Cancer Inform",
+    "2026",
+    "Estevez M, Singh N, Dyson L, Adamson B, Krismer K, Magee K, et al. Ensuring Reliability of Curated Electronic Health Record-Derived Data: The Validation of Accuracy for Large Language Model-/Machine Learning-Extracted Information and Data (VALID) Framework. JCO Clin Cancer Inform 2026;10(1):e2500215. DOI: 10.1200/cci-25-00215."
+   ],
+   [
+    "10.1200/cci.21.00065",
+    "DOI, Crossref verified",
+    "JCO Clinical Cancer Informatics",
+    "2021",
+    "Abedian S, Sholle ET, Adekkanattu PM, Cusick MM, Weiner SE, Shoag JE, et al. Automated Extraction of Tumor Staging and Diagnosis Information From Surgical Pathology Reports. JCO Clinical Cancer Informatics 2021:1054-1061. DOI: 10.1200/cci.21.00065."
+   ],
+   [
+    "10.1200/cci.23.00021",
+    "DOI, Crossref verified",
+    "JCO Clinical Cancer Informatics",
+    "2023",
+    "D'Amico S, Dall\u2019Olio D, Sala C, Dall\u2019Olio L, Sauta E, Zampini M, et al. Synthetic Data Generation by Artificial Intelligence to Accelerate Research and Precision Medicine in Hematology. JCO Clinical Cancer Informatics 2023:e2300021. DOI: 10.1200/cci.23.00021."
+   ],
+   [
+    "10.1200/cci.23.00099",
+    "DOI, Crossref verified",
+    "JCO Clin Cancer Inform",
+    "2024",
+    "Kenney RC, Chen X, Shintani K, Gagnon C, Liu J, DaCosta BS, et al. Validation of Non-Small Cell Lung Cancer Clinical Insights Using a Generalized Oncology Natural Language Processing Model. JCO Clin Cancer Inform 2024:e2300099. DOI: 10.1200/cci.23.00099."
+   ],
+   [
+    "10.1200/cci.23.00269",
+    "DOI, Crossref verified",
+    "JCO Clin Cancer Inform",
+    "2024",
+    "Xu W, Gu B, Lotter WE, Kehl KL. Extraction and Imputation of Eastern Cooperative Oncology Group Performance Status From Unstructured Oncology Notes Using Language Models. JCO Clin Cancer Inform 2024:e2300269. DOI: 10.1200/cci.23.00269."
+   ],
+   [
+    "10.1200/jco.2026.44.16_suppl.11072",
+    "DOI, Crossref verified",
+    "J Clin Oncol",
+    "2026",
+    "Haque W, Sai-Palm K, Kasparcova MZ, Rana I, Verlingue L, Garassino MC, et al. Clinical-stage AI-enabled therapeutic assets: An industry-wide analysis of scale, clinical progression, and company characteristics. J Clin Oncol 2026;44(16_suppl):11072-11072. DOI: 10.1200/jco.2026.44.16_suppl.11072."
+   ],
+   [
+    "10.1257/aer.20160696",
+    "DOI, Crossref verified",
+    "American Economic Review",
+    "2018",
+    "Acemoglu D, Restrepo P. The Race between Man and Machine: Implications of Technology for Growth, Factor Shares, and Employment. American Economic Review 2018;108(6):1488-1542. DOI: 10.1257/aer.20160696."
+   ],
+   [
+    "10.1257/jep.33.2.3",
+    "DOI, Crossref verified",
+    "Journal of Economic Perspectives",
+    "2019",
+    "Acemoglu D, Restrepo P. Automation and New Tasks: How Technology Displaces and Reinstates Labor. Journal of Economic Perspectives 2019;33(2):3-30. DOI: 10.1257/jep.33.2.3."
+   ],
+   [
+    "10.1257/mac.20180386",
+    "DOI, Crossref verified",
+    "American Economic Journal: Macroeconomics",
+    "2021",
+    "Brynjolfsson E, Rock D, Syverson C. The Productivity J-Curve: How Intangibles Complement General Purpose Technologies. American Economic Journal: Macroeconomics 2021;13(1):333-372. DOI: 10.1257/mac.20180386."
+   ],
+   [
+    "10.1287/orsc.2025.21838",
+    "DOI, Crossref verified",
+    "Organization Science",
+    "2026",
+    "Dell\u2019Acqua F, McFowland E, Mollick E, Lifshitz H, Kellogg KC, Rajendran S, et al. Navigating the Jagged Technological Frontier: Field Experimental Evidence of the Effects of Artificial Intelligence on Knowledge Worker Productivity and Quality. Organization Science 2026;37(2):403-423. DOI: 10.1287/orsc.2025.21838."
+   ],
+   [
+    "10.1371/journal.pdig.0000581",
+    "DOI, Crossref verified",
+    "PLOS Digit Health",
+    "2025",
+    "Elvatun S, Knoors D, Brant S, Jonasson C, Nyg\u00e5rd JF. Synthetic data as external control arms in scarce single-arm clinical trials. PLOS Digit Health 2025;4(1):e0000581. DOI: 10.1371/journal.pdig.0000581."
+   ],
+   [
+    "10.1371/journal.pdig.0001534",
+    "DOI, Crossref verified",
+    "PLOS Digit Health",
+    "2026",
+    "Kopanitsa G. Validation is not enough: Longitudinal evidence of post-deployment fragility in clinical AI systems. PLOS Digit Health 2026;5(7):e0001534. DOI: 10.1371/journal.pdig.0001534."
+   ],
+   [
+    "10.1371/journal.pone.0275380",
+    "DOI, Crossref verified",
+    "PLoS ONE",
+    "2022",
+    "Zavalis EA, Ioannidis JPA. A meta-epidemiological assessment of transparency indicators of infectious disease models. PLoS ONE 2022;17(10):e0275380. DOI: 10.1371/journal.pone.0275380."
+   ],
+   [
+    "10.2196/22422",
+    "DOI, Crossref verified",
+    "J Med Internet Res",
+    "2020",
+    "Yamada T, Yoneoka D, Hiraike Y, Hino K, Toyoshiba H, Shishido A, et al. Deep Neural Network for Reducing the Screening Workload in Systematic Reviews for Clinical Guidelines: Algorithm Validation Study. J Med Internet Res 2020;22(12):e22422. DOI: 10.2196/22422."
+   ],
+   [
+    "10.2196/24418",
+    "DOI, Crossref verified",
+    "JMIR Med Educ",
+    "2021",
+    "Clark J, McFarlane C, Cleo G, Ishikawa RC, Marshall S. The Impact of Systematic Review Automation Tools on Methodological Quality and Time Taken to Complete Systematic Review Tasks: Case Study. JMIR Med Educ 2021;7(2):e24418. DOI: 10.2196/24418."
+   ],
+   [
+    "10.2196/45815",
+    "DOI, Crossref verified",
+    "J Med Internet Res",
+    "2023",
+    "Shi J, Bendig D, Vollmar HC, Rasche P. Mapping the Bibliometrics Landscape of AI in Medicine: Methodological Study. J Med Internet Res 2023;25:e45815. DOI: 10.2196/45815."
+   ],
+   [
+    "10.2196/48933",
+    "DOI, Crossref verified",
+    "JMIR Med Inform",
+    "2023",
+    "Schopow N, Osterhoff G, Baur D. Applications of the Natural Language Processing Tool ChatGPT in Clinical Practice: Comparative Study and Augmented Systematic Review. JMIR Med Inform 2023;11:e48933. DOI: 10.2196/48933."
+   ],
+   [
+    "10.2196/52758",
+    "DOI, Crossref verified",
+    "J Med Internet Res",
+    "2024",
+    "Matsui K, Utsumi T, Aoki Y, Maruki T, Takeshima M, Takaesu Y. Human-Comparable Sensitivity of Large Language Models in Identifying Eligible Studies Through Title and Abstract Screening: 3-Layer Strategy Using GPT-3.5 and GPT-4 for Systematic Reviews. J Med Internet Res 2024;26:e52758. DOI: 10.2196/52758."
+   ],
+   [
+    "10.2196/53164",
+    "DOI, Crossref verified",
+    "J Med Internet Res",
+    "2024",
+    "Chelli M, Descamps J, Lavou\u00e9 V, Trojani C, Azar M, Deckert M, et al. Hallucination Rates and Reference Accuracy of ChatGPT and Bard for Systematic Reviews: Comparative Analysis. J Med Internet Res 2024;26:e53164. DOI: 10.2196/53164."
+   ],
+   [
+    "10.2196/55118",
+    "DOI, Crossref verified",
+    "JMIR Med Inform",
+    "2024",
+    "Akiya I, Ishihara T, Yamamoto K. Comparison of Synthetic Data Generation Techniques for Control Group Survival Data in Oncology Clinical Trials: Simulation Study. JMIR Med Inform 2024;12:e55118-e55118. DOI: 10.2196/55118."
+   ],
+   [
+    "10.2196/58666",
+    "DOI, Crossref verified",
+    "JMIR Form Res",
+    "2024",
+    "Sakamoto T, Harada Y, Shimizu T. Facilitating Trust Calibration in Artificial Intelligence-Driven Diagnostic Decision Support Systems for Determining Physicians\u2019 Diagnostic Accuracy: Quasi-Experimental Study. JMIR Form Res 2024;8:e58666-e58666. DOI: 10.2196/58666."
+   ],
+   [
+    "10.2196/64682",
+    "DOI, Crossref verified",
+    "JMIR Med Inform",
+    "2025",
+    "Oami T, Okada Y, Nakada T. GPT-3.5 Turbo and GPT-4 Turbo in Title and Abstract Screening for Systematic Reviews. JMIR Med Inform 2025;13:e64682-e64682. DOI: 10.2196/64682."
+   ],
+   [
+    "10.2196/64697",
+    "DOI, Crossref verified",
+    "JMIR Cancer",
+    "2025",
+    "Varma G, Yenukoti RK, Kumar MP, Ashrit BS, Purushotham K, Subash C, et al. A Deep Learning-Enabled Workflow to Estimate Real-World Progression-Free Survival in Patients With Metastatic Breast Cancer: Study Using Deidentified Electronic Health Records. JMIR Cancer 2025;11:e64697-e64697. DOI: 10.2196/64697."
+   ],
+   [
+    "10.2196/77494",
+    "DOI, Crossref verified",
+    "JMIR Res Protoc",
+    "2025",
+    "Daghash H, Kernohan A, Brownson-Smith R, Pandey R, Ananthakrishnan A, Cong C, et al. Machine Learning in Health Economic Evaluations: Protocol for a Scoping Review. JMIR Res Protoc 2025;14:e77494. DOI: 10.2196/77494."
+   ],
+   [
+    "10.2196/91116",
+    "DOI, Crossref verified",
+    "JMIR Med Educ",
+    "2026",
+    "Cai C, Zhu G, Zhou S, Ng O, Duell J, Ho WK, et al. A Competency Framework for Medical AI Education: Mixed Methods Study. JMIR Med Educ 2026;12:e91116-e91116. DOI: 10.2196/91116."
+   ],
+   [
+    "10.2202/1544-6115.1309",
+    "DOI, Crossref verified",
+    "Statistical Applications in Genetics and Molecular Biology",
+    "2007",
+    "van DLMJ, Polley EC, Hubbard AE. Super Learner. Statistical Applications in Genetics and Molecular Biology 2007;6(1). DOI: 10.2202/1544-6115.1309."
+   ],
+   [
+    "10.2202/1557-4679.1043",
+    "DOI, Crossref verified",
+    "The International Journal of Biostatistics",
+    "2006",
+    "van DLMJ, Rubin D. Targeted Maximum Likelihood Learning. The International Journal of Biostatistics 2006;2(1). DOI: 10.2202/1557-4679.1043."
+   ],
+   [
+    "10.3386/w23285",
+    "DOI, Crossref verified",
+    "",
+    "2017",
+    "Acemoglu D, Restrepo P. Robots and Jobs: Evidence from US Labor Markets. 2017. DOI: 10.3386/w23285."
+   ],
+   [
+    "10.3386/w23928",
+    "DOI, Crossref verified",
+    "",
+    "2017",
+    "Aghion P, Jones B, Jones C. Artificial Intelligence and Economic Growth. 2017. DOI: 10.3386/w23928."
+   ],
+   [
+    "10.3386/w31161",
+    "DOI, Crossref verified",
+    "",
+    "2023",
+    "Brynjolfsson E, Li D, Raymond L. Generative AI at Work. 2023. DOI: 10.3386/w31161."
+   ],
+   [
+    "10.3386/w31837",
+    "DOI, Crossref verified",
+    "",
+    "2023",
+    "Jones C. The A.I. Dilemma: Growth versus Existential Risk. 2023. DOI: 10.3386/w31837."
+   ],
+   [
+    "10.3386/w32140",
+    "DOI, Crossref verified",
+    "",
+    "2024",
+    "Autor D. Applying AI to Rebuild Middle Class Jobs. 2024. DOI: 10.3386/w32140."
+   ],
+   [
+    "10.3386/w32255",
+    "DOI, Crossref verified",
+    "",
+    "2024",
+    "Korinek A, Suh D. Scenarios for the Transition to AGI. 2024. DOI: 10.3386/w32255."
+   ],
+   [
+    "10.3386/w32487",
+    "DOI, Crossref verified",
+    "",
+    "2024",
+    "Acemoglu D. The Simple Macroeconomics of AI. 2024. DOI: 10.3386/w32487."
+   ],
+   [
+    "10.3386/w33892",
+    "DOI, Crossref verified",
+    "",
+    "2025",
+    "Acemoglu D, Ozdaglar A, Siderius J. AI and Social Media: A Political Economy Perspective. 2025. DOI: 10.3386/w33892."
+   ],
+   [
+    "10.3386/w34779",
+    "DOI, Crossref verified",
+    "",
+    "2026",
+    "Jones C. A.I. and Our Economic Future. 2026. DOI: 10.3386/w34779."
+   ],
+   [
+    "10.3386/w34910",
+    "DOI, Crossref verified",
+    "",
+    "2026",
+    "Acemoglu D, Kong D, Ozdaglar A. AI, Human Cognition and Knowledge Collapse. 2026. DOI: 10.3386/w34910."
+   ],
+   [
+    "10.3389/fdgth.2025.1523070",
+    "DOI, Crossref verified",
+    "Front. Digit. Health",
+    "2025",
+    "Reis ZSN, Pereira GMV, Dias CDS, Lage EM, de OIJR, Pagano AS. Artificial intelligence-based tools for patient support to enhance medication adherence: a focused review. Front. Digit. Health 2025;7:1523070. DOI: 10.3389/fdgth.2025.1523070."
+   ],
+   [
+    "10.3389/fdgth.2025.1584883",
+    "DOI, Crossref verified",
+    "Front. Digit. Health",
+    "2025",
+    "Acosta JA. Perspective: advancing public health education by embedding AI literacy. Front. Digit. Health 2025;7:1584883. DOI: 10.3389/fdgth.2025.1584883."
+   ],
+   [
+    "10.3389/fphar.2025.1454245",
+    "DOI, Crossref verified",
+    "Front. Pharmacol.",
+    "2025",
+    "Abogunrin S, Muir JM, Zerbini C, Sarri G. How much can we save by applying artificial intelligence in evidence synthesis? Results from a pragmatic review to quantify workload efficiencies and cost savings. Front. Pharmacol. 2025;16:1454245. DOI: 10.3389/fphar.2025.1454245."
+   ],
+   [
+    "10.4300/jgme-d-25-00009.1",
+    "DOI, Crossref verified",
+    "Journal of Graduate Medical Education",
+    "2025",
+    "Wolthusen RPF, El-tohami M, Hendler RA, Riordan PA, Stoklosa JB. A Framework for Artificial Intelligence in Medical Education: Could I, Would I, Should I? Journal of Graduate Medical Education 2025;17(4):430-433. DOI: 10.4300/jgme-d-25-00009.1."
+   ],
+   [
+    "10.48550/arxiv.2302.06590",
+    "DOI, Crossref verified",
+    "arXiv",
+    "2023",
+    "Peng, S, Kalliamvakou, E, Cihon, P, Demirer, M. The Impact of AI on Developer Productivity: Evidence from GitHub Copilot. arXiv 2023. DOI: 10.48550/arxiv.2302.06590."
+   ],
+   [
+    "10.48550/arxiv.2307.08974",
+    "DOI, Crossref verified",
+    "arXiv",
+    "2023",
+    "Cacciamani, GE, Eppler, MB, Ganjavi, C, Pekan, A, Biedermann, B, Collins, GS, et al. Development of the ChatGPT, Generative Artificial Intelligence and Natural Large Language Models for Accountable Reporting and Use (CANGARU) Guidelines. arXiv 2023. DOI: 10.48550/arxiv.2307.08974."
+   ],
+   [
+    "10.48550/arxiv.2407.11054",
+    "DOI, Crossref verified",
+    "arXiv",
+    "2024",
+    "Fleurence, R, Bian, J, Wang, X, Xu, H, Dawoud, D, Higashi, M, et al. Generative AI for Health Technology Assessment: Opportunities, Challenges, and Policy Considerations. arXiv 2024. DOI: 10.48550/arxiv.2407.11054."
+   ],
+   [
+    "10.48550/arxiv.2508.04325",
+    "DOI, Crossref verified",
+    "arXiv",
+    "2025",
+    "Chen, W, Yu, G, Cheung, Y, Ding, M, Liu, J, Ma, Z, et al. Beyond the Leaderboard: Rethinking Medical Benchmarks for Large Language Models. arXiv 2025. DOI: 10.48550/arxiv.2508.04325."
+   ],
+   [
+    "10.51731/cjht.2024.1004",
+    "DOI, Crossref verified",
+    "cjht",
+    "2024",
+    "CDA-AMC. Development of an Evaluation Instrument on Artificial Intelligence Search Tools for Evidence Synthesis. cjht 2024;4(10). DOI: 10.51731/cjht.2024.1004."
+   ],
+   [
+    "10.57264/cer-2023-0154",
+    "DOI, Crossref verified",
+    "J. Comp. Eff. Res.",
+    "2023",
+    "Pearson SD, Singh P, Beaudoin F, Campbell J, Schapiro L, Emond SK, et al. Institute for Clinical and Economic Review: Peterson Health Technology Institute value assessment framework for digital health technologies. J. Comp. Eff. Res. 2023;12(12):e230154. DOI: 10.57264/cer-2023-0154."
+   ],
+   [
+    "10.60584/general-methods_v8.0",
+    "DOI, Crossref verified",
+    "IQWiG",
+    "2026",
+    "Institute FQAEIHC. General Methods; Version 8.0. IQWiG 2026. DOI: 10.60584/general-methods_v8.0."
+   ],
+   [
+    "10.7326/m23-3389",
+    "DOI, Crossref verified",
+    "Ann Intern Med",
+    "2024",
+    "Tran V, Gartlehner G, Yaacoub S, Boutron I, Schwingshackl L, Stadelmaier J, et al. Sensitivity and Specificity of Using GPT-3.5 Turbo Models for Title and Abstract Screening in Systematic Reviews and Meta-analyses. Ann Intern Med 2024;177(6):791-799. DOI: 10.7326/m23-3389."
+   ],
+   [
+    "10.7326/m24-0877",
+    "DOI, Crossref verified",
+    "Ann Intern Med",
+    "2024",
+    "Li T, Chang S. The Heap, the Hype, the Reality: Generative Pretrained Transformer for Systematic Reviews. Ann Intern Med 2024;177(6):828-829. DOI: 10.7326/m24-0877."
+   ],
+   [
+    "acemoglu_cepr",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Acemoglu D, Johnson S. Rebalancing AI. CEPR Policy Insight No. 123. London: Centre for Economic Policy Research; October 2023."
+   ],
+   [
+    "acemoglu_hamilton",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Acemoglu D, Johnson S. Building pro-worker artificial intelligence. Washington, DC: The Hamilton Project, Brookings Institution; February 2026. Available at: https://www.brookings.edu/articles/building-pro-worker-artificial-intelligence/"
+   ],
+   [
+    "acemoglu_power_progress",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Acemoglu D, Johnson S. Power and Progress: Our Thousand-Year Struggle Over Technology and Prosperity. New York: PublicAffairs; 2023. ISBN 978-1-5417-0253-0."
+   ],
+   [
+    "aghion_bunel",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Aghion P, Bunel S. AI and growth: where do we stand? Federal Reserve Bank of San Francisco; June 2024. Available at: https://www.frbsf.org/wp-content/uploads/AI-and-Growth-Where-Do-We-Stand-Aghion-Bunel.pdf"
+   ],
+   [
+    "ama_press_2026",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "American Medical Association. AI usage among doctors doubles, confidence in technology grows. Press release, 2026. Available at: https://www.ama-assn.org/press-center/ama-press-releases/ama-ai-usage-among-doctors-doubles-confidence-technology-grows"
+   ],
+   [
+    "ama_sentiment",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "American Medical Association. Augmented Intelligence Research: Physician Sentiments Around the Use of AI in Health Care. Chicago, IL: AMA; 2026. Available at: https://www.ama-assn.org/system/files/physician-ai-sentiment-report.pdf"
+   ],
+   [
+    "amcp_format",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Academy of Managed Care Pharmacy. AMCP Format for Formulary Submissions. Available at: https://www.amcp.org/resource/amcp-format-formulary-submissions-guidance"
+   ],
+   [
+    "baser_retinopathy",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Baser O. Autonomous artificial intelligence retinopathy screening expands access but leaves the referral loop open. Manuscript in preparation; 2026."
+   ],
+   [
+    "ca_sb1120",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "California Senate Bill 1120, Chapter 879, Statutes of 2024 (Physicians Make Decisions Act). Available at: https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240SB1120"
+   ],
+   [
+    "cda_amc_position",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Canada's Drug Agency. Position Statement on the Use of Artificial Intelligence in the Generation and Reporting of Evidence. April 2025. Available at: https://www.cda-amc.ca/sites/default/files/MG%20Methods/Position_Statement_AI_Renumbered.pdf"
+   ],
+   [
+    "certara_coauthor",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Certara. CoAuthor and GPTs: transforming regulatory writing. White paper, November 2024. Available at: https://www.certara.com/wp-content/uploads/2024/11/2024-11-08-White-Paper-CoAuthor-and-GPTs.pdf"
+   ],
+   [
+    "cms_hpms_2024",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Centers for Medicare and Medicaid Services. Coverage criteria and utilization management requirements in CMS-4201-F. Health Plan Management System memorandum, February 6, 2024. Available at: https://www.cms.gov/files/document/faq-contract-year-2024-policy-and-technical-changes-medicare-advantage-program-final-rule-utilization.pdf"
+   ],
+   [
+    "cope_ai",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Committee on Publication Ethics. Authorship and AI tools. COPE position statement. Available at: https://publicationethics.org/guidance/cope-position/authorship-and-ai-tools"
+   ],
+   [
+    "ec_barbuto_presentation",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Barbuto V, European Commission DG SANTE. The HTA Regulation. Presentation to the 15th EMA Industry Standing Group, December 11, 2025. Available at: https://www.ema.europa.eu/en/documents/presentation/presentation-hta-regulation-v-barbuto-ec_en.pdf"
+   ],
+   [
+    "ec_htar_implementation",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "European Commission. Implementation of the Regulation on health technology assessment. Available at: https://health.ec.europa.eu/health-technology-assessment/implementation-regulation-health-technology-assessment_en"
+   ],
+   [
+    "ec_jca",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "European Commission. Joint Clinical Assessments. Available at: https://health.ec.europa.eu/health-technology-assessment/implementation-regulation-health-technology-assessment/joint-clinical-assessments_en"
+   ],
+   [
+    "efpia_position",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "European Federation of Pharmaceutical Industries and Associations. EFPIA position on the use of artificial intelligence in the medicinal product lifecycle. October 2024. Available at: https://efpia.eu/media/tzeavw1t/efpia-position-on-the-use-of-artificial-intelligence-in-the-medicinal-product-lifecycle.pdf"
+   ],
+   [
+    "elsevier_genai_policy",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Elsevier. Generative AI policies for journals. Available at: https://www.elsevier.com/about/policies-and-standards/generative-ai-policies-for-journals"
+   ],
+   [
+    "ema_fda_principles_news",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "European Medicines Agency. EMA and FDA set common principles for AI in medicine development. News, January 2026. Available at: https://www.ema.europa.eu/en/news/ema-fda-set-common-principles-ai-medicine-development-0"
+   ],
+   [
+    "ema_procova",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "European Medicines Agency. Qualification opinion for Prognostic Covariate Adjustment (PROCOVA). Committee for Medicinal Products for Human Use. Available at: https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/qualification-opinion-prognostic-covariate-adjustment-procovatm_en.pdf"
+   ],
+   [
+    "ema_reflection_paper",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "European Medicines Agency. Reflection paper on the use of artificial intelligence in the lifecycle of medicines. EMA/CHMP/CVMP/83833/2023. September 9, 2024. Available at: https://www.ema.europa.eu/en/documents/scientific-guideline/reflection-paper-use-artificial-intelligence-ai-medicinal-product-lifecycle_en.pdf"
+   ],
+   [
+    "endpoints_ai_drugs",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Endpoints News. The first AI-designed drugs fall short in the clinic following years of hype. Available at: https://endpoints.news/first-ai-designed-drugs-fall-short-in-the-clinic-following-years-of-hype/"
+   ],
+   [
+    "eu_ai_act",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act). Official Journal of the European Union. Available at: https://eur-lex.europa.eu/eli/reg/2024/1689/oj"
+   ],
+   [
+    "eu_htar",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Regulation (EU) 2021/2282 of the European Parliament and of the Council of 15 December 2021 on health technology assessment. Official Journal of the European Union. Available at: https://eur-lex.europa.eu/eli/reg/2021/2282/oj/eng"
+   ],
+   [
+    "fda_ai_drug_dev_principles_page",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "US Food and Drug Administration. Guiding Principles of Good AI Practice in Drug Development. Available at: https://www.fda.gov/about-fda/artificial-intelligence-drug-development/guiding-principles-good-ai-practice-drug-development"
+   ],
+   [
+    "fda_device_draft_guidance",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "US Food and Drug Administration. Artificial Intelligence-Enabled Device Software Functions: Lifecycle Management and Marketing Submission Recommendations. Draft guidance. Docket FDA-2024-D-4488. January 2025. Available at: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/artificial-intelligence-enabled-device-software-functions-lifecycle-management-and-marketing"
+   ],
+   [
+    "fda_device_list",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "US Food and Drug Administration. Artificial Intelligence-Enabled Medical Devices. Device list current as of September 4, 2026. Available at: https://www.fda.gov/medical-devices/software-medical-device-samd/artificial-intelligence-enabled-medical-devices"
+   ],
+   [
+    "fda_dhac_2024",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "US Food and Drug Administration. Digital Health Advisory Committee Meeting: Total Product Life Cycle Considerations for Generative AI-Enabled Devices. November 20-21, 2024. Available at: https://www.fda.gov/advisory-committees/advisory-committee-calendar/digital-health-advisory-committee-meeting-november-20-21-2024"
+   ],
+   [
+    "fda_draft_ai_guidance",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "US Food and Drug Administration. Considerations for the Use of Artificial Intelligence to Support Regulatory Decision-Making for Drug and Biological Products. Draft guidance for industry. Docket FDA-2024-D-4689. Silver Spring, MD: FDA; January 2025. Available at: https://www.fda.gov/media/184830/download"
+   ],
+   [
+    "fda_elsa",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "US Food and Drug Administration. FDA launches agency-wide AI tool to optimize performance for the American people. News release, June 2, 2025. Available at: https://www.fda.gov/news-events/press-announcements/fda-launches-agency-wide-ai-tool-optimize-performance-american-people"
+   ],
+   [
+    "fda_ema_principles",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "US Food and Drug Administration and European Medicines Agency. Guiding Principles of Good AI Practice in Drug Development. January 2026. Available at: https://www.fda.gov/media/189581/download"
+   ],
+   [
+    "fda_press_ai_framework",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "US Food and Drug Administration. FDA proposes framework to advance credibility of AI models used for drug and biological product submissions. Press announcement, January 6, 2025. Available at: https://www.fda.gov/news-events/press-announcements/fda-proposes-framework-advance-credibility-ai-models-used-drug-and-biological-product-submissions"
+   ],
+   [
+    "fda_rwd_ehr_guidance",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "US Food and Drug Administration. Real-World Data: Assessing Electronic Health Records and Medical Claims Data To Support Regulatory Decision-Making for Drug and Biological Products. Guidance for industry. Docket FDA-2020-D-2307. July 2024. Available at: https://www.fda.gov/regulatory-information/search-fda-guidance-documents/real-world-data-assessing-electronic-health-records-and-medical-claims-data-support-regulatory"
+   ],
+   [
+    "fierce_recursion",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Fierce Biotech. Several months after Exscientia merger, AI outfit Recursion reworks pipeline. Available at: https://www.fiercebiotech.com/biotech/several-months-after-exscientia-merge-ai-outfit-recursion-reworks-pipeline"
+   ],
+   [
+    "flatiron_aacr",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Flatiron Health. Flatiron Health research on AI-driven cancer progression extraction presented at AACR Special Conference in Cancer Research: Artificial Intelligence. Press release. Available at: https://resources.flatiron.com/press/flatiron-health-research-on-ai-driven-cancer-progression-extraction-presented-at-aacr-special-conference-in-cancer-research-artificial-intelligence"
+   ],
+   [
+    "flatiron_ispor_poster",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Development and validation of a machine learning approach to scale real-world response in oncology. Poster presented at ISPOR. Available at: https://www.ispor.org/docs/default-source/cti-meeting-21021-documents/6f2aef20-5193-4ad1-b198-1156a7ea80f7.pdf"
+   ],
+   [
+    "flatiron_valid_release",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Flatiron Health. Flatiron Health publishes first peer-reviewed validation framework for AI-extracted real-world oncology data. Press release. Available at: https://resources.flatiron.com/press/flatiron-health-publishes-first-peer-reviewed-validation-framework-for-ai-extracted-real-world-oncology-data-in-journal-of-clinical-oncology"
+   ],
+   [
+    "github_repo",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Baser O. Replication package for Artificial Intelligence in Health Economics and Outcomes Research: A Systematic Scoping Review. GitHub repository; 2026. Available at: https://github.com/obaser/ai-heor-scoping-review"
+   ],
+   [
+    "goldman_sachs_ai",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Goldman Sachs. Generative AI could raise global GDP by 7%. April 5, 2023. Available at: https://www.goldmansachs.com/insights/articles/generative-ai-could-raise-global-gdp-by-7-percent"
+   ],
+   [
+    "grand_view_ai_health",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Grand View Research. Artificial intelligence in healthcare market size, share and trends analysis report. Available at: https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-healthcare-market"
+   ],
+   [
+    "health_affairs_requirements",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Health Affairs. New article requirements. Available at: https://www.healthaffairs.org/help-for-authors/journal/new-article-requirements"
+   ],
+   [
+    "himss_medscape",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "HIMSS and Medscape. AI Adoption by Health Systems Report 2024. Available at: https://www.himss.org/news-center/himss-and-medscape-unveil-groundbreaking-report-ai-adoption-health-systems/"
+   ],
+   [
+    "htacg_awp_2026",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Health Technology Assessment Coordination Group. Annual Work Programme 2026. November 28, 2025. Available at: https://health.ec.europa.eu/document/download/81db097f-a9cb-4404-837c-115b4289321d_en"
+   ],
+   [
+    "icmje_ai",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "International Committee of Medical Journal Editors. Recommendations for the Conduct, Reporting, Editing, and Publication of Scholarly Work in Medical Journals: Artificial intelligence use by authors. Available at: https://www.icmje.org/recommendations/browse/artificial-intelligence/ai-use-by-authors.html"
+   ],
+   [
+    "ifpma_ai_ethics",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "International Federation of Pharmaceutical Manufacturers and Associations. IFPMA Artificial Intelligence Ethics Principles. July 2022. Available at: https://www.ifpma.org/wp-content/uploads/2023/01/i2023_IFPMA-Artificial-Intelligence-AI-Ethics-Principles.pdf"
+   ],
+   [
+    "iqvia_market_access",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "IQVIA. Market Access Insights. Fact sheet, November 7, 2023. Available at: https://www.iqvia.com/library/fact-sheets/market-access-insights"
+   ],
+   [
+    "ispor_abstract_trends",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Emerging trends in AI applications shaping pharmacoepidemiology and health technology assessments. Poster presented at ISPOR 2025. Available at: https://www.ispor.org/heor-resources/presentations-database/presentation-cti/ispor-2025/poster-session-3/emerging-trends-in-ai-applications-shaping-pharmacoepidemiology-and-health-technology-assessments"
+   ],
+   [
+    "ispor_ai_policy",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "International Society for Pharmacoeconomics and Outcomes Research. ISPOR Artificial Intelligence Policy. Available at: https://www.ispor.org/ai-policy"
+   ],
+   [
+    "ispor_audit_poster",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Use of artificial intelligence and machine learning in evidence synthesis for health technology assessment submissions: a review of NICE, CDA, and IQWiG documents. Poster presented at ISPOR 2026, Philadelphia, PA, May 17-20, 2026. Available at: https://www.ispor.org/docs/default-source/cti-meeting-21463-documents/9774d614-3a98-4fba-bcf4-c1ab426db452.pdf"
+   ],
+   [
+    "ispor_msr207",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Automated AMCP dossier development using a retrieval-augmented generation (RAG) based multi-agent approach. Abstract MSR207. Value Health 2026;29(S6). Available at: https://www.ispor.org/heor-resources/presentations-database/presentation-cti/ispor-2026/poster-session-5-3/automated-amcp-dossier-development-using-a-retrieval-augmented-generation-rag-based-multi-agent-approach"
+   ],
+   [
+    "ispor_msr96",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Use of artificial intelligence in health technology assessment submissions and agency practice. Poster MSR96 presented at ISPOR 2026, Philadelphia, PA. Available at: https://www.ispor.org/docs/default-source/cti-meeting-21463-documents/edf7be4a-ac97-45e7-82f1-ed3fc505aa61.pdf"
+   ],
+   [
+    "ispor_sa14",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Assessing the use of artificial intelligence in publication-grade research: a literature review of applications in HEOR. Poster SA14 presented at ISPOR Europe 2025. Available at: https://www.ispor.org/heor-resources/presentations-database/presentation-cti/ispor-europe-2025/poster-session-1-2/assessing-the-use-of-artificial-intelligence-in-publication-grade-research-a-literature-review-of-applications-in-heor"
+   ],
+   [
+    "ispor_top10_trends",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "International Society for Pharmacoeconomics and Outcomes Research. ISPOR Top 10 HEOR Trends. Available at: https://www.ispor.org/heor-resources/about-heor/top-10-heor-trends"
+   ],
+   [
+    "jama_ifora",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "JAMA. Instructions for Authors. Available at: https://jamanetwork.com/journals/jama/pages/instructions-for-authors"
+   ],
+   [
+    "lancet_disclosure_editorial",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "The Lancet Infectious Diseases. The use of artificial intelligence in scientific publishing. Editorial. Lancet Infect Dis 2024. Available at: https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(24)00160-9/fulltext"
+   ],
+   [
+    "lilly_nvidia",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Eli Lilly and Company. Lilly partners with NVIDIA to build industry's most powerful AI supercomputer owned and operated by a pharmaceutical company. October 28, 2025. Available at: https://investor.lilly.com/news-releases/news-release-details/lilly-partners-nvidia-build-industrys-most-powerful-ai"
+   ],
+   [
+    "maps_workflows",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Medical Affairs Professional Society. Workflows, not chatbots: findings from the 2026 AI in Medical Affairs Industry Benchmark Survey. Available at: https://medicalaffairs.org/solution-provider-perspective/workflows-not-chatbots/"
+   ],
+   [
+    "mckinsey_ai_budgets",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "McKinsey and Company. AI budgets grow in life sciences. Week in Charts, 2025. Available at: https://www.mckinsey.com/featured-insights/week-in-charts/ai-budgets-grow-in-life-sciences"
+   ],
+   [
+    "mckinsey_genai_health",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "McKinsey and Company. Generative AI in healthcare: current trends and future outlook. 2026. Available at: https://www.mckinsey.com/industries/healthcare/our-insights/generative-ai-in-healthcare-current-trends-and-future-outlook"
+   ],
+   [
+    "merck_genai",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Merck and Co. Merck expands innovative internal generative AI solutions, helping to deliver medicines to patients faster. Press release, June 25, 2025. Available at: https://www.merck.com/news/merck-expands-innovative-internal-generative-ai-solutions-helping-to-deliver-medicines-to-patients-faster/"
+   ],
+   [
+    "merck_google",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Merck and Co. Merck and Google Cloud partner to accelerate agentic AI enterprise transformation. Press release, April 22, 2026. Available at: https://www.merck.com/news/merck-and-google-cloud-partner-to-accelerate-agentic-ai-enterprise-transformation/"
+   ],
+   [
+    "nature_ai_policy",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Springer Nature. Artificial intelligence: editorial policies. Available at: https://www.nature.com/nature-portfolio/editorial-policies/ai"
+   ],
+   [
+    "nejm_ai_about",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "NEJM AI. About NEJM AI. Available at: https://ai.nejm.org/about"
+   ],
+   [
+    "nejm_ai_policies",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "NEJM AI. Editorial policies. Available at: https://ai.nejm.org/about/editorial-policies"
+   ],
+   [
+    "nice_ecd11",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "National Institute for Health and Care Excellence. Use of AI in evidence generation: NICE position statement. ECD11. August 15, 2024. Available at: https://www.nice.org.uk/corporate/ecd11"
+   ],
+   [
+    "norstella_ai",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Norstella. Norstella AI: principles and product capabilities. Available at: https://ai.norstella.com/"
+   ],
+   [
+    "novartis_responsible_ai",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Novartis. Novartis commitment to the ethical and responsible use of AI systems. Available at: https://www.novartis.com/sites/novartis_com/files/novartis-responsible-use-of-ai-systems.pdf"
+   ],
+   [
+    "novartis_sanofi_plai",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Sanofi. Sanofi to become the first pharma company powered by artificial intelligence at scale. Press release, June 13, 2023. Available at: https://www.sanofi.com/en/media-room/press-releases/2023/2023-06-13-12-00-00-2687072"
+   ],
+   [
+    "novo_nordisk_claude",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Anthropic. Novo Nordisk transforms clinical documentation with Claude. Customer story. Available at: https://claude.com/customers/novo-nordisk"
+   ],
+   [
+    "oecd_ai_productivity",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Filippucci F, Gal P, Schief M. Miracle or myth? Assessing the macroeconomic productivity gains from artificial intelligence. OECD Artificial Intelligence Papers No. 29. Paris: OECD Publishing; 2024. Available at: https://www.oecd.org/en/publications/miracle-or-myth-assessing-the-macroeconomic-productivity-gains-from-artificial-intelligence_b524a072-en.html"
+   ],
+   [
+    "op07_hta_scoping",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Artificial intelligence tools in health technology assessment: a scoping review. Conference proceeding OP07. Available at: https://pmc.ncbi.nlm.nih.gov/articles/PMC11718724/"
+   ],
+   [
+    "openai_moderna",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "OpenAI. Moderna: advancing mRNA medicine with generative AI. Customer story. Available at: https://openai.com/index/moderna/"
+   ],
+   [
+    "pfizer_ai",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Pfizer. How AI is already reshaping cancer care. Available at: https://www.pfizer.com/news/articles/how_ai_is_already_reshaping_cancer_care"
+   ],
+   [
+    "pfizer_ibrance_men",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Pfizer. US FDA approves IBRANCE (palbociclib) for the treatment of men with HR+, HER2- metastatic breast cancer. Press release. Available at: https://www.pfizer.com/news/press-release/press-release-detail/u_s_fda_approves_ibrance_palbociclib_for_the_treatment_of_men_with_hr_her2_metastatic_breast_cancer"
+   ],
+   [
+    "phrma_comments",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Pharmaceutical Research and Manufacturers of America. PhRMA comments on Docket FDA-2024-D-4689. Available at: https://cdn.aglty.io/phrma/global/resources/import/pdfs/FDA-2024-D-4689_PhRMA%20Comments.pdf"
+   ],
+   [
+    "polygon_survey",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Polygon Health Analytics. AI in HEOR, RWD and medical affairs: what 133 professionals told us. April 2026. Available at: https://polygonhealthanalytics.com/ai-in-heor-rwd-medical-affairs-what-133-professionals-told-us-and-what-it-means-for-the-industry/"
+   ],
+   [
+    "retraction_watch_springer",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Retraction Watch. As Springer Nature journal clears AI papers, one university's retractions rise drastically. February 10, 2025. Available at: https://retractionwatch.com/2025/02/10/as-springer-nature-journal-clears-ai-papers-one-universitys-retractions-rise-drastically/"
+   ],
+   [
+    "reuters_anthropic_expert",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Reuters. Anthropic expert accused of using AI-fabricated source in copyright case. May 13, 2025. Available at: https://www.reuters.com/legal/litigation/anthropic-expert-accused-using-ai-fabricated-source-copyright-case-2025-05-13/"
+   ],
+   [
+    "reuters_drugmakers_ai",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Reuters. Drugmakers turn to AI to speed trials, regulatory submissions. January 26, 2026. Available at: https://www.reuters.com/legal/litigation/drugmakers-turn-ai-speed-trials-regulatory-submissions-2026-01-26/"
+   ],
+   [
+    "roche_ai_ethics",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Roche. Roche AI Ethics Principles. Updated April 1, 2025. Available at: https://assets.roche.com/f/176343/x/401c28049f/roche-ai-ethics-principles.pdf"
+   ],
+   [
+    "rock_health_2024",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Rock Health. 2024 year-end market overview: Davids and Goliaths. Available at: https://rockhealth.com/insights/2024-year-end-market-overview-davids-and-goliaths/"
+   ],
+   [
+    "rock_health_2025",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Rock Health. 2025 year-end digital health funding overview: a tale of two markets. Available at: https://rockhealth.com/insights/2025-year-end-digital-health-funding-overview-a-tale-of-two-markets/"
+   ],
+   [
+    "science_maha",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Science. Trump officials downplay fake citations in high-profile report on children's health. Available at: https://www.science.org/content/article/trump-officials-downplay-fake-citations-high-profile-report-children-s-health"
+   ],
+   [
+    "takeda_genai",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Takeda. Aiming to enhance regulatory submissions with GenAI. December 12, 2024. Available at: https://www.takeda.com/our-impact/our-stories/aiming-to-enhance-regulatory-submissions-with-genai/"
+   ],
+   [
+    "tempus_az",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Tempus AI. Tempus signs expanded strategic agreements with AstraZeneca and Pathos AI. April 23, 2025. Available at: https://investors.tempus.com/news-releases/news-release-details/tempus-signs-expanded-strategic-agreements-astrazeneca-and/"
+   ],
+   [
+    "toner_rodgers_withdrawn",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Toner-Rodgers A. Artificial intelligence, scientific discovery, and product innovation. arXiv preprint 2412.17866. Withdrawn by arXiv administrators on May 20, 2025, due to concerns about the validity of the data and incomplete institutional review board requirements. Available at: https://arxiv.org/abs/2412.17866"
+   ],
+   [
+    "truveta_ispor",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Truveta. Truveta Studio and data quality. Presentation at ISPOR Europe 2024. Available at: https://www.ispor.org/docs/default-source/euro2024/ispor-eu-2024---truveta-final.pdf"
+   ],
+   [
+    "tufts_cevr_poster",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Center for the Evaluation of Value and Risk in Health, Tufts Medical Center. HEOR trends: results of a survey of HEOR leaders. Poster presented at ISPOR 2026, April 7, 2026. Available at: https://cevr.tuftsmedicalcenter.org/assets/images/2026_04_07_ISPOR_Poster_HEOR_Trends.pdf"
+   ],
+   [
+    "vih_guide_authors",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Value in Health. Guide for authors. Available at: https://www.sciencedirect.com/journal/value-in-health/publish/guide-for-authors"
+   ],
+   [
+    "weave_arxiv",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Automated generation of investigational new drug applications with large language models. arXiv preprint 2509.09738. Available at: https://arxiv.org/pdf/2509.09738"
+   ],
+   [
+    "white_case_life_sciences",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "White and Case and Mergermarket. Life Sciences and AI Report. January 2026. Available at: https://www.whitecase.com/sites/default/files/2026-01/W%26C_Life%20Sciences%20%26%20AI%20Report_January%202026.pdf"
+   ],
+   [
+    "who_ethics_2021",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "World Health Organization. Ethics and governance of artificial intelligence for health: WHO guidance. Geneva: WHO; 2021. ISBN 978-92-4-002920-0."
+   ],
+   [
+    "who_lmm_2024",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "World Health Organization. Ethics and governance of artificial intelligence for health: guidance on large multi-modal models. Geneva: WHO; 2024. ISBN 978-92-4-008475-9."
+   ],
+   [
+    "wsba_ledouxx",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "Washington State Bar Association. Federal court excludes expert for AI-hallucinated citations. NWSidebar, August 31, 2026. Available at: https://nwsidebar.wsba.org/2026/08/31/federal-court-excludes-expert-for-ai-hallucinated-citations/"
+   ],
+   [
+    "zs_medical_affairs",
+    "Grey literature, retrieved at the cited URL",
+    "",
+    "",
+    "ZS Associates. Medical Affairs Outlook Report 2025. Available at: https://www.zs.com/content/dam/global/master/pdfs/zs-medical-affairs-outlook-report-2025.pdf"
+   ],
+   [
+    "10.3389/fpubh.2026.1951054",
+    "FAILED TO RESOLVE, removed from the manuscript rather than cited",
+    "",
+    "",
+    "Candidate DOI did not resolve against Crossref or DataCite and is not cited anywhere in this manuscript."
+   ],
+   [
+    "10.1093/qje/qjab010",
+    "RESOLVED TO AN UNRELATED WORK, removed",
+    "The Quarterly Journal of Economics",
+    "2021",
+    "Resolved to Ownership, Learning, and Beliefs, which does not support the claim it was attached to, and was therefore removed rather than cited."
+   ]
+  ]
+ }
+]

@@ -1,0 +1,153 @@
+{
+  "paired_records": 300,
+  "method_label": {
+    "cohen_kappa": 0.667,
+    "observed_agreement_pct": 73.7
+  },
+  "generative_llm_flag": {
+    "cohen_kappa": 0.674,
+    "observed_agreement_pct": 97.0,
+    "pabak": 0.94
+  },
+  "mean_domain_kappa": 0.5,
+  "median_domain_observed_agreement_pct": 92.3,
+  "search_precision_pct": {
+    "point": 51.3,
+    "ci95": [
+      45.7,
+      56.9
+    ]
+  },
+  "included_records": 2476,
+  "precision_adjusted_included": {
+    "point": 1271,
+    "ci95": [
+      1131,
+      1410
+    ]
+  },
+  "domain_rows": [
+    {
+      "label": "Economic evaluation",
+      "key": "economic_evaluation",
+      "n_dictionary": 186,
+      "n_independent": 69,
+      "observed_agreement_pct": 51.7,
+      "cohen_kappa": 0.144,
+      "pabak": 0.033,
+      "dict_precision_vs_independent_pct": 29.6,
+      "dict_recall_vs_independent_pct": 79.7,
+      "dict_f1_pct": 43.1
+    },
+    {
+      "label": "Decision modeling and simulation",
+      "key": "decision_modeling",
+      "n_dictionary": 16,
+      "n_independent": 30,
+      "observed_agreement_pct": 94.0,
+      "cohen_kappa": 0.579,
+      "pabak": 0.88,
+      "dict_precision_vs_independent_pct": 87.5,
+      "dict_recall_vs_independent_pct": 46.7,
+      "dict_f1_pct": 60.9
+    },
+    {
+      "label": "Evidence synthesis",
+      "key": "evidence_synthesis",
+      "n_dictionary": 33,
+      "n_independent": 46,
+      "observed_agreement_pct": 92.3,
+      "cohen_kappa": 0.666,
+      "pabak": 0.847,
+      "dict_precision_vs_independent_pct": 84.8,
+      "dict_recall_vs_independent_pct": 60.9,
+      "dict_f1_pct": 70.9
+    },
+    {
+      "label": "Real-world data and causal inference",
+      "key": "rwd_causal",
+      "n_dictionary": 64,
+      "n_independent": 75,
+      "observed_agreement_pct": 90.3,
+      "cohen_kappa": 0.729,
+      "pabak": 0.807,
+      "dict_precision_vs_independent_pct": 85.9,
+      "dict_recall_vs_independent_pct": 73.3,
+      "dict_f1_pct": 79.1
+    },
+    {
+      "label": "Outcome and cost prediction",
+      "key": "outcome_prediction",
+      "n_dictionary": 43,
+      "n_independent": 50,
+      "observed_agreement_pct": 85.7,
+      "cohen_kappa": 0.453,
+      "pabak": 0.713,
+      "dict_precision_vs_independent_pct": 58.1,
+      "dict_recall_vs_independent_pct": 50.0,
+      "dict_f1_pct": 53.8
+    },
+    {
+      "label": "Patient-reported outcomes and preferences",
+      "key": "pro_preferences",
+      "n_dictionary": 8,
+      "n_independent": 22,
+      "observed_agreement_pct": 93.3,
+      "cohen_kappa": 0.306,
+      "pabak": 0.867,
+      "dict_precision_vs_independent_pct": 62.5,
+      "dict_recall_vs_independent_pct": 22.7,
+      "dict_f1_pct": 33.3
+    },
+    {
+      "label": "HTA, payer, and market access",
+      "key": "hta_access",
+      "n_dictionary": 21,
+      "n_independent": 25,
+      "observed_agreement_pct": 94.0,
+      "cohen_kappa": 0.576,
+      "pabak": 0.88,
+      "dict_precision_vs_independent_pct": 66.7,
+      "dict_recall_vs_independent_pct": 56.0,
+      "dict_f1_pct": 60.9
+    },
+    {
+      "label": "Governance, reporting, and validity",
+      "key": "governance_reporting",
+      "n_dictionary": 65,
+      "n_independent": 68,
+      "observed_agreement_pct": 84.3,
+      "cohen_kappa": 0.546,
+      "pabak": 0.687,
+      "dict_precision_vs_independent_pct": 66.2,
+      "dict_recall_vs_independent_pct": 63.2,
+      "dict_f1_pct": 64.7
+    }
+  ],
+  "precision_rows": [
+    {
+      "stratum": "All included records",
+      "n_sampled": 300,
+      "n_heor_relevant": 154,
+      "precision_pct": 51.3,
+      "ci95_lo": 45.7,
+      "ci95_hi": 56.9
+    },
+    {
+      "stratum": "Dictionary assigned at least one HEOR domain",
+      "n_sampled": 271,
+      "n_heor_relevant": 142,
+      "precision_pct": 52.4,
+      "ci95_lo": 46.5,
+      "ci95_hi": 58.3
+    },
+    {
+      "stratum": "Dictionary assigned no HEOR domain",
+      "n_sampled": 29,
+      "n_heor_relevant": 12,
+      "precision_pct": 41.4,
+      "ci95_lo": 25.5,
+      "ci95_hi": 59.3
+    }
+  ]
+}
