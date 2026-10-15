@@ -1,0 +1,1909 @@
+{
+  "40916059": {
+    "domains": [
+      "economic_evaluation",
+      "evidence_synthesis"
+    ],
+    "method": "nlp"
+  },
+  "41093334": {
+    "domains": [
+      "pro_preferences"
+    ],
+    "method": "ai_general"
+  },
+  "40307685": {
+    "domains": [
+      "economic_evaluation",
+      "evidence_synthesis",
+      "rwd_causal"
+    ],
+    "method": "generative_llm"
+  },
+  "29298637": {
+    "domains": [
+      "economic_evaluation",
+      "rwd_causal"
+    ],
+    "method": "classical_ml"
+  },
+  "40627810": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "deep_learning"
+  },
+  "33656186": {
+    "domains": [
+      "outcome_prediction"
+    ],
+    "method": "deep_learning"
+  },
+  "41449462": {
+    "domains": [
+      "economic_evaluation",
+      "outcome_prediction"
+    ],
+    "method": "ai_general"
+  },
+  "38584239": {
+    "domains": [
+      "economic_evaluation",
+      "outcome_prediction"
+    ],
+    "method": "deep_learning"
+  },
+  "41726542": {
+    "domains": [
+      "economic_evaluation",
+      "rwd_causal"
+    ],
+    "method": "generative_llm"
+  },
+  "39347111": {
+    "domains": [
+      "economic_evaluation",
+      "evidence_synthesis",
+      "outcome_prediction"
+    ],
+    "method": "classical_ml"
+  },
+  "22254544": {
+    "domains": [],
+    "method": "none"
+  },
+  "33712852": {
+    "domains": [
+      "rwd_causal"
+    ],
+    "method": "classical_ml"
+  },
+  "36523427": {
+    "domains": [
+      "hta_access"
+    ],
+    "method": "classical_ml"
+  },
+  "34477504": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "classical_ml"
+  },
+  "39940182": {
+    "domains": [
+      "economic_evaluation",
+      "governance_reporting"
+    ],
+    "method": "ai_general"
+  },
+  "40315375": {
+    "domains": [
+      "rwd_causal",
+      "governance_reporting"
+    ],
+    "method": "ai_general"
+  },
+  "38633115": {
+    "domains": [
+      "rwd_causal"
+    ],
+    "method": "ai_general"
+  },
+  "37171327": {
+    "domains": [
+      "evidence_synthesis",
+      "hta_access"
+    ],
+    "method": "none"
+  },
+  "35030208": {
+    "domains": [],
+    "method": "classical_ml"
+  },
+  "39934170": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "deep_learning"
+  },
+  "41436332": {
+    "domains": [
+      "economic_evaluation",
+      "governance_reporting"
+    ],
+    "method": "ai_general"
+  },
+  "32421459": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "ai_general"
+  },
+  "34796318": {
+    "domains": [
+      "evidence_synthesis",
+      "hta_access",
+      "governance_reporting"
+    ],
+    "method": "ai_general"
+  },
+  "23806395": {
+    "domains": [
+      "economic_evaluation",
+      "governance_reporting"
+    ],
+    "method": "none"
+  },
+  "39362751": {
+    "domains": [
+      "rwd_causal"
+    ],
+    "method": "nlp"
+  },
+  "37174746": {
+    "domains": [
+      "economic_evaluation",
+      "outcome_prediction"
+    ],
+    "method": "deep_learning"
+  },
+  "32153432": {
+    "domains": [
+      "economic_evaluation",
+      "outcome_prediction"
+    ],
+    "method": "classical_ml"
+  },
+  "39301383": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "ai_general"
+  },
+  "33656443": {
+    "domains": [
+      "economic_evaluation",
+      "evidence_synthesis",
+      "rwd_causal",
+      "governance_reporting"
+    ],
+    "method": "ai_general"
+  },
+  "30047916": {
+    "domains": [
+      "economic_evaluation",
+      "outcome_prediction"
+    ],
+    "method": "classical_ml"
+  },
+  "32895246": {
+    "domains": [
+      "economic_evaluation",
+      "evidence_synthesis"
+    ],
+    "method": "ai_general"
+  },
+  "39888065": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "ai_general"
+  },
+  "39315437": {
+    "domains": [
+      "rwd_causal"
+    ],
+    "method": "classical_ml"
+  },
+  "41114095": {
+    "domains": [
+      "rwd_causal",
+      "governance_reporting"
+    ],
+    "method": "ai_general"
+  },
+  "40180372": {
+    "domains": [
+      "economic_evaluation",
+      "decision_modeling"
+    ],
+    "method": "classical_ml"
+  },
+  "41122427": {
+    "domains": [
+      "economic_evaluation",
+      "evidence_synthesis",
+      "governance_reporting"
+    ],
+    "method": "ai_general"
+  },
+  "34409286": {
+    "domains": [
+      "rwd_causal",
+      "governance_reporting"
+    ],
+    "method": "generative_llm"
+  },
+  "38273319": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "classical_ml"
+  },
+  "20608490": {
+    "domains": [
+      "governance_reporting"
+    ],
+    "method": "none"
+  },
+  "26596977": {
+    "domains": [
+      "outcome_prediction"
+    ],
+    "method": "ai_general"
+  },
+  "33173350": {
+    "domains": [
+      "rwd_causal",
+      "pro_preferences"
+    ],
+    "method": "classical_ml"
+  },
+  "41487651": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "ai_general"
+  },
+  "41235810": {
+    "domains": [
+      "economic_evaluation",
+      "evidence_synthesis",
+      "governance_reporting"
+    ],
+    "method": "ai_general"
+  },
+  "40553339": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "ai_general"
+  },
+  "40858882": {
+    "domains": [
+      "economic_evaluation",
+      "evidence_synthesis"
+    ],
+    "method": "ai_general"
+  },
+  "41285218": {
+    "domains": [
+      "rwd_causal"
+    ],
+    "method": "classical_ml"
+  },
+  "40108571": {
+    "domains": [
+      "economic_evaluation",
+      "pro_preferences",
+      "hta_access"
+    ],
+    "method": "classical_ml"
+  },
+  "40599777": {
+    "domains": [
+      "rwd_causal"
+    ],
+    "method": "ai_general"
+  },
+  "32325985": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "deep_learning"
+  },
+  "33384892": {
+    "domains": [
+      "decision_modeling"
+    ],
+    "method": "classical_ml"
+  },
+  "40715184": {
+    "domains": [
+      "economic_evaluation",
+      "governance_reporting"
+    ],
+    "method": "classical_ml"
+  },
+  "35034658": {
+    "domains": [
+      "governance_reporting"
+    ],
+    "method": "deep_learning"
+  },
+  "29973978": {
+    "domains": [
+      "evidence_synthesis"
+    ],
+    "method": "none"
+  },
+  "37036097": {
+    "domains": [
+      "rwd_causal",
+      "outcome_prediction"
+    ],
+    "method": "none"
+  },
+  "32482858": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "classical_ml"
+  },
+  "41140908": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "ai_general"
+  },
+  "40848744": {
+    "domains": [
+      "economic_evaluation",
+      "evidence_synthesis",
+      "rwd_causal",
+      "outcome_prediction",
+      "governance_reporting"
+    ],
+    "method": "deep_learning"
+  },
+  "39434232": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "classical_ml"
+  },
+  "38199790": {
+    "domains": [
+      "economic_evaluation",
+      "governance_reporting"
+    ],
+    "method": "ai_general"
+  },
+  "38688925": {
+    "domains": [
+      "economic_evaluation",
+      "decision_modeling"
+    ],
+    "method": "ai_general"
+  },
+  "37709548": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "classical_ml"
+  },
+  "39787599": {
+    "domains": [
+      "rwd_causal"
+    ],
+    "method": "ai_general"
+  },
+  "35054239": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "deep_learning"
+  },
+  "40063029": {
+    "domains": [
+      "rwd_causal",
+      "hta_access"
+    ],
+    "method": "ai_general"
+  },
+  "38888985": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "deep_learning"
+  },
+  "31818383": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "ai_general"
+  },
+  "30255802": {
+    "domains": [
+      "economic_evaluation",
+      "decision_modeling",
+      "hta_access"
+    ],
+    "method": "none"
+  },
+  "39625991": {
+    "domains": [
+      "economic_evaluation",
+      "governance_reporting"
+    ],
+    "method": "deep_learning"
+  },
+  "38353727": {
+    "domains": [
+      "economic_evaluation",
+      "outcome_prediction",
+      "hta_access"
+    ],
+    "method": "ai_general"
+  },
+  "39356369": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "deep_learning"
+  },
+  "25978541": {
+    "domains": [
+      "economic_evaluation",
+      "outcome_prediction"
+    ],
+    "method": "classical_ml"
+  },
+  "33430955": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "classical_ml"
+  },
+  "39553626": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "deep_learning"
+  },
+  "38964129": {
+    "domains": [
+      "economic_evaluation",
+      "governance_reporting"
+    ],
+    "method": "ai_general"
+  },
+  "21114381": {
+    "domains": [],
+    "method": "none"
+  },
+  "36948714": {
+    "domains": [],
+    "method": "classical_ml"
+  },
+  "39245674": {
+    "domains": [
+      "rwd_causal"
+    ],
+    "method": "none"
+  },
+  "39754371": {
+    "domains": [
+      "outcome_prediction"
+    ],
+    "method": "ai_general"
+  },
+  "40598136": {
+    "domains": [
+      "economic_evaluation",
+      "evidence_synthesis",
+      "rwd_causal",
+      "governance_reporting"
+    ],
+    "method": "generative_llm"
+  },
+  "32071178": {
+    "domains": [
+      "governance_reporting"
+    ],
+    "method": "deep_learning"
+  },
+  "41515509": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "ai_general"
+  },
+  "36316665": {
+    "domains": [
+      "evidence_synthesis",
+      "hta_access",
+      "governance_reporting"
+    ],
+    "method": "ai_general"
+  },
+  "32575147": {
+    "domains": [
+      "evidence_synthesis",
+      "rwd_causal"
+    ],
+    "method": "nlp"
+  },
+  "40343775": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "ai_general"
+  },
+  "37950068": {
+    "domains": [
+      "economic_evaluation",
+      "evidence_synthesis",
+      "governance_reporting"
+    ],
+    "method": "deep_learning"
+  },
+  "41458694": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "ai_general"
+  },
+  "36386278": {
+    "domains": [],
+    "method": "classical_ml"
+  },
+  "36125861": {
+    "domains": [],
+    "method": "nlp"
+  },
+  "38915008": {
+    "domains": [
+      "rwd_causal",
+      "outcome_prediction"
+    ],
+    "method": "classical_ml"
+  },
+  "31489843": {
+    "domains": [
+      "economic_evaluation",
+      "evidence_synthesis"
+    ],
+    "method": "nlp"
+  },
+  "32047026": {
+    "domains": [],
+    "method": "ai_general"
+  },
+  "40992448": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "classical_ml"
+  },
+  "41173515": {
+    "domains": [
+      "economic_evaluation",
+      "evidence_synthesis",
+      "outcome_prediction",
+      "governance_reporting"
+    ],
+    "method": "deep_learning"
+  },
+  "34731476": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "deep_learning"
+  },
+  "32881725": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "deep_learning"
+  },
+  "39896389": {
+    "domains": [
+      "economic_evaluation",
+      "governance_reporting"
+    ],
+    "method": "deep_learning"
+  },
+  "38740666": {
+    "domains": [
+      "economic_evaluation",
+      "governance_reporting"
+    ],
+    "method": "deep_learning"
+  },
+  "40692304": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "deep_learning"
+  },
+  "39779872": {
+    "domains": [
+      "rwd_causal"
+    ],
+    "method": "deep_learning"
+  },
+  "39558809": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "ai_general"
+  },
+  "38792544": {
+    "domains": [
+      "economic_evaluation",
+      "outcome_prediction"
+    ],
+    "method": "deep_learning"
+  },
+  "25756240": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "nlp"
+  },
+  "40799168": {
+    "domains": [
+      "economic_evaluation",
+      "hta_access"
+    ],
+    "method": "ai_general"
+  },
+  "40226684": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "deep_learning"
+  },
+  "38875546": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "classical_ml"
+  },
+  "39959158": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "classical_ml"
+  },
+  "31452075": {
+    "domains": [
+      "rwd_causal",
+      "hta_access",
+      "governance_reporting"
+    ],
+    "method": "nlp"
+  },
+  "33279748": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "deep_learning"
+  },
+  "40568382": {
+    "domains": [
+      "evidence_synthesis",
+      "hta_access",
+      "governance_reporting"
+    ],
+    "method": "ai_general"
+  },
+  "32564760": {
+    "domains": [
+      "rwd_causal",
+      "governance_reporting"
+    ],
+    "method": "classical_ml"
+  },
+  "40389552": {
+    "domains": [],
+    "method": "generative_llm"
+  },
+  "39898421": {
+    "domains": [],
+    "method": "deep_learning"
+  },
+  "35631583": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "deep_learning"
+  },
+  "33321570": {
+    "domains": [],
+    "method": "classical_ml"
+  },
+  "36981600": {
+    "domains": [
+      "rwd_causal",
+      "outcome_prediction"
+    ],
+    "method": "classical_ml"
+  },
+  "38239542": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "generative_llm"
+  },
+  "34540788": {
+    "domains": [],
+    "method": "ai_general"
+  },
+  "41076017": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "none"
+  },
+  "31350588": {
+    "domains": [
+      "economic_evaluation",
+      "outcome_prediction",
+      "governance_reporting"
+    ],
+    "method": "none"
+  },
+  "40421363": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "ai_general"
+  },
+  "37027831": {
+    "domains": [
+      "outcome_prediction"
+    ],
+    "method": "deep_learning"
+  },
+  "33779570": {
+    "domains": [
+      "economic_evaluation",
+      "governance_reporting"
+    ],
+    "method": "classical_ml"
+  },
+  "34261147": {
+    "domains": [
+      "rwd_causal"
+    ],
+    "method": "nlp"
+  },
+  "38723880": {
+    "domains": [
+      "economic_evaluation",
+      "governance_reporting"
+    ],
+    "method": "ai_general"
+  },
+  "22514106": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "none"
+  },
+  "40586549": {
+    "domains": [
+      "economic_evaluation",
+      "decision_modeling"
+    ],
+    "method": "classical_ml"
+  },
+  "40466549": {
+    "domains": [
+      "economic_evaluation",
+      "outcome_prediction"
+    ],
+    "method": "deep_learning"
+  },
+  "40983310": {
+    "domains": [
+      "economic_evaluation",
+      "decision_modeling",
+      "hta_access"
+    ],
+    "method": "ai_general"
+  },
+  "41195935": {
+    "domains": [
+      "rwd_causal"
+    ],
+    "method": "ai_general"
+  },
+  "40687260": {
+    "domains": [
+      "economic_evaluation",
+      "evidence_synthesis"
+    ],
+    "method": "ai_general"
+  },
+  "34135556": {
+    "domains": [
+      "economic_evaluation",
+      "hta_access"
+    ],
+    "method": "deep_learning"
+  },
+  "39885843": {
+    "domains": [
+      "rwd_causal",
+      "governance_reporting"
+    ],
+    "method": "generative_llm"
+  },
+  "31362154": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "classical_ml"
+  },
+  "36429543": {
+    "domains": [
+      "rwd_causal"
+    ],
+    "method": "classical_ml"
+  },
+  "21501370": {
+    "domains": [
+      "outcome_prediction"
+    ],
+    "method": "none"
+  },
+  "40117924": {
+    "domains": [
+      "economic_evaluation",
+      "evidence_synthesis",
+      "outcome_prediction"
+    ],
+    "method": "none"
+  },
+  "36619348": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "deep_learning"
+  },
+  "38871437": {
+    "domains": [
+      "rwd_causal",
+      "hta_access",
+      "governance_reporting"
+    ],
+    "method": "generative_llm"
+  },
+  "41308410": {
+    "domains": [
+      "economic_evaluation",
+      "governance_reporting"
+    ],
+    "method": "deep_learning"
+  },
+  "39613923": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "deep_learning"
+  },
+  "34325853": {
+    "domains": [
+      "rwd_causal",
+      "outcome_prediction"
+    ],
+    "method": "ai_general"
+  },
+  "39586571": {
+    "domains": [
+      "economic_evaluation",
+      "evidence_synthesis"
+    ],
+    "method": "ai_general"
+  },
+  "35259095": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "deep_learning"
+  },
+  "36384813": {
+    "domains": [
+      "economic_evaluation",
+      "decision_modeling"
+    ],
+    "method": "none"
+  },
+  "40166696": {
+    "domains": [
+      "economic_evaluation",
+      "decision_modeling"
+    ],
+    "method": "ai_general"
+  },
+  "37625895": {
+    "domains": [
+      "evidence_synthesis",
+      "outcome_prediction"
+    ],
+    "method": "deep_learning"
+  },
+  "41312895": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "deep_learning"
+  },
+  "41106602": {
+    "domains": [
+      "economic_evaluation",
+      "evidence_synthesis",
+      "pro_preferences",
+      "hta_access",
+      "governance_reporting"
+    ],
+    "method": "ai_general"
+  },
+  "37732105": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "ai_general"
+  },
+  "32801731": {
+    "domains": [
+      "rwd_causal"
+    ],
+    "method": "ai_general"
+  },
+  "39494823": {
+    "domains": [
+      "hta_access",
+      "governance_reporting"
+    ],
+    "method": "none"
+  },
+  "40599379": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "deep_learning"
+  },
+  "39691089": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "classical_ml"
+  },
+  "40097451": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "none"
+  },
+  "37509564": {
+    "domains": [
+      "rwd_causal"
+    ],
+    "method": "classical_ml"
+  },
+  "28177648": {
+    "domains": [],
+    "method": "none"
+  },
+  "41449406": {
+    "domains": [
+      "economic_evaluation",
+      "governance_reporting"
+    ],
+    "method": "classical_ml"
+  },
+  "41125311": {
+    "domains": [
+      "economic_evaluation",
+      "evidence_synthesis",
+      "governance_reporting"
+    ],
+    "method": "generative_llm"
+  },
+  "34672212": {
+    "domains": [
+      "economic_evaluation",
+      "decision_modeling"
+    ],
+    "method": "classical_ml"
+  },
+  "20207063": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "none"
+  },
+  "38431298": {
+    "domains": [
+      "economic_evaluation",
+      "decision_modeling",
+      "governance_reporting"
+    ],
+    "method": "deep_learning"
+  },
+  "33846362": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "classical_ml"
+  },
+  "36732785": {
+    "domains": [
+      "economic_evaluation",
+      "pro_preferences"
+    ],
+    "method": "classical_ml"
+  },
+  "33807714": {
+    "domains": [
+      "rwd_causal",
+      "outcome_prediction"
+    ],
+    "method": "deep_learning"
+  },
+  "41108882": {
+    "domains": [
+      "rwd_causal"
+    ],
+    "method": "generative_llm"
+  },
+  "41441664": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "classical_ml"
+  },
+  "36811417": {
+    "domains": [],
+    "method": "none"
+  },
+  "32694344": {
+    "domains": [
+      "economic_evaluation",
+      "governance_reporting"
+    ],
+    "method": "deep_learning"
+  },
+  "41451120": {
+    "domains": [],
+    "method": "nlp"
+  },
+  "39010291": {
+    "domains": [
+      "outcome_prediction",
+      "governance_reporting"
+    ],
+    "method": "classical_ml"
+  },
+  "21402604": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "none"
+  },
+  "42226811": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "ai_general"
+  },
+  "40915653": {
+    "domains": [
+      "rwd_causal"
+    ],
+    "method": "ai_general"
+  },
+  "41444776": {
+    "domains": [
+      "economic_evaluation",
+      "evidence_synthesis"
+    ],
+    "method": "classical_ml"
+  },
+  "32935249": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "deep_learning"
+  },
+  "36812509": {
+    "domains": [
+      "rwd_causal",
+      "governance_reporting"
+    ],
+    "method": "nlp"
+  },
+  "39090332": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "ai_general"
+  },
+  "39733023": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "generative_llm"
+  },
+  "39238376": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "classical_ml"
+  },
+  "41357265": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "generative_llm"
+  },
+  "39998863": {
+    "domains": [],
+    "method": "nlp"
+  },
+  "36818852": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "classical_ml"
+  },
+  "35549854": {
+    "domains": [
+      "evidence_synthesis",
+      "governance_reporting"
+    ],
+    "method": "nlp"
+  },
+  "40325186": {
+    "domains": [
+      "economic_evaluation",
+      "rwd_causal",
+      "governance_reporting"
+    ],
+    "method": "classical_ml"
+  },
+  "39801150": {
+    "domains": [
+      "economic_evaluation",
+      "governance_reporting"
+    ],
+    "method": "nlp"
+  },
+  "31781779": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "none"
+  },
+  "41498102": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "deep_learning"
+  },
+  "41087393": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "none"
+  },
+  "34932495": {
+    "domains": [
+      "rwd_causal"
+    ],
+    "method": "none"
+  },
+  "24747652": {
+    "domains": [
+      "outcome_prediction"
+    ],
+    "method": "none"
+  },
+  "34989801": {
+    "domains": [
+      "economic_evaluation",
+      "outcome_prediction",
+      "governance_reporting"
+    ],
+    "method": "classical_ml"
+  },
+  "26044081": {
+    "domains": [
+      "outcome_prediction",
+      "hta_access"
+    ],
+    "method": "deep_learning"
+  },
+  "32285014": {
+    "domains": [],
+    "method": "ai_general"
+  },
+  "40998117": {
+    "domains": [
+      "evidence_synthesis"
+    ],
+    "method": "ai_general"
+  },
+  "33787003": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "classical_ml"
+  },
+  "37769940": {
+    "domains": [
+      "economic_evaluation",
+      "governance_reporting"
+    ],
+    "method": "ai_general"
+  },
+  "35916571": {
+    "domains": [
+      "economic_evaluation",
+      "outcome_prediction",
+      "governance_reporting"
+    ],
+    "method": "ai_general"
+  },
+  "36335315": {
+    "domains": [
+      "rwd_causal",
+      "governance_reporting"
+    ],
+    "method": "none"
+  },
+  "37971984": {
+    "domains": [
+      "economic_evaluation",
+      "decision_modeling"
+    ],
+    "method": "ai_general"
+  },
+  "39787669": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "classical_ml"
+  },
+  "40420826": {
+    "domains": [
+      "economic_evaluation",
+      "evidence_synthesis"
+    ],
+    "method": "ai_general"
+  },
+  "31304376": {
+    "domains": [],
+    "method": "deep_learning"
+  },
+  "36435427": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "classical_ml"
+  },
+  "37902681": {
+    "domains": [
+      "economic_evaluation",
+      "governance_reporting"
+    ],
+    "method": "classical_ml"
+  },
+  "40765514": {
+    "domains": [
+      "governance_reporting"
+    ],
+    "method": "classical_ml"
+  },
+  "33563191": {
+    "domains": [],
+    "method": "deep_learning"
+  },
+  "37835879": {
+    "domains": [
+      "economic_evaluation",
+      "outcome_prediction"
+    ],
+    "method": "classical_ml"
+  },
+  "38679077": {
+    "domains": [
+      "outcome_prediction"
+    ],
+    "method": "classical_ml"
+  },
+  "38340276": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "generative_llm"
+  },
+  "38546012": {
+    "domains": [
+      "rwd_causal",
+      "hta_access"
+    ],
+    "method": "none"
+  },
+  "39537382": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "classical_ml"
+  },
+  "38533524": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "classical_ml"
+  },
+  "38231461": {
+    "domains": [
+      "economic_evaluation",
+      "rwd_causal"
+    ],
+    "method": "none"
+  },
+  "40718408": {
+    "domains": [
+      "outcome_prediction"
+    ],
+    "method": "ai_general"
+  },
+  "27104353": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "none"
+  },
+  "38223721": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "classical_ml"
+  },
+  "40807922": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "ai_general"
+  },
+  "39843720": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "deep_learning"
+  },
+  "38613533": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "ai_general"
+  },
+  "39150225": {
+    "domains": [
+      "rwd_causal"
+    ],
+    "method": "nlp"
+  },
+  "38512017": {
+    "domains": [
+      "economic_evaluation",
+      "decision_modeling",
+      "evidence_synthesis",
+      "hta_access"
+    ],
+    "method": "classical_ml"
+  },
+  "39949464": {
+    "domains": [
+      "economic_evaluation",
+      "governance_reporting"
+    ],
+    "method": "ai_general"
+  },
+  "40605375": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "ai_general"
+  },
+  "31128926": {
+    "domains": [
+      "hta_access"
+    ],
+    "method": "none"
+  },
+  "35133093": {
+    "domains": [
+      "rwd_causal"
+    ],
+    "method": "ai_general"
+  },
+  "38875550": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "ai_general"
+  },
+  "34465328": {
+    "domains": [
+      "economic_evaluation",
+      "governance_reporting"
+    ],
+    "method": "ai_general"
+  },
+  "41466065": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "ai_general"
+  },
+  "35981773": {
+    "domains": [
+      "economic_evaluation",
+      "evidence_synthesis",
+      "governance_reporting"
+    ],
+    "method": "none"
+  },
+  "39873007": {
+    "domains": [
+      "rwd_causal"
+    ],
+    "method": "ai_general"
+  },
+  "40043515": {
+    "domains": [
+      "economic_evaluation",
+      "evidence_synthesis",
+      "outcome_prediction",
+      "governance_reporting"
+    ],
+    "method": "ai_general"
+  },
+  "40206537": {
+    "domains": [
+      "economic_evaluation",
+      "decision_modeling"
+    ],
+    "method": "ai_general"
+  },
+  "35925469": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "classical_ml"
+  },
+  "24751758": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "none"
+  },
+  "41246918": {
+    "domains": [
+      "economic_evaluation",
+      "hta_access",
+      "governance_reporting"
+    ],
+    "method": "ai_general"
+  },
+  "40984203": {
+    "domains": [],
+    "method": "classical_ml"
+  },
+  "32625083": {
+    "domains": [],
+    "method": "classical_ml"
+  },
+  "33016132": {
+    "domains": [
+      "pro_preferences"
+    ],
+    "method": "none"
+  },
+  "31783311": {
+    "domains": [
+      "rwd_causal",
+      "outcome_prediction"
+    ],
+    "method": "classical_ml"
+  },
+  "22254181": {
+    "domains": [],
+    "method": "classical_ml"
+  },
+  "38398581": {
+    "domains": [],
+    "method": "classical_ml"
+  },
+  "40508436": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "classical_ml"
+  },
+  "40623888": {
+    "domains": [
+      "economic_evaluation",
+      "decision_modeling"
+    ],
+    "method": "none"
+  },
+  "26879667": {
+    "domains": [
+      "decision_modeling",
+      "rwd_causal"
+    ],
+    "method": "none"
+  },
+  "40515565": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "none"
+  },
+  "40816670": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "deep_learning"
+  },
+  "37689674": {
+    "domains": [
+      "rwd_causal"
+    ],
+    "method": "classical_ml"
+  },
+  "37898362": {
+    "domains": [
+      "rwd_causal"
+    ],
+    "method": "ai_general"
+  },
+  "41098338": {
+    "domains": [],
+    "method": "generative_llm"
+  },
+  "40426247": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "classical_ml"
+  },
+  "37182840": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "ai_general"
+  },
+  "39403709": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "ai_general"
+  },
+  "40292876": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "deep_learning"
+  },
+  "22924062": {
+    "domains": [],
+    "method": "classical_ml"
+  },
+  "39601789": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "deep_learning"
+  },
+  "40045020": {
+    "domains": [],
+    "method": "deep_learning"
+  },
+  "31229952": {
+    "domains": [
+      "governance_reporting"
+    ],
+    "method": "classical_ml"
+  },
+  "40930119": {
+    "domains": [],
+    "method": "deep_learning"
+  },
+  "36115806": {
+    "domains": [
+      "evidence_synthesis"
+    ],
+    "method": "classical_ml"
+  },
+  "32452807": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "deep_learning"
+  },
+  "41295450": {
+    "domains": [
+      "economic_evaluation",
+      "governance_reporting"
+    ],
+    "method": "ai_general"
+  },
+  "34392546": {
+    "domains": [
+      "rwd_causal"
+    ],
+    "method": "ai_general"
+  },
+  "38224340": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "none"
+  },
+  "40111287": {
+    "domains": [
+      "rwd_causal",
+      "pro_preferences",
+      "governance_reporting"
+    ],
+    "method": "generative_llm"
+  },
+  "37219305": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "deep_learning"
+  },
+  "40467739": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "generative_llm"
+  },
+  "34414348": {
+    "domains": [
+      "economic_evaluation",
+      "rwd_causal"
+    ],
+    "method": "classical_ml"
+  },
+  "33737800": {
+    "domains": [
+      "outcome_prediction"
+    ],
+    "method": "none"
+  },
+  "34313748": {
+    "domains": [
+      "rwd_causal"
+    ],
+    "method": "nlp"
+  },
+  "40885063": {
+    "domains": [
+      "economic_evaluation",
+      "rwd_causal"
+    ],
+    "method": "classical_ml"
+  },
+  "39137319": {
+    "domains": [],
+    "method": "deep_learning"
+  },
+  "40120178": {
+    "domains": [
+      "economic_evaluation",
+      "governance_reporting"
+    ],
+    "method": "deep_learning"
+  },
+  "24750989": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "none"
+  },
+  "40878040": {
+    "domains": [
+      "economic_evaluation",
+      "decision_modeling",
+      "rwd_causal",
+      "outcome_prediction"
+    ],
+    "method": "none"
+  },
+  "29650709": {
+    "domains": [
+      "outcome_prediction"
+    ],
+    "method": "classical_ml"
+  },
+  "41453809": {
+    "domains": [
+      "rwd_causal",
+      "outcome_prediction"
+    ],
+    "method": "none"
+  },
+  "38253163": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "none"
+  },
+  "31710842": {
+    "domains": [
+      "rwd_causal"
+    ],
+    "method": "deep_learning"
+  },
+  "28545640": {
+    "domains": [
+      "economic_evaluation",
+      "outcome_prediction"
+    ],
+    "method": "ai_general"
+  },
+  "28327593": {
+    "domains": [
+      "economic_evaluation",
+      "rwd_causal"
+    ],
+    "method": "nlp"
+  },
+  "40548850": {
+    "domains": [
+      "economic_evaluation",
+      "rwd_causal",
+      "outcome_prediction",
+      "governance_reporting"
+    ],
+    "method": "deep_learning"
+  },
+  "40085750": {
+    "domains": [],
+    "method": "none"
+  },
+  "40656524": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "classical_ml"
+  },
+  "40871773": {
+    "domains": [
+      "rwd_causal",
+      "governance_reporting"
+    ],
+    "method": "deep_learning"
+  },
+  "23063085": {
+    "domains": [],
+    "method": "none"
+  },
+  "38073925": {
+    "domains": [
+      "governance_reporting"
+    ],
+    "method": "ai_general"
+  },
+  "36228127": {
+    "domains": [
+      "rwd_causal"
+    ],
+    "method": "ai_general"
+  },
+  "40924526": {
+    "domains": [
+      "economic_evaluation",
+      "outcome_prediction",
+      "governance_reporting"
+    ],
+    "method": "classical_ml"
+  },
+  "39455942": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "deep_learning"
+  },
+  "40739549": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "classical_ml"
+  },
+  "23920746": {
+    "domains": [
+      "governance_reporting"
+    ],
+    "method": "none"
+  },
+  "27146242": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "deep_learning"
+  },
+  "33486527": {
+    "domains": [
+      "rwd_causal",
+      "outcome_prediction"
+    ],
+    "method": "deep_learning"
+  },
+  "41717319": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "generative_llm"
+  },
+  "40809213": {
+    "domains": [
+      "economic_evaluation",
+      "governance_reporting"
+    ],
+    "method": "ai_general"
+  },
+  "37755648": {
+    "domains": [
+      "rwd_causal",
+      "pro_preferences"
+    ],
+    "method": "classical_ml"
+  },
+  "37190122": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "ai_general"
+  },
+  "40855707": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "none"
+  },
+  "41415651": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "ai_general"
+  },
+  "39943279": {
+    "domains": [
+      "economic_evaluation"
+    ],
+    "method": "deep_learning"
+  }
+}

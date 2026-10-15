@@ -1,0 +1,6 @@
+{
+  "primary_query": "((\"artificial intelligence\"[tiab] OR \"machine learning\"[tiab] OR \"deep learning\"[tiab] OR \"neural network\"[tiab] OR \"neural networks\"[tiab] OR \"large language model\"[tiab] OR \"large language models\"[tiab] OR \"natural language processing\"[tiab] OR \"generative AI\"[tiab] OR \"Artificial Intelligence\"[Mesh]) AND (\"health economics\"[tiab] OR \"outcomes research\"[tiab] OR \"pharmacoeconomics\"[tiab] OR \"cost-effectiveness\"[tiab] OR \"cost effectiveness\"[tiab] OR \"cost-utility\"[tiab] OR \"budget impact\"[tiab] OR \"health technology assessment\"[tiab] OR \"economic evaluation\"[tiab] OR \"quality-adjusted life\"[tiab] OR \"real-world evidence\"[tiab] OR \"real world evidence\"[tiab] OR \"Cost-Benefit Analysis\"[Mesh] OR \"Economics, Pharmaceutical\"[Mesh] OR \"Technology Assessment, Biomedical\"[Mesh])) AND 2010:2025[dp]",
+  "esearch_count": 2656,
+  "records_written": 2642,
+  "retrieved_utc": "2026-09-09T14:01:30+00:00"
+}

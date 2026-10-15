@@ -1,0 +1,16 @@
+{
+  "records_identified": 2642,
+  "duplicates_removed": 14,
+  "records_screened": 2628,
+  "records_excluded": 152,
+  "exclusion_reasons": {
+    "outside publication window 2010-2025": 4,
+    "excluded publication type (Editorial)": 19,
+    "not published in English": 38,
+    "excluded publication type (Preprint)": 10,
+    "no abstract available for classification": 70,
+    "excluded publication type (Letter)": 7,
+    "excluded publication type (Retracted Publication)": 4
+  },
+  "records_included": 2476
+}
